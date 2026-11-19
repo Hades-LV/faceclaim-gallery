@@ -1,5 +1,48 @@
 {
-  "categories": {},
+  "categories": {
+    "hair color": [
+      "brunette",
+      "blonde",
+      "redhead",
+      "dyed"
+    ],
+    "Eye color": [
+      "brown",
+      "blue",
+      "green",
+      "other"
+    ],
+    "Age": [
+      "teen",
+      "college",
+      "adult",
+      "mature"
+    ],
+    "Ethnicity": [
+      "black",
+      "white",
+      "asian",
+      "Middle Eastern/Indian",
+      "hispanic"
+    ],
+    "Image Availability": [
+      "SFW Only",
+      "Nudes",
+      "Porn"
+    ],
+    "appearance": [
+      "bimbo",
+      "petite",
+      "muscular",
+      "tall",
+      "chubby",
+      "alternative"
+    ],
+    "Favourites": [
+      "Uga's Favourites",
+      "Sarah's Favourites"
+    ]
+  },
   "entries": [
     {
       "id": "1249979811997290546",
@@ -20,7 +63,23 @@
       "name": "Lauren Summer",
       "image": "images/1163321171589206057.png",
       "url": "https://discord.com/channels/1155599788646076549/1163321171589206057",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1241545136316481628",
@@ -34,7 +93,32 @@
       "name": "Riley Reid",
       "image": "images/1172996435583696996.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1172996435583696996",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1246007117534597142",
@@ -377,7 +461,24 @@
       "name": "Sabrina Carpenter",
       "image": "images/1155751915712413729.png",
       "url": "https://discord.com/channels/1155599788646076549/1155751915712413729",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1246179495006961795",
@@ -713,42 +814,168 @@
       "name": "Andrea Botez",
       "image": "images/1155999296278241330.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1155999296278241330",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156690697806680125",
       "name": "Amanda Seyfried",
       "image": "images/1156690697806680125.png",
       "url": "https://discord.com/channels/1155599788646076549/1156690697806680125",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1211489917449015307",
       "name": "Alison Brie",
       "image": "images/1211489917449015307.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211489917449015307",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229235747395993663",
       "name": "Melissa Benoist",
       "image": "images/1229235747395993663.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229235747395993663",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1229240855420997752",
       "name": "Emma Stone",
       "image": "images/1229240855420997752.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229240855420997752",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229247100655505419",
       "name": "Anna Kendrick",
       "image": "images/1229247100655505419.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229247100655505419",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1241542009160859669",
@@ -762,126 +989,512 @@
       "name": "Katherine Mcnamara",
       "image": "images/1229266926920798238.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229266926920798238",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1155754818112081940",
       "name": "Marie Avgeropoulos",
       "image": "images/1155754818112081940.png",
       "url": "https://discord.com/channels/1155599788646076549/1155754818112081940",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1155929266492547133",
       "name": "Barbara Palvin",
       "image": "images/1155929266492547133.png",
       "url": "https://discord.com/channels/1155599788646076549/1155929266492547133",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde",
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156006685425541160",
       "name": "Alexandra Botez",
       "image": "images/1156006685425541160.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1156006685425541160",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156087035044577330",
       "name": "Florence Pugh",
       "image": "images/1156087035044577330.webp",
       "url": "https://discord.com/channels/1155599788646076549/1156087035044577330",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1156384941475627018",
       "name": "Karen Fukuhara",
       "image": "images/1156384941475627018.png",
       "url": "https://discord.com/channels/1155599788646076549/1156384941475627018",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1156393387289751614",
       "name": "Summer Bishil",
       "image": "images/1156393387289751614.png",
       "url": "https://discord.com/channels/1155599788646076549/1156393387289751614",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic",
+          "Middle Eastern/Indian"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156671278699262073",
       "name": "Sarah Kennedy Parker",
       "image": "images/1156671278699262073.png",
       "url": "https://discord.com/channels/1155599788646076549/1156671278699262073",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white",
+          "black"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1156672595412918393",
       "name": "Sarah Shahi",
       "image": "images/1156672595412918393.png",
       "url": "https://discord.com/channels/1155599788646076549/1156672595412918393",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "Middle Eastern/Indian"
+        ],
+        "Age": [
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156675524773543956",
       "name": "Alinity",
       "image": "images/1156675524773543956.png",
       "url": "https://discord.com/channels/1155599788646076549/1156675524773543956",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1157142038861590611",
       "name": "Sasha Grey",
       "image": "images/1157142038861590611.png",
       "url": "https://discord.com/channels/1155599788646076549/1157142038861590611",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1163316845428879420",
       "name": "Jessica Rothe",
       "image": "images/1163316845428879420.png",
       "url": "https://discord.com/channels/1155599788646076549/1163316845428879420",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1164034359905497159",
       "name": "Christy Ren",
       "image": "images/1164034359905497159.png",
       "url": "https://discord.com/channels/1155599788646076549/1164034359905497159",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1164038301246816278",
       "name": "Aki Dearest",
       "image": "images/1164038301246816278.png",
       "url": "https://discord.com/channels/1155599788646076549/1164038301246816278",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "chubby"
+        ],
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164041836948619284",
       "name": "Becca Scott",
       "image": "images/1164041836948619284.png",
       "url": "https://discord.com/channels/1155599788646076549/1164041836948619284",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1173034522296725544",
       "name": "Anne Hathaway",
       "image": "images/1173034522296725544.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173034522296725544",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1211188716752740383",
       "name": "Saige Ryan",
       "image": "images/1211188716752740383.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211188716752740383",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead",
+          "dyed"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "alternative",
+          "petite"
+        ]
+      }
     },
     {
       "id": "1211500883385258095",
       "name": "Gillian Jacobs",
       "image": "images/1211500883385258095.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211500883385258095",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1241589007104606290",
@@ -979,1085 +1592,4182 @@
       "name": "Kaya Scodelario",
       "image": "images/1229310735771893791.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229310735771893791",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164335532046823434",
       "name": "MollyRedWolf",
       "image": "images/1164335532046823434.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164335532046823434",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229242300962701382",
       "name": "Stephi Lee",
       "image": "images/1229242300962701382.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229242300962701382",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "appearance": [
+          "petite",
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1229229921398689903",
       "name": "Alexandria Daddario",
       "image": "images/1229229921398689903.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229229921398689903",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1173011274087551137",
       "name": "Margaret Qualley",
       "image": "images/1173011274087551137.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173011274087551137",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1229309809187094558",
       "name": "Clara Pagaet",
       "image": "images/1229309809187094558.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229309809187094558",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite",
+          "tall"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1229308717636386836",
       "name": "Antonia Bernath",
       "image": "images/1229308717636386836.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229308717636386836",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1229268077989072936",
       "name": "Tamsin Egerton",
       "image": "images/1229268077989072936.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229268077989072936",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "bimbo"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1229266198588424313",
       "name": "Helga Lovekaty",
       "image": "images/1229266198588424313.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229266198588424313",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229263918342471760",
       "name": "Kat Dennings",
       "image": "images/1229263918342471760.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229263918342471760",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "chubby"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1229251483925610547",
       "name": "Jenna Ortega",
       "image": "images/1229251483925610547.webp",
       "url": "https://discord.com/channels/1155599788646076549/1229251483925610547",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite",
+          "alternative"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229250995142262926",
       "name": "Ava Elizabeth Phillippe",
       "image": "images/1229250995142262926.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229250995142262926",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite",
+          "tall"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229248999761121360",
       "name": "Taylor Momson",
       "image": "images/1229248999761121360.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229248999761121360",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1229242529946406994",
       "name": "Squidinkidink",
       "image": "images/1229242529946406994.webp",
       "url": "https://discord.com/channels/1155599788646076549/1229242529946406994",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite",
+          "tall"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1229240301206372495",
       "name": "Elizabeth Turner",
       "image": "images/1229240301206372495.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229240301206372495",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229238461249359973",
       "name": "Lili Reinhart",
       "image": "images/1229238461249359973.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229238461249359973",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229231703810375770",
       "name": "Annalise Basso",
       "image": "images/1229231703810375770.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229231703810375770",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1229230120829718549",
       "name": "Emma Watson",
       "image": "images/1229230120829718549.webp",
       "url": "https://discord.com/channels/1155599788646076549/1229230120829718549",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229224858496274492",
       "name": "Hailee Steinfield",
       "image": "images/1229224858496274492.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229224858496274492",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1229216257652424806",
       "name": "Maya Higa",
       "image": "images/1229216257652424806.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1229216257652424806",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white",
+          "asian"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156671897182933132",
       "name": "Dylan Conrique",
       "image": "images/1156671897182933132.png",
       "url": "https://discord.com/channels/1155599788646076549/1156671897182933132",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1156681110579855360",
       "name": "Lissa Vannata",
       "image": "images/1156681110579855360.png",
       "url": "https://discord.com/channels/1155599788646076549/1156681110579855360",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164471075996962927",
       "name": "Paola Hard",
       "image": "images/1164471075996962927.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164471075996962927",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1156670345282060399",
       "name": "Melissa O'neil",
       "image": "images/1156670345282060399.png",
       "url": "https://discord.com/channels/1155599788646076549/1156670345282060399",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1211413039161679883",
       "name": "Brianna Torres",
       "image": "images/1211413039161679883.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211413039161679883",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "muscular"
+        ]
+      }
     },
     {
       "id": "1211949317879762954",
       "name": "Valentina Nappi",
       "image": "images/1211949317879762954.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211949317879762954",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1211945730403737640",
       "name": "Elsa Jean",
       "image": "images/1211945730403737640.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211945730403737640",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1211942559723560970",
       "name": "Alena Kosha",
       "image": "images/1211942559723560970.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211942559723560970",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1211912929809666128",
       "name": "Mila Azul",
       "image": "images/1211912929809666128.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211912929809666128",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1211903406877450381",
       "name": "Milla Royce",
       "image": "images/1211903406877450381.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211903406877450381",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1211579722534883369",
       "name": "Faith Liannee",
       "image": "images/1211579722534883369.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211579722534883369",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1211575021915603015",
       "name": "Vanessa Reinhardt",
       "image": "images/1211575021915603015.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211575021915603015",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue",
+          "other"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1211519968135352360",
       "name": "Lorelei Lee",
       "image": "images/1211519968135352360.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211519968135352360",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1211504059660369921",
       "name": "Emily Blunt",
       "image": "images/1211504059660369921.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211504059660369921",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1211419881191243876",
       "name": "Ginebra Bellucci",
       "image": "images/1211419881191243876.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211419881191243876",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1211417284359491624",
       "name": "Lola Fae",
       "image": "images/1211417284359491624.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211417284359491624",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1211246812774535188",
       "name": "Lea Martinez",
       "image": "images/1211246812774535188.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211246812774535188",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1211245504608866360",
       "name": "Luxlo",
       "image": "images/1211245504608866360.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211245504608866360",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead",
+          "dyed"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1211234477544574976",
       "name": "Katie Fey",
       "image": "images/1211234477544574976.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211234477544574976",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1211219797338226688",
       "name": "Mia Khalifa",
       "image": "images/1211219797338226688.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211219797338226688",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "Middle Eastern/Indian"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1211169121795051531",
       "name": "Hayden Panettiere",
       "image": "images/1211169121795051531.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1211169121795051531",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1173017709311696916",
       "name": "Jia Lissa",
       "image": "images/1173017709311696916.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173017709311696916",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1173400259951595650",
       "name": "Chloe Grace Moretz",
       "image": "images/1173400259951595650.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173400259951595650",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1173007572501004328",
       "name": "Nina Dobrev",
       "image": "images/1173007572501004328.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173007572501004328",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1173418975623925850",
       "name": "Courtney Miller",
       "image": "images/1173418975623925850.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173418975623925850",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1173411828181778512",
       "name": "Lily Bell",
       "image": "images/1173411828181778512.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173411828181778512",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1173393932403609651",
       "name": "Freya Mayer",
       "image": "images/1173393932403609651.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173393932403609651",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1173350074407997500",
       "name": "Carey Mulligan",
       "image": "images/1173350074407997500.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173350074407997500",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1173358890914693211",
       "name": "Molly Little",
       "image": "images/1173358890914693211.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173358890914693211",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1173352114236444722",
       "name": "Elizabeth Debicki",
       "image": "images/1173352114236444722.png",
       "url": "https://discord.com/channels/1155599788646076549/1173352114236444722",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ],
+        "appearance": [
+          "tall"
+        ]
+      }
     },
     {
       "id": "1173334800027881502",
       "name": "Aria Banks",
       "image": "images/1173334800027881502.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173334800027881502",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1173329892251799582",
       "name": "Jessica Ly/AsianBunnyX",
       "image": "images/1173329892251799582.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173329892251799582",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1173322313823948810",
       "name": "Bobbi Starr",
       "image": "images/1173322313823948810.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173322313823948810",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1173317624688558130",
       "name": "Katiana Kay",
       "image": "images/1173317624688558130.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173317624688558130",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "appearance": [
+          "bimbo"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1173169728097886268",
       "name": "Keira Knightley",
       "image": "images/1173169728097886268.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173169728097886268",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1173172822349197313",
       "name": "Allie Haze",
       "image": "images/1173172822349197313.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173172822349197313",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1173082318391496795",
       "name": "Natalie Portman",
       "image": "images/1173082318391496795.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173082318391496795",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1173048263016976414",
       "name": "Nata Lee",
       "image": "images/1173048263016976414.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173048263016976414",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1173025765969891448",
       "name": "Krystal Boyd",
       "image": "images/1173025765969891448.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173025765969891448",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1173014360512286821",
       "name": "Scarlett Chase",
       "image": "images/1173014360512286821.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173014360512286821",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1173009591789957141",
       "name": "Jord627",
       "image": "images/1173009591789957141.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173009591789957141",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1173008108491132999",
       "name": "Krysten Ritter",
       "image": "images/1173008108491132999.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173008108491132999",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1173003052760973342",
       "name": "Hayley Williams",
       "image": "images/1173003052760973342.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1173003052760973342",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "dyed",
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ],
+        "appearance": [
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1164040528715849791",
       "name": "Olivia Wilde",
       "image": "images/1164040528715849791.png",
       "url": "https://discord.com/channels/1155599788646076549/1164040528715849791",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1155918778287263897",
       "name": "Cherry Crush",
       "image": "images/1155918778287263897.png",
       "url": "https://discord.com/channels/1155599788646076549/1155918778287263897",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde",
+          "dyed"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1164457675384438784",
       "name": "Jayden Cole",
       "image": "images/1164457675384438784.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164457675384438784",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1164451332124590130",
       "name": "Little Caprice",
       "image": "images/1164451332124590130.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164451332124590130",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1164449594688679987",
       "name": "Corianna Kopf",
       "image": "images/1164449594688679987.png",
       "url": "https://discord.com/channels/1155599788646076549/1164449594688679987",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue",
+          "other"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "appearance": [
+          "bimbo"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1164392268145377331",
       "name": "Emily Willis",
       "image": "images/1164392268145377331.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164392268145377331",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1164382229275889666",
       "name": "Mia Malkova",
       "image": "images/1164382229275889666.png",
       "url": "https://discord.com/channels/1155599788646076549/1164382229275889666",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "appearance": [
+          "bimbo"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1164366842823970837",
       "name": "Gabby Carter",
       "image": "images/1164366842823970837.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164366842823970837",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1164361535313948792",
       "name": "Skyler Simpson",
       "image": "images/1164361535313948792.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164361535313948792",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "appearance": [
+          "bimbo"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164337271818952734",
       "name": "Indigo White",
       "image": "images/1164337271818952734.png",
       "url": "https://discord.com/channels/1155599788646076549/1164337271818952734",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1164339089747746846",
       "name": "Emalynde",
       "image": "images/1164339089747746846.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164339089747746846",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "dyed"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1164344748706893954",
       "name": "Kathryn Newton",
       "image": "images/1164344748706893954.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164344748706893954",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164352676717408359",
       "name": "Sam Slayre",
       "image": "images/1164352676717408359.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164352676717408359",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ]
+      }
     },
     {
       "id": "1164336434614902865",
       "name": "Mapledivine",
       "image": "images/1164336434614902865.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1164336434614902865",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "chubby"
+        ]
+      }
     },
     {
       "id": "1164043721168404530",
       "name": "Blake Blossom",
       "image": "images/1164043721168404530.png",
       "url": "https://discord.com/channels/1155599788646076549/1164043721168404530",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1164043333388214293",
       "name": "Taylor Machat",
       "image": "images/1164043333388214293.png",
       "url": "https://discord.com/channels/1155599788646076549/1164043333388214293",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164042872849432596",
       "name": "Leah Gotti",
       "image": "images/1164042872849432596.png",
       "url": "https://discord.com/channels/1155599788646076549/1164042872849432596",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1164042541935628348",
       "name": "Susu_Jpg",
       "image": "images/1164042541935628348.png",
       "url": "https://discord.com/channels/1155599788646076549/1164042541935628348",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1164039209959563304",
       "name": "Olivia Casta",
       "image": "images/1164039209959563304.png",
       "url": "https://discord.com/channels/1155599788646076549/1164039209959563304",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1164037496133394463",
       "name": "Emeraude Toubia",
       "image": "images/1164037496133394463.png",
       "url": "https://discord.com/channels/1155599788646076549/1164037496133394463",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164035732852179026",
       "name": "Marie Temara",
       "image": "images/1164035732852179026.png",
       "url": "https://discord.com/channels/1155599788646076549/1164035732852179026",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "tall"
+        ],
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1164033074745593907",
       "name": "Bianca Stanciu",
       "image": "images/1164033074745593907.png",
       "url": "https://discord.com/channels/1155599788646076549/1164033074745593907",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "bimbo"
+        ],
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164032164288024596",
       "name": "Mikayla Demaiter",
       "image": "images/1164032164288024596.png",
       "url": "https://discord.com/channels/1155599788646076549/1164032164288024596",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "bimbo"
+        ],
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1164031179402526780",
       "name": "Effycutiexx",
       "image": "images/1164031179402526780.png",
       "url": "https://discord.com/channels/1155599788646076549/1164031179402526780",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1163564714584965130",
       "name": "Lauren Alexis",
       "image": "images/1163564714584965130.png",
       "url": "https://discord.com/channels/1155599788646076549/1163564714584965130",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1163567553390588025",
       "name": "SkylarXRae",
       "image": "images/1163567553390588025.png",
       "url": "https://discord.com/channels/1155599788646076549/1163567553390588025",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1163550764900286616",
       "name": "Daisy Drew",
       "image": "images/1163550764900286616.png",
       "url": "https://discord.com/channels/1155599788646076549/1163550764900286616",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1163470135064002612",
       "name": "Lisa Ter Host",
       "image": "images/1163470135064002612.png",
       "url": "https://discord.com/channels/1155599788646076549/1163470135064002612",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "bimbo"
+        ],
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1163467941535301762",
       "name": "NatalieXKing",
       "image": "images/1163467941535301762.png",
       "url": "https://discord.com/channels/1155599788646076549/1163467941535301762",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "petite"
+        ],
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1163466528818200736",
       "name": "Caitlin Christine",
       "image": "images/1163466528818200736.png",
       "url": "https://discord.com/channels/1155599788646076549/1163466528818200736",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ]
+      }
     },
     {
       "id": "1163323354137239552",
       "name": "Bonnie Rabbit",
       "image": "images/1163323354137239552.png",
       "url": "https://discord.com/channels/1155599788646076549/1163323354137239552",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "petite"
+        ],
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white",
+          "Middle Eastern/Indian"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ]
+      }
     },
     {
       "id": "1163322054066585691",
       "name": "Cecilia Rose",
       "image": "images/1163322054066585691.png",
       "url": "https://discord.com/channels/1155599788646076549/1163322054066585691",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1157836703449481246",
       "name": "Kyler Quinn",
       "image": "images/1157836703449481246.png",
       "url": "https://discord.com/channels/1155599788646076549/1157836703449481246",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1163320274020737117",
       "name": "Emma Myers",
       "image": "images/1163320274020737117.png",
       "url": "https://discord.com/channels/1155599788646076549/1163320274020737117",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "petite"
+        ],
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1163319082393800714",
       "name": "Emily Alyn Lind",
       "image": "images/1163319082393800714.png",
       "url": "https://discord.com/channels/1155599788646076549/1163319082393800714",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1163318029313130518",
       "name": "Samara Weaving",
       "image": "images/1163318029313130518.png",
       "url": "https://discord.com/channels/1155599788646076549/1163318029313130518",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1163314885480943648",
       "name": "SweetieFox",
       "image": "images/1163314885480943648.png",
       "url": "https://discord.com/channels/1155599788646076549/1163314885480943648",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1163311722262691840",
       "name": "QuarterJade",
       "image": "images/1163311722262691840.png",
       "url": "https://discord.com/channels/1155599788646076549/1163311722262691840",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "dyed",
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1162488485102485605",
       "name": "Miz Berlin",
       "image": "images/1162488485102485605.png",
       "url": "https://discord.com/channels/1155599788646076549/1162488485102485605",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "dyed",
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1157847831235797024",
       "name": "Sydeon",
       "image": "images/1157847831235797024.png",
       "url": "https://discord.com/channels/1155599788646076549/1157847831235797024",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "dyed",
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "black"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1157844392292397086",
       "name": "Sharon Dubois",
       "image": "images/1157844392292397086.png",
       "url": "https://discord.com/channels/1155599788646076549/1157844392292397086",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white",
+          "Middle Eastern/Indian"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1157840753419092010",
       "name": "Princess Donna Dolores",
       "image": "images/1157840753419092010.png",
       "url": "https://discord.com/channels/1155599788646076549/1157840753419092010",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1157839725558767746",
       "name": "Bella Rossi",
       "image": "images/1157839725558767746.png",
       "url": "https://discord.com/channels/1155599788646076549/1157839725558767746",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "chubby"
+        ],
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1157838340893188236",
       "name": "Adriana Chechik",
       "image": "images/1157838340893188236.png",
       "url": "https://discord.com/channels/1155599788646076549/1157838340893188236",
-      "tags": {}
+      "tags": {
+        "appearance": [
+          "bimbo"
+        ],
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1157834658134892578",
       "name": "Jessica Nigri",
       "image": "images/1157834658134892578.png",
       "url": "https://discord.com/channels/1155599788646076549/1157834658134892578",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "appearance": [
+          "bimbo"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ]
+      }
     },
     {
       "id": "1157135343867400222",
       "name": "Lilypichu",
       "image": "images/1157135343867400222.png",
       "url": "https://discord.com/channels/1155599788646076549/1157135343867400222",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette",
+          "dyed"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1157133821284724826",
       "name": "Valkyrae",
       "image": "images/1157133821284724826.png",
       "url": "https://discord.com/channels/1155599788646076549/1157133821284724826",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette",
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian",
+          "hispanic"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1157131482201075743",
       "name": "TinaKitten",
       "image": "images/1157131482201075743.png",
       "url": "https://discord.com/channels/1155599788646076549/1157131482201075743",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1157130578366316605",
       "name": "Emma Langevin",
       "image": "images/1157130578366316605.png",
       "url": "https://discord.com/channels/1155599788646076549/1157130578366316605",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "dyed"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ],
+        "appearance": [
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1156692885345935521",
       "name": "Grace Van Dien",
       "image": "images/1156692885345935521.png",
       "url": "https://discord.com/channels/1155599788646076549/1156692885345935521",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156691215996166287",
       "name": "Madison Iseman",
       "image": "images/1156691215996166287.png",
       "url": "https://discord.com/channels/1155599788646076549/1156691215996166287",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156685391328444532",
       "name": "Vanessa Kirby",
       "image": "images/1156685391328444532.png",
       "url": "https://discord.com/channels/1155599788646076549/1156685391328444532",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156684860707057775",
       "name": "Aly Michalka",
       "image": "images/1156684860707057775.png",
       "url": "https://discord.com/channels/1155599788646076549/1156684860707057775",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1156683324425785364",
       "name": "Belle Delphine",
       "image": "images/1156683324425785364.png",
       "url": "https://discord.com/channels/1155599788646076549/1156683324425785364",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette",
+          "dyed"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1156682169666785321",
       "name": "Amouranth",
       "image": "images/1156682169666785321.png",
       "url": "https://discord.com/channels/1155599788646076549/1156682169666785321",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead",
+          "dyed"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites",
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1156680311153897614",
       "name": "QTCinderella",
       "image": "images/1156680311153897614.png",
       "url": "https://discord.com/channels/1155599788646076549/1156680311153897614",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156679126342701097",
       "name": "Emiru",
       "image": "images/1156679126342701097.png",
       "url": "https://discord.com/channels/1155599788646076549/1156679126342701097",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette",
+          "dyed"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "asian"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites",
+          "Sarah's Favourites"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1156684282291556352",
       "name": "Rose McIver",
       "image": "images/1156684282291556352.png",
       "url": "https://discord.com/channels/1155599788646076549/1156684282291556352",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156674708553613332",
       "name": "Jodelle Ferland",
       "image": "images/1156674708553613332.png",
       "url": "https://discord.com/channels/1155599788646076549/1156674708553613332",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "dyed"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white",
+          "asian"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1156673501692973096",
       "name": "Candice Patton",
       "image": "images/1156673501692973096.png",
       "url": "https://discord.com/channels/1155599788646076549/1156673501692973096",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "black"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156395834162815058",
       "name": "Pixie Lott",
       "image": "images/1156395834162815058.png",
       "url": "https://discord.com/channels/1155599788646076549/1156395834162815058",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156668996045766777",
       "name": "Alyssa Diaz",
       "image": "images/1156668996045766777.png",
       "url": "https://discord.com/channels/1155599788646076549/1156668996045766777",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156404934393208906",
       "name": "Melissa Barrera",
       "image": "images/1156404934393208906.png",
       "url": "https://discord.com/channels/1155599788646076549/1156404934393208906",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156404158035922954",
       "name": "Janice Griffith",
       "image": "images/1156404158035922954.png",
       "url": "https://discord.com/channels/1155599788646076549/1156404158035922954",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white",
+          "Middle Eastern/Indian"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1156403765193220137",
       "name": "Halle Von",
       "image": "images/1156403765193220137.png",
       "url": "https://discord.com/channels/1155599788646076549/1156403765193220137",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1156400222025560174",
       "name": "Melody Marks",
       "image": "images/1156400222025560174.png",
       "url": "https://discord.com/channels/1155599788646076549/1156400222025560174",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1156397308200616046",
       "name": "Zara Brooks",
       "image": "images/1156397308200616046.png",
       "url": "https://discord.com/channels/1155599788646076549/1156397308200616046",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1156814941148426250",
       "name": "Eva Elfie",
       "image": "images/1156814941148426250.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1156814941148426250",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1156396798064218122",
       "name": "Hannah Hawthorne",
       "image": "images/1156396798064218122.png",
       "url": "https://discord.com/channels/1155599788646076549/1156396798064218122",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "Porn"
+        ]
+      }
     },
     {
       "id": "1156391967605927996",
       "name": "Olivia Taylor Dudley",
       "image": "images/1156391967605927996.png",
       "url": "https://discord.com/channels/1155599788646076549/1156391967605927996",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1156388707708977252",
       "name": "Alina Kovalenko",
       "image": "images/1156388707708977252.png",
       "url": "https://discord.com/channels/1155599788646076549/1156388707708977252",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1156376260948271244",
       "name": "Britt Robertson",
       "image": "images/1156376260948271244.png",
       "url": "https://discord.com/channels/1155599788646076549/1156376260948271244",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156374186189660260",
       "name": "Ksenia Solo",
       "image": "images/1156374186189660260.png",
       "url": "https://discord.com/channels/1155599788646076549/1156374186189660260",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1156375388277186631",
       "name": "Mary Louise Parker",
       "image": "images/1156375388277186631.png",
       "url": "https://discord.com/channels/1155599788646076549/1156375388277186631",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "Nudes"
+        ]
+      }
     },
     {
       "id": "1155943852532834485",
       "name": "Abigail Cowen",
       "image": "images/1155943852532834485.png",
       "url": "https://discord.com/channels/1155599788646076549/1155943852532834485",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "redhead"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     },
     {
       "id": "1156084793176506479",
       "name": "Elizabeth Gillies",
       "image": "images/1156084793176506479.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1156084793176506479",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155942499500691476",
       "name": "Bridgit Mendler",
       "image": "images/1155942499500691476.png",
       "url": "https://discord.com/channels/1155599788646076549/1155942499500691476",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1155939884196958368",
       "name": "Danielle Rose Russell",
       "image": "images/1155939884196958368.png",
       "url": "https://discord.com/channels/1155599788646076549/1155939884196958368",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155939118363189448",
       "name": "Dakota Fanning",
       "image": "images/1155939118363189448.png",
       "url": "https://discord.com/channels/1155599788646076549/1155939118363189448",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155936267184378020",
       "name": "Elle Fanning",
       "image": "images/1155936267184378020.png",
       "url": "https://discord.com/channels/1155599788646076549/1155936267184378020",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155934540993413243",
       "name": "Odeya Rush",
       "image": "images/1155934540993413243.png",
       "url": "https://discord.com/channels/1155599788646076549/1155934540993413243",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155940670935154688",
       "name": "Kaylee Bryant",
       "image": "images/1155940670935154688.png",
       "url": "https://discord.com/channels/1155599788646076549/1155940670935154688",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "petite"
+        ]
+      }
     },
     {
       "id": "1155934140533833788",
       "name": "Victoria Justice",
       "image": "images/1155934140533833788.png",
       "url": "https://discord.com/channels/1155599788646076549/1155934140533833788",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155933582041301135",
       "name": "Keeley Hawes",
       "image": "images/1155933582041301135.png",
       "url": "https://discord.com/channels/1155599788646076549/1155933582041301135",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult",
+          "mature"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155927958075228261",
       "name": "Viola Bailey",
       "image": "images/1155927958075228261.png",
       "url": "https://discord.com/channels/1155599788646076549/1155927958075228261",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "Porn"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1155925050529161396",
       "name": "Lindsey Morgan",
       "image": "images/1155925050529161396.png",
       "url": "https://discord.com/channels/1155599788646076549/1155925050529161396",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Uga's Favourites"
+        ]
+      }
     },
     {
       "id": "1155755460092239942",
       "name": "Sophie Thatcher",
       "image": "images/1155755460092239942.png",
       "url": "https://discord.com/channels/1155599788646076549/1155755460092239942",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "green"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "teen",
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "alternative"
+        ]
+      }
     },
     {
       "id": "1155753535829459005",
       "name": "Natalie Alyn Lind",
       "image": "images/1155753535829459005.png",
       "url": "https://discord.com/channels/1155599788646076549/1155753535829459005",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "appearance": [
+          "bimbo"
+        ]
+      }
     },
     {
       "id": "1155752668027961365",
       "name": "Eliza Taylor",
       "image": "images/1155752668027961365.png",
       "url": "https://discord.com/channels/1155599788646076549/1155752668027961365",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "blonde"
+        ],
+        "Eye color": [
+          "blue"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155965905080172645",
       "name": "Grace Currey",
       "image": "images/1155965905080172645.png",
       "url": "https://discord.com/channels/1155599788646076549/1155965905080172645",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white"
+        ],
+        "Age": [
+          "college"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155650133598421022",
       "name": "Naomi Scott",
       "image": "images/1155650133598421022.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1155650133598421022",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "white",
+          "Middle Eastern/Indian"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ]
+      }
     },
     {
       "id": "1155645835753832559",
       "name": "Carmella Zumbado",
       "image": "images/1155645835753832559.jpg",
       "url": "https://discord.com/channels/1155599788646076549/1155645835753832559",
-      "tags": {}
+      "tags": {
+        "hair color": [
+          "brunette"
+        ],
+        "Eye color": [
+          "brown"
+        ],
+        "Ethnicity": [
+          "hispanic"
+        ],
+        "Age": [
+          "college",
+          "adult"
+        ],
+        "Image Availability": [
+          "SFW Only"
+        ],
+        "Favourites": [
+          "Sarah's Favourites"
+        ]
+      }
     }
   ]
 }
