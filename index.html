@@ -252,7 +252,7 @@
         card.className = 'card';
 
         // Convert https://discord.com/... into discord://discord.com/... so it opens the desktop app
-        const desktopUrl = entry.url.replace(/^https?:\/\/(ptb\.|canary\.)?discord\.com/, 'discord://discord.com');
+        const desktopUrl = entry.url.replace(/^https?:\/\/(ptb\.|canary\.)?discord\.com/, 'discord://-');
 
         let allTagsHtml = '';
         if (entry.tags) {
