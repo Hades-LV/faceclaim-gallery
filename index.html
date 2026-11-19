@@ -77,10 +77,18 @@
     .hide-card-tags .card-tags { display: none; }
     .mini-tag { font-size: 10px; background: #2b2b36; padding: 2px 6px; border-radius: 4px; color: var(--muted); }
     .toolbar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; gap: 10px; flex-wrap: wrap; }
+    .toolbar-actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
     .display-bar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; background: var(--card); border: 1px solid var(--border); padding: 10px 14px; border-radius: 8px; margin-bottom: 20px; font-size: 13px; }
     .display-control { display: flex; align-items: center; gap: 6px; color: var(--muted); }
     .edit-panel { background: #252530; padding: 12px; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--accent); }
     .hidden { display: none; }
+
+    /* Mobile-only elements hidden on desktop */
+    .mobile-only { display: none; }
+    .drawer-backdrop { display: none; }
+    .drawer-header { display: none; }
+    .mobile-search-wrap { display: none; }
+    .mobile-display-toggle { display: none; }
 
     /* Floating Cursor Hover Preview */
     #hoverPreview {
@@ -102,12 +110,269 @@
       height: auto;
       border-radius: 6px;
     }
+
+    /* =========================================================
+       MOBILE INTERFACE (<= 768px) — PC layout above is untouched
+       ========================================================= */
+    @media (max-width: 768px) {
+      body {
+        display: block;
+        min-height: 100dvh;
+        overflow-x: hidden;
+      }
+
+      body.drawer-open {
+        overflow: hidden;
+      }
+
+      .mobile-only {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+      }
+
+      .drawer-backdrop {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.65);
+        z-index: 1050;
+      }
+
+      .drawer-backdrop.open {
+        display: block;
+      }
+
+      /* Slide-over Filters Drawer */
+      aside {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: min(86vw, 330px);
+        max-width: 100%;
+        z-index: 1100;
+        border-right: 1px solid var(--border);
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        transform: translateX(-100%);
+        transition: transform 0.22s ease;
+        padding: 16px;
+      }
+
+      aside.open {
+        transform: translateX(0);
+      }
+
+      .drawer-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 14px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid var(--border);
+      }
+
+      .drawer-header h2 {
+        margin: 0;
+        font-size: 18px;
+      }
+
+      aside > h2 {
+        display: none;
+      }
+
+      .filter-badge {
+        background: var(--accent);
+        color: #fff;
+        font-size: 11px;
+        font-weight: 700;
+        padding: 1px 6px;
+        border-radius: 999px;
+      }
+
+      .tag-chip {
+        padding: 7px 12px;
+        margin: 4px 4px 4px 0;
+        font-size: 13px;
+      }
+
+      main {
+        padding: 12px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .toolbar {
+        position: sticky;
+        top: 0;
+        z-index: 900;
+        background: rgba(18, 18, 22, 0.95);
+        backdrop-filter: blur(8px);
+        padding: 8px 4px;
+        margin: -4px -4px 10px -4px;
+        border-bottom: 1px solid var(--border);
+        gap: 8px;
+      }
+
+      .toolbar h1 {
+        font-size: 18px !important;
+        line-height: 1.2;
+      }
+
+      .toolbar h1 span {
+        font-size: 13px !important;
+      }
+
+      .toolbar-actions {
+        gap: 6px;
+      }
+
+      .toolbar button {
+        padding: 7px 10px;
+        font-size: 12px;
+      }
+
+      /* Dedicated mobile search bar right under header */
+      .mobile-search-wrap {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+
+      .mobile-search-wrap input[type="text"] {
+        margin-bottom: 0;
+        font-size: 15px; /* prevents iOS Safari zoom on focus */
+        padding: 9px 12px;
+      }
+
+      .mobile-display-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        margin-bottom: 10px;
+        background: var(--card);
+        border: 1px solid var(--border);
+        color: var(--text);
+        padding: 9px 12px;
+        font-size: 13px;
+      }
+
+      /* Display bar collapsed by default on mobile; expands when toggled */
+      .display-bar {
+        display: none;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+        padding: 12px;
+        margin-bottom: 14px;
+      }
+
+      .display-bar.mobile-expanded {
+        display: grid;
+      }
+
+      .display-bar > span {
+        display: none;
+      }
+
+      .display-control {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 4px;
+        font-size: 12px;
+      }
+
+      .display-bar select {
+        width: 100%;
+        font-size: 14px;
+        padding: 7px 8px;
+        margin-bottom: 0;
+      }
+
+      .display-bar #toggleTagsBtn {
+        grid-column: 1 / -1;
+        width: 100%;
+        padding: 8px 10px;
+      }
+
+      .edit-panel {
+        font-size: 12px;
+        padding: 10px 12px;
+        margin-bottom: 12px;
+      }
+
+      /* Default to 2 columns on mobile for comfortable browsing */
+      .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        gap: 10px;
+      }
+
+      .grid.cols-1 {
+        grid-template-columns: minmax(0, 1fr) !important;
+      }
+
+      .grid.list-view {
+        display: flex !important;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .grid.list-view .card {
+        padding: 8px;
+        gap: 10px;
+      }
+
+      .grid.list-view .card > a:first-child {
+        width: 56px;
+      }
+
+      .grid.list-view .card img {
+        width: 56px;
+        height: 56px;
+      }
+
+      .card {
+        border-radius: 8px;
+      }
+
+      .card:hover {
+        transform: none;
+      }
+
+      .card-body {
+        padding: 8px;
+      }
+
+      .card-title {
+        font-size: 13px;
+        margin-bottom: 5px;
+      }
+
+      .mini-tag {
+        font-size: 10px;
+        padding: 2px 6px;
+      }
+
+      #hoverPreview {
+        display: none !important;
+      }
+    }
   </style>
 </head>
 <body>
-  <aside>
+  <div id="drawerBackdrop" class="drawer-backdrop" onclick="closeMobileDrawer()"></div>
+
+  <aside id="filterDrawer">
+    <div class="drawer-header">
+      <h2>Filters</h2>
+      <button type="button" class="secondary" onclick="closeMobileDrawer()">Done</button>
+    </div>
+
     <h2>Filters</h2>
-    <input type="text" id="searchInput" placeholder="Search by name..." oninput="renderGallery()" />
+    <input type="text" id="searchInput" placeholder="Search by name..." oninput="syncSearch('desktop'); renderGallery();" />
     <button class="secondary" style="width:100%; margin-bottom:16px;" onclick="clearFilters()">Clear All Filters</button>
     <div id="filterContainer"></div>
 
@@ -125,13 +390,26 @@
   <main>
     <div class="toolbar">
       <h1 style="margin:0;">Faceclaim Gallery <span id="countBadge" style="font-size:16px; color:var(--muted);"></span></h1>
-      <div>
+      <div class="toolbar-actions">
+        <button type="button" class="secondary mobile-only" onclick="openMobileDrawer()">
+          Filters <span id="mobileFilterBadge" class="filter-badge hidden">0</span>
+        </button>
         <button class="secondary" id="editToggleBtn" onclick="toggleEditMode()">Enable Tag Edit Mode</button>
         <button id="exportBtn" class="hidden" onclick="exportData()">Download Updated data.json</button>
       </div>
     </div>
 
-    <div class="display-bar">
+    <div class="mobile-search-wrap">
+      <input type="text" id="mobileSearchInput" placeholder="Search by name..." oninput="syncSearch('mobile'); renderGallery();" />
+      <button type="button" class="secondary" id="clearSearchBtn" onclick="clearSearchOnly()" style="padding: 9px 11px;">Clear</button>
+    </div>
+
+    <button type="button" class="mobile-display-toggle" id="mobileDisplayToggleBtn" onclick="toggleMobileDisplayBar()">
+      <span>Display & Sort Options</span>
+      <span id="mobileDisplayArrow">▼</span>
+    </button>
+
+    <div class="display-bar" id="displayBar">
       <span style="font-weight:600; color:var(--text);">Display:</span>
 
       <label class="display-control">
@@ -192,19 +470,64 @@
     let activeFilters = {};
     let editMode = false;
     let showCardTags = true;
+    let mobileDisplayExpanded = false;
 
     const previewBox = document.getElementById('hoverPreview');
     const previewImg = document.getElementById('hoverPreviewImg');
+    const isTouchOrMobile = () => window.matchMedia('(max-width: 768px)').matches || ('ontouchstart' in window);
+
+    function openMobileDrawer() {
+      document.getElementById('filterDrawer').classList.add('open');
+      document.getElementById('drawerBackdrop').classList.add('open');
+      document.body.classList.add('drawer-open');
+    }
+
+    function closeMobileDrawer() {
+      document.getElementById('filterDrawer').classList.remove('open');
+      document.getElementById('drawerBackdrop').classList.remove('open');
+      document.body.classList.remove('drawer-open');
+    }
+
+    function toggleMobileDisplayBar() {
+      mobileDisplayExpanded = !mobileDisplayExpanded;
+      document.getElementById('displayBar').classList.toggle('mobile-expanded', mobileDisplayExpanded);
+      document.getElementById('mobileDisplayArrow').textContent = mobileDisplayExpanded ? '▲' : '▼';
+    }
+
+    function syncSearch(source) {
+      const desktopInput = document.getElementById('searchInput');
+      const mobileInput = document.getElementById('mobileSearchInput');
+      if (source === 'mobile') {
+        desktopInput.value = mobileInput.value;
+      } else {
+        mobileInput.value = desktopInput.value;
+      }
+    }
+
+    function clearSearchOnly() {
+      document.getElementById('searchInput').value = '';
+      document.getElementById('mobileSearchInput').value = '';
+      renderGallery();
+    }
+
+    function updateFilterBadge() {
+      const badge = document.getElementById('mobileFilterBadge');
+      if (!badge) return;
+      let count = 0;
+      Object.values(activeFilters).forEach(set => { count += set.size; });
+      badge.textContent = count;
+      badge.classList.toggle('hidden', count === 0);
+    }
 
     function showPreview(e, imgSrc) {
-      if (!imgSrc) return;
+      if (isTouchOrMobile() || !imgSrc) return;
       previewImg.src = imgSrc;
       previewBox.style.display = 'block';
       movePreview(e);
     }
 
     function movePreview(e) {
-      if (previewBox.style.display === 'none') return;
+      if (isTouchOrMobile() || previewBox.style.display === 'none') return;
       const offset = 20;
       const boxRect = previewBox.getBoundingClientRect();
       let left = e.clientX + offset;
@@ -276,6 +599,7 @@
       applyDisplaySettings();
       renderSidebar();
       renderGallery();
+      updateFilterBadge();
     }
 
     function toggleEditMode() {
@@ -301,6 +625,7 @@
       delete db.categories[cat];
       delete activeFilters[cat];
       db.entries.forEach(e => { if (e.tags) delete e.tags[cat]; });
+      updateFilterBadge();
       renderSidebar();
       renderGallery();
     }
@@ -322,6 +647,7 @@
       } else {
         activeFilters[cat].add(tag);
       }
+      updateFilterBadge();
       renderSidebar();
       renderGallery();
     }
@@ -329,6 +655,8 @@
     function clearFilters() {
       activeFilters = {};
       document.getElementById('searchInput').value = '';
+      document.getElementById('mobileSearchInput').value = '';
+      updateFilterBadge();
       renderSidebar();
       renderGallery();
     }
