@@ -1,0 +1,32 @@
+name: Sync Discord Forum
+
+on:
+  workflow_dispatch: # Creates the manual "Run workflow" button
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Discord sync script
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          FORUM_CHANNEL_ID: ${{ secrets.FORUM_CHANNEL_ID }}
+        run: python sync_discord.py
+
+      - name: Commit and push new faceclaims
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data.json images/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Sync new faceclaims" && git push)
