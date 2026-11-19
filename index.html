@@ -30,6 +30,27 @@
     .toolbar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; gap: 10px; flex-wrap: wrap; }
     .edit-panel { background: #252530; padding: 12px; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--accent); }
     .hidden { display: none; }
+
+    /* Floating Cursor Hover Preview */
+    #hoverPreview {
+      position: fixed;
+      pointer-events: none;
+      z-index: 9999;
+      display: none;
+      background: var(--card);
+      border: 2px solid var(--accent);
+      border-radius: 10px;
+      padding: 6px;
+      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.75);
+    }
+    #hoverPreview img {
+      display: block;
+      max-width: 420px;
+      max-height: 75vh;
+      width: auto;
+      height: auto;
+      border-radius: 6px;
+    }
   </style>
 </head>
 <body>
@@ -60,16 +81,55 @@
     </div>
 
     <div id="editBanner" class="edit-panel hidden">
-      <strong>Edit Mode Active:</strong> Create categories/tags in the left sidebar, and click <em>"+ Edit Tags"</em> on any character card below to assign them. When finished, click <strong>Download Updated data.json</strong> and upload it to your GitHub repo to save changes permanently!
+      <strong>Edit Mode Active:</strong> Create categories/tags in the left sidebar, and click tags directly on any character card below to assign them. When finished, click <strong>Download Updated data.json</strong> and upload it to your GitHub repo to save changes permanently!
     </div>
 
     <div class="grid" id="galleryGrid"></div>
   </main>
 
+  <!-- Floating Full-Size Preview Container -->
+  <div id="hoverPreview"><img id="hoverPreviewImg" src="" alt="Preview" /></div>
+
   <script>
     let db = { categories: {}, entries: [] };
-    let activeFilters = {}; // { categoryName: Set([tag1, tag2]) }
+    let activeFilters = {};
     let editMode = false;
+
+    const previewBox = document.getElementById('hoverPreview');
+    const previewImg = document.getElementById('hoverPreviewImg');
+
+    function showPreview(e, imgSrc) {
+      if (!imgSrc) return;
+      previewImg.src = imgSrc;
+      previewBox.style.display = 'block';
+      movePreview(e);
+    }
+
+    function movePreview(e) {
+      if (previewBox.style.display === 'none') return;
+      const offset = 20;
+      const boxRect = previewBox.getBoundingClientRect();
+      let left = e.clientX + offset;
+      let top = e.clientY + offset;
+
+      // Flip to the left of the cursor if it overflows the right edge of the window
+      if (left + boxRect.width > window.innerWidth - 10) {
+        left = e.clientX - boxRect.width - offset;
+      }
+      // Shift upward if it overflows the bottom edge of the window
+      if (top + boxRect.height > window.innerHeight - 10) {
+        top = window.innerHeight - boxRect.height - 10;
+      }
+      if (top < 10) top = 10;
+
+      previewBox.style.left = left + 'px';
+      previewBox.style.top = top + 'px';
+    }
+
+    function hidePreview() {
+      previewBox.style.display = 'none';
+      previewImg.src = '';
+    }
 
     async function init() {
       const res = await fetch('data.json?t=' + Date.now());
@@ -179,7 +239,6 @@
         if (query && !entry.name.toLowerCase().includes(query)) return false;
         for (const [cat, selectedTags] of Object.entries(activeFilters)) {
           const entryTags = (entry.tags && entry.tags[cat]) || [];
-          // Matches if entry has at least one of the selected tags in this category
           const hasMatch = [...selectedTags].some(t => entryTags.includes(t));
           if (!hasMatch) return false;
         }
@@ -191,6 +250,9 @@
       filtered.forEach(entry => {
         const card = document.createElement('div');
         card.className = 'card';
+
+        // Convert https://discord.com/... into discord://discord.com/... so it opens the desktop app
+        const desktopUrl = entry.url.replace(/^https?:\/\/(ptb\.|canary\.)?discord\.com/, 'discord://discord.com');
 
         let allTagsHtml = '';
         if (entry.tags) {
@@ -213,15 +275,25 @@
         }
 
         card.innerHTML = `
-          <a href="${entry.url}" target="_blank" rel="noopener">
+          <a href="${desktopUrl}" class="preview-trigger">
             <img src="${entry.image || ''}" alt="${entry.name}" onerror="this.src='https://placehold.co/300x300/1e1e26/9a9aa8?text=No+Image'" />
           </a>
           <div class="card-body">
-            <a href="${entry.url}" target="_blank" rel="noopener"><div class="card-title">${entry.name}</div></a>
+            <a href="${desktopUrl}" class="preview-trigger"><div class="card-title">${entry.name}</div></a>
             <div class="card-tags">${allTagsHtml}</div>
             ${editControls}
           </div>
         `;
+
+        // Attach hover preview listeners to the image and title link
+        if (entry.image) {
+          card.querySelectorAll('.preview-trigger').forEach(el => {
+            el.addEventListener('mouseenter', (e) => showPreview(e, entry.image));
+            el.addEventListener('mousemove', movePreview);
+            el.addEventListener('mouseleave', hidePreview);
+          });
+        }
+
         grid.appendChild(card);
       });
     }
