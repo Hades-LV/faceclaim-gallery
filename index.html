@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Faceclaim Gallery</title>
+  <style>
+    :root { --bg: #121216; --card: #1e1e26; --accent: #5865F2; --text: #f0f0f5; --muted: #9a9aa8; --border: #2e2e3a; }
+    body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; display: flex; min-height: 100vh; }
+    aside { width: 280px; background: var(--card); border-right: 1px solid var(--border); padding: 20px; flex-shrink: 0; box-sizing: border-box; }
+    main { flex: 1; padding: 24px; }
+    h1, h2, h3 { margin-top: 0; }
+    input[type="text"], select { width: 100%; padding: 8px 10px; background: var(--bg); border: 1px solid var(--border); color: var(--text); border-radius: 6px; margin-bottom: 12px; box-sizing: border-box; }
+    button { background: var(--accent); color: white; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; }
+    button.secondary { background: #2e2e3a; }
+    button.danger { background: #d83c3e; padding: 4px 8px; font-size: 11px; }
+    .cat-block { margin-bottom: 18px; border-bottom: 1px solid var(--border); padding-bottom: 12px; }
+    .cat-title { font-weight: 700; font-size: 14px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; }
+    .tag-chip { display: inline-block; padding: 4px 10px; margin: 3px; border-radius: 20px; font-size: 12px; background: var(--bg); border: 1px solid var(--border); cursor: pointer; user-select: none; }
+    .tag-chip.active { background: var(--accent); border-color: var(--accent); color: white; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 18px; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; transition: transform 0.15s; display: flex; flex-direction: column; }
+    .card:hover { transform: translateY(-3px); border-color: var(--accent); }
+    .card a { text-decoration: none; color: inherit; display: block; }
+    .card img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; background: #000; display: block; }
+    .card-body { padding: 10px; }
+    .card-title { font-weight: 600; font-size: 15px; margin-bottom: 6px; }
+    .card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
+    .mini-tag { font-size: 10px; background: #2b2b36; padding: 2px 6px; border-radius: 4px; color: var(--muted); }
+    .toolbar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; gap: 10px; flex-wrap: wrap; }
+    .edit-panel { background: #252530; padding: 12px; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--accent); }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <aside>
+    <h2>Filters</h2>
+    <input type="text" id="searchInput" placeholder="Search by name..." oninput="renderGallery()" />
+    <button class="secondary" style="width:100%; margin-bottom:16px;" onclick="clearFilters()">Clear All Filters</button>
+    <div id="filterContainer"></div>
+
+    <div id="categoryEditor" class="hidden" style="margin-top: 20px; border-top: 2px solid var(--accent); padding-top: 15px;">
+      <h3>Manage Categories & Tags</h3>
+      <input type="text" id="newCatInput" placeholder="New Category (e.g. Hair Color)" />
+      <button onclick="addCategory()" style="width:100%; margin-bottom:14px;">+ Add Category</button>
+
+      <select id="catSelect"></select>
+      <input type="text" id="newTagInput" placeholder="New Tag (e.g. Blonde)" />
+      <button onclick="addTag()" style="width:100%;">+ Add Tag to Category</button>
+    </div>
+  </aside>
+
+  <main>
+    <div class="toolbar">
+      <h1 style="margin:0;">Faceclaim Gallery <span id="countBadge" style="font-size:16px; color:var(--muted);"></span></h1>
+      <div>
+        <button class="secondary" id="editToggleBtn" onclick="toggleEditMode()">Enable Tag Edit Mode</button>
+        <button id="exportBtn" class="hidden" onclick="exportData()">Download Updated data.json</button>
+      </div>
+    </div>
+
+    <div id="editBanner" class="edit-panel hidden">
+      <strong>Edit Mode Active:</strong> Create categories/tags in the left sidebar, and click <em>"+ Edit Tags"</em> on any character card below to assign them. When finished, click <strong>Download Updated data.json</strong> and upload it to your GitHub repo to save changes permanently!
+    </div>
+
+    <div class="grid" id="galleryGrid"></div>
+  </main>
+
+  <script>
+    let db = { categories: {}, entries: [] };
+    let activeFilters = {}; // { categoryName: Set([tag1, tag2]) }
+    let editMode = false;
+
+    async function init() {
+      const res = await fetch('data.json?t=' + Date.now());
+      db = await res.json();
+      renderSidebar();
+      renderGallery();
+    }
+
+    function toggleEditMode() {
+      editMode = !editMode;
+      document.getElementById('categoryEditor').classList.toggle('hidden', !editMode);
+      document.getElementById('exportBtn').classList.toggle('hidden', !editMode);
+      document.getElementById('editBanner').classList.toggle('hidden', !editMode);
+      document.getElementById('editToggleBtn').textContent = editMode ? 'Exit Edit Mode' : 'Enable Tag Edit Mode';
+      renderSidebar();
+      renderGallery();
+    }
+
+    function addCategory() {
+      const name = document.getElementById('newCatInput').value.trim();
+      if (!name || db.categories[name]) return;
+      db.categories[name] = [];
+      document.getElementById('newCatInput').value = '';
+      renderSidebar();
+    }
+
+    function deleteCategory(cat) {
+      if (!confirm(`Delete category "${cat}"?`)) return;
+      delete db.categories[cat];
+      delete activeFilters[cat];
+      db.entries.forEach(e => { if (e.tags) delete e.tags[cat]; });
+      renderSidebar();
+      renderGallery();
+    }
+
+    function addTag() {
+      const cat = document.getElementById('catSelect').value;
+      const tag = document.getElementById('newTagInput').value.trim();
+      if (!cat || !tag || db.categories[cat].includes(tag)) return;
+      db.categories[cat].push(tag);
+      document.getElementById('newTagInput').value = '';
+      renderSidebar();
+    }
+
+    function toggleFilter(cat, tag) {
+      if (!activeFilters[cat]) activeFilters[cat] = new Set();
+      if (activeFilters[cat].has(tag)) {
+        activeFilters[cat].delete(tag);
+        if (activeFilters[cat].size === 0) delete activeFilters[cat];
+      } else {
+        activeFilters[cat].add(tag);
+      }
+      renderSidebar();
+      renderGallery();
+    }
+
+    function clearFilters() {
+      activeFilters = {};
+      document.getElementById('searchInput').value = '';
+      renderSidebar();
+      renderGallery();
+    }
+
+    function toggleEntryTag(entryId, cat, tag) {
+      const entry = db.entries.find(e => e.id === entryId);
+      if (!entry.tags) entry.tags = {};
+      if (!entry.tags[cat]) entry.tags[cat] = [];
+      const idx = entry.tags[cat].indexOf(tag);
+      if (idx > -1) entry.tags[cat].splice(idx, 1);
+      else entry.tags[cat].push(tag);
+      renderGallery();
+    }
+
+    function renderSidebar() {
+      const container = document.getElementById('filterContainer');
+      const select = document.getElementById('catSelect');
+      container.innerHTML = '';
+      select.innerHTML = '';
+
+      Object.entries(db.categories).forEach(([cat, tags]) => {
+        const opt = document.createElement('option');
+        opt.value = cat; opt.textContent = cat;
+        select.appendChild(opt);
+
+        const block = document.createElement('div');
+        block.className = 'cat-block';
+        block.innerHTML = `<div class="cat-title"><span>${cat}</span>${editMode ? `<button class="danger" onclick="deleteCategory('${cat}')">X</button>` : ''}</div>`;
+
+        tags.forEach(tag => {
+          const isActive = activeFilters[cat] && activeFilters[cat].has(tag);
+          const chip = document.createElement('span');
+          chip.className = 'tag-chip' + (isActive ? ' active' : '');
+          chip.textContent = tag;
+          chip.onclick = () => toggleFilter(cat, tag);
+          block.appendChild(chip);
+        });
+        container.appendChild(block);
+      });
+    }
+
+    function renderGallery() {
+      const grid = document.getElementById('galleryGrid');
+      const query = document.getElementById('searchInput').value.toLowerCase();
+      grid.innerHTML = '';
+
+      const filtered = db.entries.filter(entry => {
+        if (query && !entry.name.toLowerCase().includes(query)) return false;
+        for (const [cat, selectedTags] of Object.entries(activeFilters)) {
+          const entryTags = (entry.tags && entry.tags[cat]) || [];
+          // Matches if entry has at least one of the selected tags in this category
+          const hasMatch = [...selectedTags].some(t => entryTags.includes(t));
+          if (!hasMatch) return false;
+        }
+        return true;
+      });
+
+      document.getElementById('countBadge').textContent = `(${filtered.length})`;
+
+      filtered.forEach(entry => {
+        const card = document.createElement('div');
+        card.className = 'card';
+
+        let allTagsHtml = '';
+        if (entry.tags) {
+          Object.entries(entry.tags).forEach(([cat, tags]) => {
+            tags.forEach(t => { allTagsHtml += `<span class="mini-tag">${t}</span>`; });
+          });
+        }
+
+        let editControls = '';
+        if (editMode) {
+          editControls = `<div style="margin-top:10px; border-top:1px solid var(--border); padding-top:8px;">`;
+          Object.entries(db.categories).forEach(([cat, tags]) => {
+            editControls += `<div style="font-size:11px; color:var(--muted); margin-top:4px;">${cat}:</div>`;
+            tags.forEach(tag => {
+              const assigned = entry.tags && entry.tags[cat] && entry.tags[cat].includes(tag);
+              editControls += `<span class="tag-chip ${assigned ? 'active' : ''}" style="font-size:10px; padding:2px 6px;" onclick="toggleEntryTag('${entry.id}', '${cat}', '${tag}')">${tag}</span>`;
+            });
+          });
+          editControls += `</div>`;
+        }
+
+        card.innerHTML = `
+          <a href="${entry.url}" target="_blank" rel="noopener">
+            <img src="${entry.image || ''}" alt="${entry.name}" onerror="this.src='https://placehold.co/300x300/1e1e26/9a9aa8?text=No+Image'" />
+          </a>
+          <div class="card-body">
+            <a href="${entry.url}" target="_blank" rel="noopener"><div class="card-title">${entry.name}</div></a>
+            <div class="card-tags">${allTagsHtml}</div>
+            ${editControls}
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function exportData() {
+      const blob = new Blob([JSON.stringify(db, null, 2)], { type: 'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'data.json';
+      a.click();
+    }
+
+    init();
+  </script>
+</body>
+</html>
