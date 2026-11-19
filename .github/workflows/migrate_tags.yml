@@ -1,0 +1,223 @@
+name: One-Time Migrate Old Gallery Tags
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install BeautifulSoup4
+        run: pip install beautifulsoup4
+
+      - name: Run migration script
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          import re
+          from bs4 import BeautifulSoup
+
+          SOURCE_FILE = "gallery.json"
+          DATA_FILE = "data.json"
+
+          TAG_ALIAS_MAP = {
+              "colelge": "college",
+              "grown": "brown",
+              "nsfw": "nudes",
+          }
+
+          def norm_key(val: str) -> str:
+              return re.sub(r"\s+", " ", (val or "").strip().lower())
+
+          def extract_discord_ids(href: str):
+              if not href:
+                  return None, None, None
+              m = re.search(r"/channels/(\d+)/(\d+)(?:/(\d+))?", href.strip())
+              if not m:
+                  return None, None, None
+              guild_id, second_id, third_id = m.group(1), m.group(2), m.group(3)
+              thread_id = third_id if third_id else second_id
+              return guild_id, thread_id, second_id
+
+          with open(SOURCE_FILE, "r", encoding="utf-8", errors="replace") as f:
+              soup = BeautifulSoup(f.read(), "html.parser")
+
+          # 1. Extract categories and tag labels in exact sidebar order
+          categories = {}
+          slug_to_cat_and_tag = {}
+
+          sidebar = soup.select_one(".sidebar .filters")
+          if sidebar:
+              for group in sidebar.select(".button-group"):
+                  h1 = group.find("h1")
+                  cat_name = re.sub(r"\s+", " ", h1.get_text(" ", strip=True)) if h1 else group.get("data-filter-group", "").strip()
+                  if not cat_name:
+                      continue
+
+                  tag_list = []
+                  for btn in group.select("button.button"):
+                      raw_filter = (btn.get("data-filter") or "").strip()
+                      if not raw_filter:
+                          continue
+                      slug = raw_filter.lstrip(".").strip().lower()
+                      label = re.sub(r"\s+", " ", btn.get_text(" ", strip=True))
+                      if not slug or not label:
+                          continue
+                      if label not in tag_list:
+                          tag_list.append(label)
+                      slug_to_cat_and_tag[slug] = (cat_name, label)
+
+                  if cat_name not in categories:
+                      categories[cat_name] = tag_list
+                  else:
+                      for lbl in tag_list:
+                          if lbl not in categories[cat_name]:
+                              categories[cat_name].append(lbl)
+
+          # Ensure mapped alias targets exist in their categories
+          for alias_slug, target_slug in TAG_ALIAS_MAP.items():
+              if target_slug in slug_to_cat_and_tag:
+                  cat_name, target_label = slug_to_cat_and_tag[target_slug]
+                  categories.setdefault(cat_name, [])
+                  if target_label not in categories[cat_name]:
+                      categories[cat_name].append(target_label)
+                  slug_to_cat_and_tag[alias_slug] = (cat_name, target_label)
+
+          # 2. Load existing data.json
+          if os.path.exists(DATA_FILE):
+              with open(DATA_FILE, "r", encoding="utf-8") as f:
+                  db = json.load(f)
+          else:
+              db = {"categories": {}, "entries": []}
+
+          if not isinstance(db.get("categories"), dict):
+              db["categories"] = {}
+          if not isinstance(db.get("entries"), list):
+              db["entries"] = []
+
+          # Merge categories while keeping existing order + any new ones
+          merged_categories = {}
+          for cat_name, existing_tags in db["categories"].items():
+              merged_categories[cat_name] = list(existing_tags) if isinstance(existing_tags, list) else []
+
+          for cat_name, new_tags in categories.items():
+              merged_categories.setdefault(cat_name, [])
+              for t in new_tags:
+                  if t not in merged_categories[cat_name]:
+                      merged_categories[cat_name].append(t)
+
+          db["categories"] = merged_categories
+
+          # Index existing entries by id and normalized name
+          by_id = {}
+          by_name = {}
+          for entry in db["entries"]:
+              eid = str(entry.get("id", "")).strip()
+              if eid:
+                  by_id[eid] = entry
+              nkey = norm_key(entry.get("name", ""))
+              if nkey and nkey not in by_name:
+                  by_name[nkey] = entry
+
+          matched_count = 0
+          added_count = 0
+
+          # 3. Parse grid items from old gallery HTML
+          for item in soup.select(".grid .grid-item"):
+              name_el = item.select_one(".name")
+              name = re.sub(r"\s+", " ", name_el.get_text(" ", strip=True)) if name_el else ""
+              if not name:
+                  continue
+
+              parent_a = item.find_parent("a")
+              href = parent_a.get("href", "") if parent_a else ""
+              guild_id, thread_id, second_id = extract_discord_ids(href)
+
+              classes = [c.strip().lower() for c in (item.get("class") or []) if c.strip()]
+              entry_tags_by_cat = {}
+
+              for cls in classes:
+                  if cls == "grid-item":
+                      continue
+                  mapped_slug = TAG_ALIAS_MAP.get(cls, cls)
+                  if mapped_slug in slug_to_cat_and_tag:
+                      cat_name, label = slug_to_cat_and_tag[mapped_slug]
+                      entry_tags_by_cat.setdefault(cat_name, [])
+                      if label not in entry_tags_by_cat[cat_name]:
+                          entry_tags_by_cat[cat_name].append(label)
+
+              # Find matching existing entry (check thread_id, then second_id, then name)
+              target_entry = None
+              for candidate_id in [thread_id, second_id]:
+                  if candidate_id and candidate_id in by_id:
+                      target_entry = by_id[candidate_id]
+                      break
+
+              if not target_entry:
+                  nkey = norm_key(name)
+                  if nkey in by_name:
+                      target_entry = by_name[nkey]
+
+              if target_entry:
+                  existing_tags = target_entry.get("tags")
+                  if not isinstance(existing_tags, dict):
+                      existing_tags = {}
+
+                  for cat_name, new_lbls in entry_tags_by_cat.items():
+                      existing_tags.setdefault(cat_name, [])
+                      for lbl in new_lbls:
+                          if lbl not in existing_tags[cat_name]:
+                              existing_tags[cat_name].append(lbl)
+
+                  target_entry["tags"] = existing_tags
+                  matched_count += 1
+              else:
+                  eid = thread_id or second_id or re.sub(r"[^a-z0-9]+", "-", norm_key(name)).strip("-")
+                  clean_url = (
+                      f"https://discord.com/channels/{guild_id}/{thread_id}"
+                      if guild_id and thread_id
+                      else href.strip()
+                  )
+                  new_entry = {
+                      "id": eid,
+                      "name": name,
+                      "image": "",
+                      "url": clean_url,
+                      "tags": entry_tags_by_cat,
+                  }
+                  db["entries"].append(new_entry)
+                  if eid:
+                      by_id[eid] = new_entry
+                  nkey = norm_key(name)
+                  if nkey and nkey not in by_name:
+                      by_name[nkey] = new_entry
+                  added_count += 1
+
+          with open(DATA_FILE, "w", encoding="utf-8") as f:
+              json.dump(db, f, indent=2, ensure_ascii=False)
+
+          print(f"Migration complete. Categories: {len(db['categories'])}, Matched/updated existing entries: {matched_count}, Added new entries: {added_count}, Total entries: {len(db['entries'])}")
+          EOF
+
+      - name: Commit migrated data.json
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data.json
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Migrate categories and tags from old gallery"
+            git pull --rebase origin main
+            git push
+          fi
