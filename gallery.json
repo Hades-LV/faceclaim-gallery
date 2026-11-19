@@ -1,0 +1,2824 @@
+<html><head><script type="module" id="truffle-injected" data-runtime="bkkjeefjfjcfdfifddmkdmcpmaakmelp" src="chrome-extension://bkkjeefjfjcfdfifddmkdmcpmaakmelp/injected-script/index.js"></script><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!--- page by hailthehelpful. please don't use this as a base, redistribute...just don't steal it in general. use common sense. thanks!-->
+ 
+
+
+<title>ᴄʜᴀʀᴀᴄᴛᴇʀs</title> <!--change title here-->
+ 
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{bottom:10px;left:50%;position:fixed;transform:translateX(-50%);visibility:hidden;z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{animation:iframe-app-cta-transition .2s ease-out;visibility:visible}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=95f5092e0d649ce1fa2920ae25a6c556"><link rel="shortcut icon" href="data:image/x-icon;base64,AAABAAMAMDAAAAEAIACoJQAANgAAACAgAAABACAAqBAAAN4lAAAQEAAAAQAgAGgEAACGNgAAKAAAADAAAABgAAAAAQAgAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAORwAEjUZAFI1GgCMNRkAuDUZAOE1GQDxNRkA/zUZAP81GQDyNRkA4zUZALo2GQCONBgAVDMaABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCAAEDUZAGY2GQDDNRkA/TUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP01GQDFNRgAaTweABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMUABk1GgCLNRkA8jUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zYZAPM1GgCMMxQAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACNhgAXjUZAOw1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA7DYYAF4AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMWACM1GQDNNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDNMxYAIwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANhcATDUaAPA1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRoA8DYXAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1GQBbNRoA+jUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUaAPo1GQBcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYaAGM1GQD+NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NhoAYwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANhgASzUZAPs1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA+zQYAEoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3GwAcNRkA6zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAOs5HAAbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQ2GgDINRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP84HQT/dGFQ/6qelP/Mxb//19HM/9fRzP/X0cz/19HM/9fRzP9UPCf/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GADGVQAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYaAG01GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/2lVQv/l4d7///////////////////////////////////////////9cRTH/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRgAaQAAAAAAAAAAAAAAAAAAAAAAAAAAMR0AGjYZAPM1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/ZlE+//v6+v////////////////////////////////////////////////9cRTH/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA8jUVABgAAAAAAAAAAAAAAAAAAAAANRgAiDUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP83HAP/39vX//////////////////////////////////////////////////////9cRTH/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zYZAIUAAAAAAAAAAAAAAAA8HgARNRkA8jUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP94ZVT///////////////////////////////////////////////////////////9cRTH/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAPIwIAAQAAAAAAAAAAA1GQBmNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP+topj//////////////////////////////////////+jl4v/Lw73/ycK7/8nCu/9SOST/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP82GgBkAAAAAAAAAAA1GgDHNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Iwbr/////////////////////////////////saed/zkeBf81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDEAAAAADYbABM1GQD9NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/X0cz/////////////////////////////////QigR/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD9ORwAEjUYAFY1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Z1M/////////////////////////////v7ev/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NBkAUzUZAJA1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Z1M/////////////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkAjzUZALY1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Z1M/////////////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NBoAtDUaANw1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Z1M/////////////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA2jUZAOw1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Z1M/////////////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA6zUZAPk1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Z1M/////////////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA+DUaAPo1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/Z1M/////////////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA+DUZAO41GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/0YtFv9QOCL/UDgi/1A4Iv/f2tb////////////////////////////t6uj/UDgi/1A4Iv9QOCL/UDgi/1A4Iv81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA7DUZAN01GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/7Wqof////////////////////////////////////////////////////////////////////////////38/P81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NhgA2zUZALo1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/7Wqof////////////////////////////////////////////////////////////////////////////38/P81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NBkAuTUZAJE1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/7Wqof////////////////////////////////////////////////////////////////////////////38/P81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkAkTUZAFs1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/7Wqof////////////////////////////////////////////////////////////////////////////38/P81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkAXDkcABs1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/2tWRP/Gvrf//v7+//////////////////////////////////////////////////////////////////38/P81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/ORwAGwAAAAA1GQDNNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/ZU88/+Lf2//////////////////////////////////r6Ob/QigR/0IoEf9CKBH/QigR/0IoEf81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDKAAAAAAAAAAA2GQByNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/0MpEv/Z1M/////////////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP80GQBxAAAAAAAAAAAxGAAVNRkA9TUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP9PNyH/9fPy///////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAPUzGgAUAAAAAAAAAAAAAAAANRoAlDUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/k4R3///////////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUaAJYAAAAAAAAAAAAAAAAAAAAAMR0AGjUZAPQ1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/QykS//n5+P/////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA9jUaAB0AAAAAAAAAAAAAAAAAAAAAAAAAADUYAH01GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/8zEvv/////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NBgAfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsrAAY0GADRNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/6aaj//////////////////q5+T/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDQKysABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1GwAwNRkA9zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/0gvGP9dRzP/XUcz/11HM/9ZQi7/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAPc2GwAvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANRgAVjUZAP01GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/TQYAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQZAGc1GQD+NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NBkAZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1GABzNRkA/jUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP41GAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANhcATDUaAPA1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA9TQaAFgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMWACM1GQDNNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDPMxoAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIAAINhoAgDUZAPY1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA9jYaAIBAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMUABk1GgCLNRkA8jUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zYZAPM1GgCMMxQAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCAAEDUZAGY2GQDDNRkA/TUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDTNRkAbzkcABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAORwAEjUZAFI1GgCMNRkAuDUZAOE1GQDuNRkA7jUZAO41GQDuNRkA4zUZALo2GQCONhoAWjUaAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//4Af//wAA//8AAP//AAD/+AAAH/8AAP/wAAAP/wAA/8AAAAP/AAD/gAAAAf8AAP8AAAAA/wAA/gAAAAB/AAD8AAAAAD8AAPgAAAAAHwAA8AAAAAAPAADwAAAAAA8AAOAAAAAABwAAwAAAAAADAADAAAAAAAMAAMAAAAAAAwAAgAAAAAABAACAAAAAAAEAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAIAAAAAAAQAAgAAAAAABAADAAAAAAAMAAMAAAAAAAwAAwAAAAAADAADgAAAAAAcAAPAAAAAADwAA8AAAAAAPAAD4AAAAAB8AAPwAAAAAPwAA/gAAAAB/AAD/AAAAAP8AAP+AAAAB/wAA/8AAAAP/AAD/4AAAB/8AAP/4AAAf/wAA//8AAP//AAD//+AH//8AACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMxEADzUZAFw1GgCgNRkAyTUZAOg1GQD8NRkA/DUZAOg1GQDKNBkAoTQZAF0wIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBgAIDYYAJ01GQD3NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAPc1GgCfMRkAHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKysABjYaAIA1GQD3NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD3NhoAgDMAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkcABI1GQC6NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkAujkcABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0FwAsNhkA4DUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NhkA4DUYACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAORwAEjYYANs1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NhgA2zweABEAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQ1GAC8NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/QigR/1tEMP9dRzP/XUcz/1U9KP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkAtlUAAAMAAAAAAAAAAAAAAAAAAAAANRgAfTUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/bVlH/9fRzP/+/v7/////////////////1c/K/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NBkAegAAAAAAAAAAAAAAADEYABU1GgDwNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/21ZR//9/Pz////////////////////////////Vz8r/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDtPB4AEQAAAAAAAAAANhkAmDUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/29bR/////////////////////////////////9XPyv81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GgCVAAAAAC4XAAs2GQDzNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/0kwGf//////////////////////9/b1/6ebkP+ThHf/f25e/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAPIzGgAKNhoAWjUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/XEUx//////////////////////+RgnT/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUYAFY0GQCcNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP9gSjb//////////////////////21ZR/81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NhkAmDUZAMk1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/2BKNv//////////////////////a1ZE/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GADGNRkA6zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/YEo2//////////////////////9rVkT/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAOk1GQD5NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP9gSjb//////////////////////2tWRP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA9zUaAPo1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/2BKNv//////////////////////a1ZE/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD4NRkA6zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/6WYjf/Jwrv/1M7J///////////////////////X0s3/ycK7/8nCu/+WiHv/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAOk1GQDMNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/zcbA/////////////////////////////////////////////////7qxqP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkAyTQZAJw1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP/NxsD/////////////////////////////////////////////////urGo/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP82GQCYNhoAWjUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/2xYRv/Jwrv////////////////////////////X0s3/ycK7/8nCu/+WiHv/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUYAFYwIAAQNRkA9zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP+OfnD//////////////////////2tWRP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD2MxEADwAAAAA1GQCZNRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP+zqJ//////////////////a1ZE/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUaAJYAAAAAAAAAADMaAB41GQD3NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/1E5I//9/Pz///////////9rVkT/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD3NRoAHQAAAAAAAAAAAAAAADYZAIU1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/97Z1f///////////2tWRP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAIMAAAAAAAAAAAAAAAAAAAAALhcACzUZAM81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/dWJR/5OEd/+ThHf/TjYg/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDOLhcACwAAAAAAAAAAAAAAAAAAAAAAAAAANRoAHTUZAOc1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA5zUaAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMxcALTUZAOk1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAOI0FwAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANhsAJjQZANY1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQDKMxQAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALhcACzUZAJE1GQD8NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD3NhoAijMaAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADcYACo0GQChNRkA9zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD3NRgAnjUaAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzEQAPNRkAXDUaAKA1GQDJNRkA6DUZAO41GQDuNRkA6DUZAMo0GQChNBkAXTAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//AP//+AAf/+AAB//AAAP/gAAB/wAAAP4AAAB+AAAAfAAAADgAAAAYAAAAGAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABgAAAAYAAAAHAAAADwAAAA+AAAAfwAAAP+AAAH/wAAD/+AAB//4AB///wD/8oAAAAEAAAACAAAAABACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUYACs2GQCONRkA1TUZAPc1GQD3NRkA1TYZAI41GAArAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKysABjUaAJQ1GQD8NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/DQYAJIzAAAFAAAAAAAAAAAAAAAAMwAABTUZALg1GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkAuEAAAAQAAAAAAAAAADUZAI81GQD/NRkA/zUZAP81GQD/NRkA/2dSP/+lmI3/rqOZ/2VQPf81GQD/NRkA/zUZAP81GgCMAAAAADUYACs1GQD8NRkA/zUZAP81GQD/NRkA/2dSP//+/v7///////////+GdWb/NRkA/zUZAP81GQD/NRkA+zMaACg2GQCONRkA/zUZAP81GQD/NRkA/zUZAP+kl4z//////+Hd2f9xXkz/SjEb/zUZAP81GQD/NRkA/zUZAP81GgCLNBkA1jUZAP81GQD/NRkA/zUZAP81GQD/r6Sa//////+1q6L/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA0zUZAPI1GQD/NRkA/zUZAP81GQD/NRkA/6+kmv//////taqh/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUaAPA1GQD0NRkA/zUZAP81GQD/NRkA/3BdS//Kw7z//////87Hwf94ZlX/SzIc/zUZAP81GQD/NRkA/zUZAP81GQDyNBkA1jUZAP81GQD/NRkA/zUZAP/m4+D//////////////////////3hlVP81GQD/NRkA/zUZAP81GQD/NRkA1DYYAJM1GQD/NRkA/zUZAP81GQD/alVD/+bi3///////08zH/4Z1Zv9PNyH/NRkA/zUZAP81GQD/NRkA/zUZAJA0FwAsNRkA/TUZAP81GQD/NRkA/zUZAP9dRjL//v7+/7Wqof81GQD/NRkA/zUZAP81GQD/NRkA/zUZAPw3GAAqAAAAADYZAJg1GQD/NRkA/zUZAP81GQD/NRkA/7mwp/+Sg3b/NRkA/zUZAP81GQD/NRkA/zUZAP80GQCXAAAAAAAAAAArKwAGNRkAujUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAP82GQDDQCAACAAAAAAAAAAAAAAAACsrAAY1GgCUNRkA/DUZAP81GQD/NRkA/zUZAP81GQD/NRkA/zUZAPw1GgCUJCQABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUYACs2GQCONRkA0zUZAOs1GQDrNRkA1DYZAI41GAArAAAAAAAAAAAAAAAAAAAAAPgfAADgBwAAwAMAAIABAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAIABAADAAwAA4AcAAPgfAAA=">
+<link rel="alternate" type="application/rss+xml" href="https://sudirectory.tumblr.com/rss">
+ 
+<!--fontawesome-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<!--google fonts-->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,400italic,700,700italic,300italic,300|Inconsolata" rel="stylesheet" type="text/css">
+<!-- filter scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
+ 
+ 
+<script type="text/javascript">
+$(document).ready( function() {
+ // init Isotope
+ var $grid = $('.grid').isotope({
+   itemSelector: '.grid-item'
+ });
+ 
+ // store filter for each group
+ var filters = {};
+ 
+ $('.filters').on( 'click', '.button', function() {
+   var $this = $(this);
+   // get group key
+   var $buttonGroup = $this.parents('.button-group');
+   var filterGroup = $buttonGroup.attr('data-filter-group');
+   // set filter for group
+   filters[ filterGroup ] = $this.attr('data-filter');
+   // combine filters
+   var filterValue = concatValues( filters );
+   // set filter for Isotope
+   $grid.isotope({ filter: filterValue });
+ });
+ 
+ // change is-checked class on buttons
+ $('.button-group').each( function( i, buttonGroup ) {
+   var $buttonGroup = $( buttonGroup );
+   $buttonGroup.on( 'click', 'button', function() {
+     $buttonGroup.find('.is-checked').removeClass('is-checked');
+     $( this ).addClass('is-checked');
+   });
+ });
+ 
+});
+ 
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.isotope('layout');
+});
+ 
+// flatten object by concatting values
+function concatValues( obj ) {
+ var value = '';
+ for ( var prop in obj ) {
+   value += obj[ prop ];
+ }
+ return value;
+}
+ 
+</script>
+ 
+ 
+<script>
+$(window).bind('scroll', function() {
+     if ($(window).scrollTop() > 400) {
+         $('#top').fadeIn();
+     }
+     else {
+         $('#top').fadeOut();
+     }
+});
+</script>
+ 
+ 
+ 
+<style type="text/css">
+ 
+ 
+ 
+::-webkit-scrollbar {
+    width: 5px;
+    border: 2px solid #fff;
+    background-color: #acacac;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background-color: #acacac;
+}
+ 
+::-webkit-scrollbar:horizontal {
+    height: 5px;
+}
+ 
+::selection {
+    background: gray;
+    color: #fff;
+}
+ 
+::-moz-selection {
+    background: gray;
+    color: #fff;
+}
+ 
+::-webkit-selection {
+    background: gray;
+    color: #fff;
+}
+ 
+a,a:active,a:visited,a:hover {
+    color: #828282;
+    text-decoration: none;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+ 
+body {
+    color: #828282;
+    font-weight: 100;
+    font-size: 9px;
+    font-family: 'open sans',calibri,Helvetica,sans-serif;
+    line-height: 100%;
+}
+ 
+.header {
+    position: relative;
+    left: 250px;
+    overflow: hidden;
+    margin: 110px 0 30px 15px;
+    padding: 20px;
+    width: 970px;
+    height: 460px;
+    background-image: url(https://placehold.it/1010x500);
+    color: #fff;
+    text-align: right;
+    font-size:11px;
+}
+ 
+.header img {
+    z-index: -999;
+    display: none;
+    width: 100%;
+}
+ 
+.headertitle {
+    z-index: 999;
+    display: inline-block;
+    margin-top: 430px;
+    width: 100%;
+    font-size: 50px;
+}
+ 
+#br {
+    display: inline-block;
+    margin-left: 380px;
+    padding: 35px;
+    width: 450px;
+    color: #fff;
+    text-align: center;
+}
+ 
+.toptitle,h1,.headertitle {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-family: 'Montserrat',Helvetica,cambria,sans-serif;
+}
+ 
+.toptitle {
+    display: inline-block;
+    margin-right: 10px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 100%;
+}
+ 
+h1 {
+    color: #323232;
+    font-weight: 400;
+    font-size: 12px !important;
+}
+ 
+#top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+    display: none;
+    padding: 15px;
+    width: 100%;
+    height: 20px;
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Open Sans',Helvetica,cambria,sans-serif;
+}
+ 
+#top span {
+    display: inline-block;
+    padding-top: 5px;
+}
+ 
+.return {
+    float: right;
+    margin-top: 5px;
+    margin-right: 30px;
+    color: #828282;
+}
+ 
+#top a:hover {
+    color: #fff;
+}
+ 
+ol li {
+    margin-left: -15px;
+    padding: 5px;
+}
+ 
+ul li {
+    position: relative;
+    margin-left: -20px;
+    list-style-type: none;
+}
+ 
+ul li:before {
+    position: absolute;
+    margin-left: -10px;
+    content: '\f105';
+    font-size: 12px;
+    font-family: FontAwesome;
+}
+ 
+.grid {
+    position: fixed;
+    top: 80px;
+    margin-bottom:100px;
+    margin-left: 250px;
+    min-height:800px;
+    text-align: justify;
+    line-height: 100%;
+}
+ 
+.grid-item {
+    margin: 15px;
+    padding: 10px 0;
+    width: 240px;
+    height: 280px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+ 
+.grid-item img {
+    position: relative;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+ 
+.grid-item:hover img {
+    box-shadow: 0 0 0 21px black,0 0 0 22px #fff;
+    -webkit-filter: grayscale(100%);
+    -webkit-transform: scale(.8);
+    -ms-transform: scale(.8);
+    transform: scale(.8);
+}
+ 
+.name {
+    margin: 15px 0;
+    letter-spacing: 2px;
+    font-weight: 300;
+    font-size: 15px;
+    font-family: 'Montserrat',Helvetica,cambria,sans-serif;
+    line-height:100%;
+}
+ 
+.long {
+    margin:10px 0;
+    font-size:12px;
+}
+ 
+.info {
+    position: relative;
+    margin: 15px 0;
+    color: #ccc;
+    letter-spacing: 1px;
+    font-size: 10px;
+    font-family: 'Open Sans';
+    line-height: 120%;
+}
+ 
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 40px;
+    width: 200px;
+    height: 100%;
+    background: #fff;
+}
+ 
+.filters {
+    margin-top: 80px;
+}
+ 
+button {
+    display: block;
+    padding-left: 10px;
+    width: 100%;
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #828282;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 9px;
+    font-family: 'Open Sans',Helvetica,cambria,sans-serif;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+ 
+.button.is-checked::before {
+    position: absolute;
+    margin-left: -10px;
+    content: '\f105';
+    font-family: FontAwesome;
+}
+ 
+.button:active,.button.is-checked {
+    color: #000;
+}
+ 
+.button-group {
+    margin: 20px 0;
+}
+ 
+ 
+iframe {display:none}
+ 
+.tmblr-iframe.tmblr-iframe--desktop-loggedin-controls.iframe-controls--desktop {display:none}
+ 
+#credit{line-height:100%; border-radius:50%;position:fixed;bottom:10px;right:10px;color:#fff;background:rgba(0,0,0,.2);padding:5px;width:10px;height:10px;font-family:roboto;overflow:hidden;font-size:10px;font-weight:100;white-space:nowrap;-moz-transition:all .6s ease-in-out;-ms-transition:all .6s ease-in-out;-o-transition:all .6s ease-in-out;-webkit-transition:all .6s ease-in-out;transition:all .6s ease-in-out}#credit:hover{background:#000;width:80px;border-radius:15px}#credit:before{font-size:10px;content:'\f292';font-family:FontAwesome;padding-right:5px;
+}
+ 
+ 
+</style>
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=sudirectory"><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=sudirectory"><script defer="" type="application/javascript" id="bilmur" data-provider="tumblr.com" data-service="blognetwork" data-customproperties="{&quot;theme&quot;: &quot;&quot;}" nonce="" src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202647"></script><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995"><meta property="og:site_name" content="Tumblr"><meta property="og:title" content="Sarah and Uga's Faceclaim Directory"><meta property="og:url" content="https://sudirectory.tumblr.com/?og=1"><meta property="og:description" content=""><meta property="og:type" content="profile"><meta property="og:image" content="https://assets.tumblr.com/images/default_avatar/cube_green_gray_128.png"><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=sudirectory"><meta property="al:ios:app_name" content="Tumblr"><meta property="al:ios:app_store_id" content="305343404"><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=sudirectory"><meta property="al:android:app_name" content="Tumblr"><meta property="al:android:package" content="com.tumblr"><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr"><meta name="twitter:card" content="summary"><meta name="twitter:description" content=""><meta name="twitter:title" content="Sarah and Uga's Faceclaim Directory"><meta name="twitter:app:name:iphone" content="Tumblr"><meta name="twitter:app:name:ipad" content="Tumblr"><meta name="twitter:app:name:googleplay" content="Tumblr"><meta name="twitter:app:id:iphone" content="305343404"><meta name="twitter:app:id:ipad" content="305343404"><meta name="twitter:app:id:googleplay" content="com.tumblr"><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=sudirectory&amp;referrer=twitter-cards"><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=sudirectory&amp;referrer=twitter-cards"><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=sudirectory&amp;referrer=twitter-cards"><link rel="canonical" href="https://www.tumblr.com/sudirectory"><script async="" src="/assets/scripts/tumblr/dashboard/showads.js"></script><style>.info_popover .popover_inner ul li.toggle-subscription .help-slidedown::before{font-family:"tumblr-icons","Blank";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;text-rendering:optimizeLegibility;font-style:normal;font-variant:normal;font-weight:normal;text-decoration:none;text-transform:none}.knight-rider-loader{line-height:0;white-space:nowrap;width:78px}.knight-rider-loader.small{width:39px}.knight-rider-loader.centered{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%)}.knight-rider-loader.h-centered{position:absolute;top:0;left:50%;transform:translateX(-50%)}.knight-rider-bar{display:none;margin-top:0;margin-bottom:0;width:20px;height:20px;margin-left:3px;margin-right:3px;border-radius:5px;opacity:.5;background-color:hsl(0,0%,81.6666666667%)}.small>.knight-rider-bar{width:10px;height:10px;margin-left:2px;margin-right:1px;border-radius:2px}.animate>.knight-rider-bar{display:inline-block;animation:knight-rider-oscillate ease-in-out 300ms infinite alternate}.knight-rider-bar:nth-child(1){animation-delay:-200ms}.knight-rider-bar:nth-child(2){animation-delay:-100ms}@keyframes knight-rider-oscillate{0%{opacity:.5;transform:scaleY(1)}100%{opacity:1;transform:scaleY(1.4)}}.popover--base{z-index:80;position:absolute}.popover--base ul,.popover--base ol{list-style-type:none}.popover--base-overlay{position:fixed;top:0;left:0;width:100%;height:100%;transition:opacity .25s ease-in-out;background:#001935;opacity:0;z-index:90}.popover--base-overlay.active{opacity:.95}.popover_button{position:relative}.popover_button.popover_active{z-index:2147483646}.popover{position:absolute;border-radius:3px;background:rgba(0,0,0,.1);font:normal 14px/1.4 "Helvetica Neue","HelveticaNeue",Helvetica,Arial,sans-serif;box-shadow:0 5px 10px 0 rgba(0,0,0,.1);cursor:default;z-index:2147483646}.popover_header{background:hsl(0,0%,94.8666666667%);border-bottom:1px solid 1px solid hsl(0,0%,90.4666666667%);position:relative;z-index:10;text-transform:uppercase;font-size:11px;font-weight:bold;color:hsl(0,0%,56%);color:rgba(0,0,0,.65);height:24px;padding:0 12px;margin:0;line-height:23px}.popover_header:first-child{border-radius:3px 3px 0 0}.popover_header.no_nipple:before,.popover_header.no_nipple:after{border:0}.popover_header .popover_item_suffix{text-transform:none}.popover_gradient{padding:1px}.popover_gradient>.popover_inner{background:hsl(0,0%,94.8666666667%);padding:10px;box-shadow:inset 0 1px 0 hsla(0,0%,100%,.75)}.popover_gradient>.popover_inner:first-child{border-top-right-radius:3px;border-top-left-radius:3px}.popover_gradient>.popover_inner:last-child{border-bottom-right-radius:3px;border-bottom-left-radius:3px}.ie9 .popover_gradient{background-color:hsl(0,0%,81.6666666667%)}.popover_gradient.no_nipple:after,.popover_gradient.no_nipple:before{content:"";border:0}.popover_menu .popover_menu_item:first-child:before{top:-12px;z-index:-1}.popover_menu .popover_menu_item:first-child:after{top:-11px}.popover_menu .popover_menu_item:first-child:hover:after{border-bottom-color:hsl(0,0%,90.4666666667%)}.popover_menu .popover_menu_item.no_hover:first-child:hover:after,.popover_menu .popover_menu_item.no_hover:last-child:hover:after{border-bottom-color:#fff;border-top-color:hsl(0,0%,94.8666666667%)}.popover_menu .popover_menu_item:last-child:hover:after{border-top-color:hsl(0,0%,90.4666666667%)}#popover_tracked_tags .popover_menu_item:first-child:before{margin-left:-13px;left:50%}.popover_menu.nipple_on_bottom .popover_menu_item:first-child:hover:after{border-bottom-color:#000;border-top-color:hsl(0,0%,90.4666666667%)}.popover_menu.nipple_on_left .popover_menu_item:first-child:hover:after{border-bottom-color:#000;border-right-color:hsl(0,0%,90.4666666667%)}.popover_menu:before,.popover_menu:after{display:none}.popover_bottom:after{content:"";position:absolute;border-top:7px solid hsl(0,0%,94.8666666667%);border-left:7px solid rgba(0,0,0,0);border-right:7px solid rgba(0,0,0,0);border-bottom:0;font-size:0;height:0;margin:0 auto;top:auto;bottom:-6px;margin-left:-6px;width:0;left:50%}.popover_bottom:before{content:"";position:absolute;border-top:8px solid rgba(0,0,0,.2933333333);border-left:8px solid rgba(0,0,0,0);border-right:8px solid rgba(0,0,0,0);border-bottom:0;font-size:0;height:0;margin:0 auto;bottom:-7px;top:auto;margin-left:-7px;width:0;left:50%}.popover_menu ul{margin:0;padding:0;list-style:none}.popover_menu>.popover_inner{padding:0}.popover_menu>.popover_inner .popover_item_suffix{color:hsl(0,0%,56%);display:inline-block;float:right;font-weight:normal;position:relative;z-index:1}.popover_menu>.popover_inner .popover_item_suffix a{color:inherit;font-size:12px}.popover_menu_item{display:block;border-bottom:1px solid hsl(0,0%,90.4666666667%);box-shadow:inset 0 1px 0 hsla(0,0%,100%,.6);padding:10px 15px;font-size:14px;font-weight:normal;color:#444;text-overflow:ellipsis;white-space:nowrap}.popover_menu_item.disabled{pointer-events:none;color:rgba(0,0,0,.44)}.popover_menu_item a{color:#444;text-decoration:none}.popover_menu_item.disabled a{color:rgba(0,0,0,.44)}.popover_menu_item small{font-weight:normal;font-size:11px;color:hsl(0,0%,56%);color:rgba(0,0,0,.65);vertical-align:3px}.popover_menu_item .hide_overflow{overflow:hidden;text-overflow:ellipsis}.popover_menu_item:hover,.popover_menu_item.keyboard_focus{background-color:rgba(0,0,0,.0513333333);cursor:pointer}.popover_menu_item.no_hover:hover{background-color:rgba(0,0,0,.0513333333);cursor:default}.popover_menu_item:first-child{box-shadow:none}.popover_menu_item:last-child{border-bottom-color:#000}.popover_menu_item.ender{height:auto !important;padding:11px 7px;text-align:center;font-size:12px;color:rgba(0,0,0,.44)}.popover_menu_item.ender a{color:rgba(0,0,0,.44)}.popover_menu_item.sortable-dragging{background:#fff !important;border-radius:6px !important}.popover_menu_item .thumb{position:absolute;display:block;top:4px;right:12px;height:37px;width:37px;margin:0;background-size:cover;background-color:rgba(0,0,0,.1833333333);background-position:50% 50%;background-clip:content-box;border-radius:3px}.popover_menu_item .thumb:after{content:"";position:absolute;top:0;right:0;bottom:0;left:0;border-radius:3px}a.popover_menu_item{text-decoration:none}body.popover_alert_active{background-attachment:fixed}.popover_post_control{z-index:80}.popover_gradient>.popover_inner:last-child,.popover_gradient>.popover_inner:last-child{border-top-right-radius:3px;border-top-left-radius:3px}.popover_gradient>.popover_inner:last-child{border-radius:3px}.popover_menu_item a{color:#444}.popover_gradient:not(.tumblelog_popover):not(.notes_outer_container):after,.popover_menu:not(.tumblelog_popover):not(.notes_outer_container) .popover_menu_item:first-child:after{border-bottom:13px solid #fff}.popover_gradient:not(.tumblelog_popover):not(.notes_outer_container).nipple_on_bottom:after,.popover_menu:not(.tumblelog_popover):not(.notes_outer_container).nipple_on_bottom .popover_menu_item:last-child:after{border-top:12px solid #fff;border-bottom:12px solid rgba(0,0,0,0)}.popover.popover_gradient.popover_form>.popover_inner{padding:10px}.popover_gradient>.popover_inner{padding:4px 0;background:#fff}.popover_menu_item:hover,.popover_menu_item.keyboard_focus{background:#e6eff7}.popover_menu_item:hover a,.popover_menu_item.keyboard_focus a,.share_options .popover_menu_item:hover a.external:after,.share_options .popover_menu_item.keyboard_focus a.external:after{color:#3f5265}.popover_menu .popover_menu_item:last-child:hover:after{border-top-color:#fff}.popover_menu .popover_menu_item:first-child:hover:after{border-bottom-color:#fff}.popover_menu_item{border-bottom:0;box-shadow:none}.linkthrough_popover.popover.popover_gradient>div.popover_inner{padding:10px}.share_options a:before,.post_full .post_control_menu .popover .post_control:after{display:none}.post_full .post_control_menu .popover_menu_item{padding:0}.post_full .post_control_menu .popover_menu_item .post_control{height:auto;padding:5px 25px 5px 14px;font-size:15px}.popover_menu_item a,#posts .post .post_control_menu .popover_menu_item a{padding-left:14px;line-height:21px}.popover.popover_form form button.chrome{text-shadow:none;box-shadow:none;border-color:#9da6af;background:#9da6af}.popover.popover_form form button.chrome[disabled],.popover.popover_form form button.chrome.disabled,.popover.popover_form form button.chrome[disabled]:active,.popover.popover_form form button.chrome.disabled:active{background:#9da6af;border:1px solid #9da6af;color:hsla(0,0%,100%,.6)}.search_popover{position:relative;max-width:480px;min-width:300px;width:80%;box-sizing:border-box;display:flex;flex-direction:column;background-color:#fff}.search_popover .popover_inner{padding:0}.search_popover .popover_menu_item{padding:0}.search_popover .search_results_section{position:relative}.search_popover .search_results_section .search_subheading{position:relative;height:24px;padding:0 12px;margin:0;background:hsl(0,0%,90.4666666667%);color:hsl(0,0%,56%);color:rgba(0,0,0,.65);font-weight:bold;font-size:11px;line-height:23px;text-shadow:0 1px 0 hsla(0,0%,100%,.6);text-transform:uppercase;z-index:2}.search_popover .search_results_section .search_subheading:first-child{border:0}.search_popover .result{display:flex;height:45px;width:100%;align-items:center}.search_popover .result.has_thumb .hide_overflow{max-width:470px}.search_popover .result .result_link{display:flex;padding:0 12px;width:100%;box-sizing:border-box;justify-content:space-between}.search_popover .result .result_link .go-to-blog{font-weight:800}.search_popover .result .result_link .result-left{display:flex;flex-direction:column;flex-grow:1}.search_popover .result .result_link .result-right{justify-self:flex-end;align-self:center}.search_popover .result .result_link .result-right .thumb{position:relative;top:0;right:0}.search_popover .result .result_link:hover::before,.search_popover .result .result_link:focus::before{content:"";position:absolute}.search_popover .result .result_link .result_content{width:100%;display:flex;align-items:center}.search_popover .result .result_link .result_content .result_title{display:flex;width:100%;justify-content:space-between}.search_popover .result .result_link .result_content .result_title::before{background:none}.search_popover .explore_topics{margin:0 0 8px}.search_popover .explore_topics.no_topics{margin-bottom:0}.search_popover .explore_topics .explore_topics_link{position:relative;display:block;height:30px;padding:0 24px 0 12px;line-height:30px;font-size:12px;font-weight:normal;text-decoration:none;box-sizing:border-box}#popover_legal{position:relative}#popover_legal .popover{display:none;min-width:116px;bottom:28px;left:50%;margin-left:-58px}#popover_legal.show .popover{display:block}#popover_legal .popover_menu_item{padding:0}#popover_legal .popover_menu_item a{position:relative;display:block;color:#444;text-align:left;padding:7px 14px}.popover_share_social{top:100%;left:50%;margin:5px 0 0 -93px;z-index:80;opacity:1;display:none;width:187px}.popover_share_social.up{top:auto;bottom:100%;margin:0 0 5px -93px}.popover_share_social .form_wrapper{padding:10px}.popover_share_social .input_group{border:0;background:#fff;border-radius:0;box-shadow:none}.popover_share_social .input_group li{position:relative}.popover_share_social .share_options{display:none;list-style:none}.popover_share_social .share_options.active{display:block}.popover_share_social .share_options .popover_menu_item{padding:0}.popover_share_social .share_form{display:none}.popover_share_social .share_form input,.popover_share_social .share_form textarea{margin:0;border:0;background:rgba(0,0,0,0);font-family:inherit;font-size:12px;color:#444;width:128px;padding:11px 0 10px 8px}.popover_share_social .share_form textarea{width:100%;box-sizing:border-box;box-shadow:none;resize:none;padding:10px 8px;height:75px;overflow:auto}.popover_share_social .share_form.active{display:inline}.popover_share_social .share_form.facebook .share_label,.popover_share_social .share_form.twitter .share_label,.popover_share_social .share_form.embed .share_label{display:block;height:29px;background:hsl(0,0%,94.8666666667%);border-bottom:1px solid hsl(0,0%,81.6666666667%);color:hsl(0,0%,56%);color:rgba(0,0,0,.65);font-size:11px;font-weight:bold;line-height:29px;text-overflow:ellipsis;text-transform:uppercase;margin-bottom:0;overflow:hidden;padding:0 0 0 26px;white-space:nowrap;border-radius:6px 6px 0 0}.popover_share_social .share_form.twitter .character_count{display:block;position:absolute;right:8px;bottom:-15px;width:24px;height:10px;line-height:normal;color:rgb(180.2,180.2,180.2);font-size:12px;font-weight:normal;text-align:center}.popover_share_social .share_form.twitter .character_count.character-limit{color:#ff492f}.popover_share_social .share_form.twitter textarea{height:125px}.popover_share_social .share_form.embed .input_group,.popover_share_social .share_form.embed .email_submit{display:none}.popover_share_social .share_form.embed .embed_code_wrapper{display:block}.popover_share_social .share_form.embed .embed_code_text{height:125px}.popover_share_social .share_form .share_label,.popover_share_social .share_form .embed_code_wrapper,.popover_share_social .share_form .character_count{display:none}.popover_share_social .share_form .reply_to{color:hsl(0,0%,56%);color:rgba(0,0,0,.65);font-size:12px;line-height:14px;padding:10px;overflow:hidden;display:none;white-space:nowrap}.popover_share_social .share_form .reply_to.active{display:block}.popover_share_social .share_form .reply_to_email{display:inline-block;white-space:nowrap;word-break:normal;-ms-word-wrap:break-word;word-wrap:break-word;text-overflow:ellipsis;overflow:hidden;max-width:130px;font-weight:normal}.popover_share_social .share_form .reply_to_input{width:15px;float:left}.popover_share_social .share_form .reply_to_label{width:145px;float:right;white-space:normal;word-break:break-all}.popover_share_social .popover_menu_item{padding:10px}.popover_share_social .popover_menu_item .popover_menu_item_anchor{position:relative;overflow:hidden;display:block;padding:5px 25px 5px 14px;font-size:14px;font-weight:normal;line-height:25px;min-height:25px;text-transform:none;text-overflow:ellipsis}.popover_share_social .popover_menu_item .popover_menu_item_anchor .icon{font-size:12px;margin-top:-8px;position:absolute;right:10px;top:50%}.popover--post-share-popover .popover_share_social{display:block;left:auto;margin:0;position:relative;top:auto}.popover--post-share-popover .popover_share_social .popover_menu_item:first-child:after,.popover--post-share-popover .popover_share_social .popover_menu_item:first-child:before{display:none !important}.popover_share_social .share_form ::-ms-clear{display:none}.popover_share_social .share_form ::-webkit-input-placeholder{font-size:12px;font-weight:normal;color:rgba(0,0,0,.44) !important}.popover_share_social .share_form :-moz-placeholder{font-size:12px;font-weight:normal;color:rgba(0,0,0,.44) !important}.popover_share_social .share_form ::-moz-placeholder{font-size:12px;font-weight:normal;color:rgba(0,0,0,.44) !important}.popover_share_social .share_form :-ms-input-placeholder{font-size:12px;font-weight:normal;color:rgba(0,0,0,.44) !important}.popover_share_social .share_form .placeholder{font-size:12px;font-weight:normal;color:rgb(180.2,180.2,180.2)}.popover_share_social .share_form button{display:block;width:100%;margin-bottom:-1px}.popover_share_social .share_form .cancel{background:none;color:#444;cursor:pointer;display:block;padding:0;position:absolute;top:9px;right:8px;font-size:16px}.popover_share_social .share_form .cancel:hover{color:rgba(0,0,0,.44)}.popover_share_social .share_form .cancel.service{display:none}.popover_share_social .share_form.facebook .email_address,.popover_share_social .share_form.facebook .cancel,.popover_share_social .share_form.twitter .email_address,.popover_share_social .share_form.twitter .cancel,.popover_share_social .share_form.embed .email_address,.popover_share_social .share_form.embed .cancel{display:none}.popover_share_social .share_form.facebook .cancel.service,.popover_share_social .share_form.twitter .cancel.service,.popover_share_social .share_form.embed .cancel.service{display:block}.popover_share_social .status{padding:1px;text-align:center;display:none}.popover_share_social .status .status_message{display:block;margin:10px 0;font-size:15px;text-transform:none;color:hsl(0,0%,56%);color:rgba(0,0,0,.65);padding:0;font-weight:bold;line-height:1}.popover_share_social .form_wrapper{padding:0}.popover_share_social .share_form textarea{height:90px}.popover_share_social.popover_gradient>.popover_inner .email_form .form_wrapper{margin-top:-4px;border-radius:6px;overflow:hidden}.popover_share_social .input_group li{border-bottom:1px solid hsl(0,0%,90.4666666667%)}.popover_share_social .share_form button{width:calc(100% - 20px);margin:0 10px 7px}.popover_share_social .share_form.twitter button{width:calc(100% - 50px)}.popover_share_social .share_form .menu_item_option{display:inline-block;vertical-align:middle}.popover_share_social .share_form label.menu_item_label{display:inline-block;padding-left:5px;white-space:normal;vertical-align:middle;color:rgba(0,0,0,.44);font-weight:normal}.popover.popover_share_social .share_form.twitter .status .status_message:after,.popover.popover_share_social .share_form.twitter .form_wrapper:after,.popover.popover_share_social .share_form.facebook .status .status_message:after,.popover.popover_share_social .share_form.facebook .form_wrapper:after{border-bottom-color:hsl(0,0%,94.8666666667%)}.popover_share_social.nipple_on_bottom .share_form.twitter .status .status_message:after,.popover_share_social.nipple_on_bottom .share_form.twitter .form_wrapper:after,.popover_share_social.nipple_on_bottom .share_form.facebook .status .status_message:after,.popover_share_social.nipple_on_bottom .share_form.facebook .form_wrapper:after{border-bottom-color:rgba(0,0,0,0)}.popover_share_social .share_form.twitter .input_group li:first-child,.popover_share_social .share_form.facebook .input_group li:first-child{border:0}.popover_share_social .share_form.twitter .cancel,.popover_share_social .share_form.facebook .cancel,.popover_share_social .share_form.embed .cancel{top:10px;left:10px;right:auto;font-size:12px}.popover_share_social .share_form.twitter .input_group li,.popover_share_social .share_form.facebook .input_group li{border-bottom:0}.popover_share_social .share_form .error_status{display:none}.popover_share_social .share_form .error_status.active{display:block;text-align:center;white-space:normal;line-height:normal;border-top:1px solid rgba(189,0,1,.23);padding:5px 10px;border-bottom:1px solid rgba(189,0,1,.23);color:#c64949;font-size:12px;font-weight:bold;background-color:rgba(193,0,0,.1);margin:10px 0}.tumblelog_popover{background:rgba(0,0,0,0);margin-left:-140px;width:280px;padding:0;z-index:80}.tumblelog_popover:before,.tumblelog_popover:after{display:none}.tumblelog_popover.up{margin-top:-10px;opacity:0}.tumblelog_popover.up.is_open{opacity:1}.tumblelog_popover.up.is_empty{margin-top:90px}.tumblelog_popover.up.is_empty .recent_posts{transition-duration:.25s}.tumblelog_popover.up:after{border-top-color:#fff}.tumblelog_popover.down{margin-top:10px;opacity:0}.tumblelog_popover.down.is_open{opacity:1}.tumblelog_popover.left,.tumblelog_popover.right{margin-left:0}.tumblelog_popover.nav_menu_open .navigation,.tumblelog_popover.nav_menu_open .header_image_wrapper,.tumblelog_popover.nav_menu_open .avatar,.tumblelog_popover.nav_menu_open .info,.tumblelog_popover.nav_menu_open .recent_posts{pointer-events:none}.tumblelog_popover.is_open,.tumblelog_popover.is_closed{transition:height .25s,margin-top .25s,opacity .25s}.tumblelog_popover.is_empty .recent_posts{transition:height .1s,padding .1s;padding:0;height:0}.tumblelog_popover .popover_content_wrapper{background:rgba(0,0,0,0);height:100%;position:relative;border-radius:3px}.tumblelog_popover .recent_posts{background:hsl(0,0%,94.8666666667%);position:relative;border-radius:0 0 3px 3px;padding:10px;height:80px}.tumblelog_popover .recent_posts .post{background-color:rgba(0,0,0,.0953333333);vertical-align:bottom;margin:0 10px 0 0;position:relative;border-radius:2px;box-shadow:none;min-height:0;min-width:0;height:80px;width:80px;float:left}.tumblelog_popover .recent_posts .post:last-child{margin-right:0}.tumblelog_popover .recent_posts.has_2_posts .post{width:125px}.tumblelog_popover .recent_posts .Knight-Rider-bar{border-radius:3px;height:14px;margin:0 2px;width:14px}.tumblelog_popover.showing_recommendations .popover_content_wrapper{border-radius:3px;overflow:hidden}.tumblelog_popover.showing_recommendations .popover_inner{animation:recommended_blogs .4s;pointer-events:none;height:100%}.tumblelog_popover .recommended_blogs{box-sizing:border-box;padding-bottom:100px;border-radius:3px;position:relative;background:#fff;overflow:hidden}.tumblelog_popover .recommended_blogs .tumblelog_info_heading{border-bottom:1px solid hsl(0,0%,90.4666666667%);text-overflow:ellipsis;white-space:nowrap;font-weight:normal;background:hsl(0,0%,94.8666666667%);line-height:29px;overflow:hidden;padding:0 10px;font-size:13px;color:hsl(0,0%,56%);color:rgba(0,0,0,.65);margin:0}.tumblelog_popover .recommended_blogs .tumblelog_info_heading .followed_blog{text-overflow:ellipsis;font-weight:bold;margin-right:4px;overflow:hidden;max-width:140px;display:block;float:left}.tumblelog_popover .recommended_blogs .recent_posts{border-top:1px solid hsl(0,0%,90.4666666667%);position:absolute;bottom:0;left:0}.tumblelog_popover .recommended_blogs .tumblelog_info{padding:10px 10px 10px 57px;position:relative;min-height:37px}.tumblelog_popover .recommended_blogs .avatar{background-position:center center;background-color:hsl(0,0%,90.4666666667%);background-size:cover;position:absolute;border-radius:3px;overflow:hidden;display:block;height:37px;width:37px;left:10px;top:10px}.tumblelog_popover .recommended_blogs .name{width:140px;float:left}.tumblelog_popover .recommended_blogs .name h3,.tumblelog_popover .recommended_blogs .name h4{text-overflow:ellipsis;white-space:nowrap;font-weight:bold;overflow:hidden;line-height:17px;padding-top:1px;font-size:14px;color:#444;padding:0;margin:0}.tumblelog_popover .recommended_blogs .name h3.solo{line-height:34px}.tumblelog_popover .recommended_blogs .name h3 a{text-decoration:none}.tumblelog_popover .recommended_blogs .name h4{font-weight:normal;font-size:13px;color:hsl(0,0%,56%);color:rgba(0,0,0,.65)}.tumblelog_popover .recommended_blogs .follow_nav{margin-top:4px;float:right}.tumblelog_popover .recommended_blogs .follow_nav .follow,.tumblelog_popover .recommended_blogs .follow_nav .unfollow{line-height:15px;font-size:13px;height:15px;float:right}.tumblelog_popover .recommended_blogs .follow_nav .unfollow{display:none}.tumblelog_popover .recommended_blogs .follow_nav.is_following .follow{display:none}.tumblelog_popover .recommended_blogs .follow_nav.is_following .unfollow{display:block}.tumblelog_popover.popover--blog-card{margin-left:0;opacity:0;transition:opacity .25s}.tumblelog_popover.popover--blog-card .recent_posts{border-radius:0 0 3px 3px}.tumblelog_popover .poptica_header{width:280px}.tumblelog_popover .poptica_header .indash_header_wrapper{border-radius:3px 3px 0 0;background:hsl(0,0%,94.8666666667%);margin:0}.tumblelog_popover .poptica_header .indash_header_wrapper .header_image,.tumblelog_popover .poptica_header .indash_header_wrapper .navigation .navigation_bg{border-radius:3px 3px 0 0}.tumblelog_popover .poptica_header .indash_header_wrapper:not(.no_header_image) .navigation:before{border-radius:5px 5px 0 0}.tumblelog_popover .poptica_header .header_image_wrapper{height:158px}.tumblelog_popover .poptica_header .navigation h3{margin-left:0}.tumblelog_popover .poptica_header .navigation .name,.tumblelog_popover .poptica_header .navigation .full_url{text-overflow:ellipsis;white-space:nowrap;overflow:hidden;max-width:130px}.tumblelog_popover .poptica_header .avatar{box-shadow:0 0 0 3px;margin:10px auto 0;height:64px;width:64px}.tumblelog_popover .poptica_header .avatar:last-child{margin-bottom:10px}.tumblelog_popover .poptica_header .header_image_wrapper+.avatar{margin-top:-48px}.tumblelog_popover .poptica_header .info_wrapper{padding-bottom:1px}.tumblelog_popover .poptica_header .info,.tumblelog_popover .poptica_header .avatar+.info,.tumblelog_popover .poptica_header .avatar+.info_wrapper .info{padding:12px 10px 0}.is_empty .tumblelog_popover .poptica_header .info{padding-bottom:10px}.tumblelog_popover .poptica_header .title{font-size:20px;margin:0 0 5px}.tumblelog_popover .poptica_header .description{position:relative;line-height:16px;font-size:12px}.tumblelog_popover .poptica_header .description .description_inner{max-height:48px}.tumblelog_popover .poptica_header .description .description_gradient{position:absolute;height:20px;width:100%;bottom:0;left:0}.info_popover{margin-left:-67px;position:absolute;right:31px;top:48px}.info_popover .popover_inner{min-width:150px;width:150px;padding:0}.info_popover .popover_inner ul{list-style:none;padding:4px 0;margin:0}.info_popover .popover_inner ul li{line-height:25px;font-weight:normal;font-size:14px;display:block;border:0;padding:0}.info_popover .popover_inner ul li.label{background:hsl(0,0%,94.8666666667%);color:hsl(0,0%,56%);color:rgba(0,0,0,.65);padding:0 10px;font-size:11px;font-weight:bold;line-height:24px;text-transform:uppercase;border:0}.info_popover .popover_inner ul li.toggle-subscription{display:none;position:relative}.info_popover .popover_inner ul li.toggle-subscription a{padding-right:30px}.info_popover .popover_inner ul li.toggle-subscription.can-subscribe{display:block}.info_popover .popover_inner ul li.toggle-subscription.can-subscribe .unsubscribe{display:none}.info_popover .popover_inner ul li.toggle-subscription.is-subscribed .unsubscribe{display:block}.info_popover .popover_inner ul li.toggle-subscription.is-subscribed .subscribe{display:none}.info_popover .popover_inner ul li.toggle-subscription .help-slidedown::before{content:"\EA4B"}.info_popover .popover_inner ul li.toggle-subscription .help-slidedown{height:inherit;color:#444;font-size:15px;line-height:14px;right:10px;top:10px;position:absolute;cursor:pointer}.info_popover .popover_inner ul li.web-subscribe-how-to{font-size:10px;line-height:12px;background:rgba(0,0,0,.0513333333);color:hsl(0,0%,56%);color:rgba(0,0,0,.65);display:none}.info_popover .popover_inner ul li.web-subscribe-how-to .copy-howto{margin:7px 10px 8px;display:inline-block}.info_popover .popover_inner ul li.web-subscribe-how-to .copy-howto .app-link{padding:0;display:inline;text-decoration:underline}.info_popover .popover_inner a{text-decoration:none;padding:5px 10px;display:block}.info_popover .popover_inner .toggle_nsfw .not_nsfw{display:none}.info_popover .popover_inner .toggle_nsfw.is_flagged .not_nsfw{display:block}.info_popover .popover_inner .toggle_nsfw .nsfw{display:block}.info_popover .popover_inner .toggle_nsfw.is_flagged .nsfw{display:none}.info_popover .popover_inner .toggle_spam .not_spam{display:none}.info_popover .popover_inner .toggle_spam.is_flagged .not_spam{display:block}.info_popover .popover_inner .toggle_spam .spam{display:block}.info_popover .popover_inner .toggle_spam.is_flagged .spam{display:none}.info_popover .popover_inner .toggle_suspended .not_suspended{display:none}.info_popover .popover_inner .toggle_suspended.is_flagged .not_suspended{display:block}.info_popover .popover_inner .toggle_suspended .suspended{display:block}.info_popover .popover_inner .toggle_suspended.is_flagged .suspended{display:none}.info_popover li:hover{background:#e6eff7}.tumblelog_popover.down .poptica_header:not(:empty)+.recent_posts,.tumblelog_popover.bottom .recent_posts{animation:popover_down .2s ease}.tumblelog_popover.up .poptica_header:not(:empty),.tumblelog_popover.top .indash_tumblelog_compact:not(:empty){animation:popover_up .2s ease}.poptica_header .avatar{animation:pop_in .2s ease .24s}.poptica_header .info{animation:slide_up .2s ease-out .2s}.tumblelog_popover .recent_posts .post{animation:slide_up .2s ease-out .26s}.tumblelog_popover .recommended_blogs .recent_posts .post{animation-name:fade_in}.tumblelog_popover .recent_posts .post:nth-child(2){animation-delay:.32s}.tumblelog_popover .recent_posts .post:nth-child(3){animation-delay:.38s}.poptica_header .avatar,.poptica_header .info,.tumblelog_popover .recent_posts .post,.tumblelog_popover .recommended_blogs .recent_posts .post{animation-fill-mode:backwards}@keyframes fade_in{0%{opacity:0}100%{opacity:1}}@keyframes slide_up{0%{opacity:0;transform:translateY(15px)}100%{opacity:1;transform:translateY(0)}}@keyframes slide_down{0%{opacity:0;transform:translateY(-15px)}100%{opacity:1;transform:translateY(0)}}@keyframes pop_in{0%{opacity:0;transform:scale(0)}100%{opacity:1;transform:scale(1)}}@keyframes popover_up{0%{opacity:0;transform:translateY(80px)}100%{opacity:1;transform:translateY(0)}}@keyframes popover_down{0%{opacity:0;transform:translateY(-80px)}100%{opacity:1;transform:translateY(0)}}@keyframes recommended_blogs{0%{opacity:0;transform:translateY(0)}100%{opacity:1;transform:translateY(-100%)}}.popover--dropdown{width:184px;background-color:#fff;border-radius:3px;border:1px solid rgba(0,0,0,.1833333333)}.popover--dropdown .dropdown{padding:4px 0}.popover--dropdown .dropdown .dropdown-item{color:#444;line-height:2.3;font-size:14px;padding:0 10px;cursor:pointer;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.popover--dropdown .dropdown .dropdown-item:hover{background:#e6eff7}.tour_guide .popover.appearance_step>.appearance{background-color:#f6f6f6;font-size:10px;height:100%;min-height:50px;padding:0;position:relative;width:100%;box-sizing:border-box}.tour_guide .popover.appearance_step>.no_header_image.appearance{padding-top:50px}.tour_guide .popover.appearance_step>.header_image_only.appearance,.tour_guide .popover.appearance_step>.customize.appearance{margin-bottom:20px}.tour_guide .popover.appearance_step>.appearance:before,.tour_guide .popover.appearance_step>.appearance:after{content:" ";display:table}.tour_guide .popover.appearance_step>.small.appearance{font-size:8px}.tour_guide .popover.appearance_step>.medium.appearance{font-size:10px}.tour_guide .popover.appearance_step>.large.appearance{font-size:16px}.tour_guide .popover.appearance_step>.appearance .navigation{height:50px;padding:10px;width:100%;z-index:3;background-image:linear-gradient(rgba(0, 0, 0, 0.3), transparent);box-sizing:border-box;display:flex;flex-direction:row;position:absolute;top:0;left:0}.tour_guide .popover.appearance_step>.appearance .navigation .tumblelog_name{color:#fff;font-size:14px;line-height:30px;margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex-grow:1}.tour_guide .popover.appearance_step>.appearance .navigation .tumblelog_name a{color:#fff;text-decoration:none}.tour_guide .popover.appearance_step>.appearance .navigation .chrome{background:#fff;border:none;color:#444;display:block;line-height:30px;margin:0 0 0 auto;padding:0 8px;flex-shrink:0}.tour_guide .popover.appearance_step>.appearance .header_image,.tour_guide .popover.appearance_step>.appearance .avatar{background-color:inherit;background-position:center center;background-repeat:no-repeat;background-size:cover}.tour_guide .popover.appearance_step>.appearance .header_image{height:0;padding-bottom:56.25%;position:relative;width:100%;z-index:1}.tour_guide .popover.appearance_step>.appearance .header_image.no_stretch{background-size:contain;margin:50px 0;padding-bottom:calc(56.25% - 100px)}.tour_guide .popover.appearance_step>.appearance .avatar{border-radius:6px;box-shadow:0 0 0 3px;margin:0 auto;position:relative;width:64px;z-index:2}.tour_guide .popover.appearance_step>.appearance .avatar.circle{border-radius:50%}.tour_guide .popover.appearance_step>.appearance .avatar img{display:block;height:auto;margin-top:-70%;opacity:0;pointer-events:none;width:100%}.tour_guide .popover.appearance_step>.large.appearance .avatar{box-shadow:0 0 0 4px;width:96px}.tour_guide .popover.appearance_step>.appearance .info{padding:1.25em 2.25em 2.25em;text-align:center}.tour_guide .popover.appearance_step>.appearance .info:empty{padding-bottom:1.125em}.tour_guide .popover.appearance_step>.appearance .info .title{color:inherit;font-size:2.625em;letter-spacing:0;line-height:1.1;margin:0 0 .2em}.tour_guide .popover.appearance_step>.appearance .info .title:last-child{margin-bottom:0}.tour_guide .popover.appearance_step>.appearance .info .description{font-size:14px;opacity:.7}.tour_guide .popover.appearance_step>.appearance .info .description p,.tour_guide .popover.appearance_step>.appearance .info .description ul,.tour_guide .popover.appearance_step>.appearance .info .description blockquote{margin:0 !important;padding:0 !important}.tour_guide .popover.appearance_step>.appearance .info .description br+br{display:none}.tour_guide .popover.appearance_step>.appearance .header_image+.info:empty{padding:0}.tour_guide .popover.appearance_step>.small.appearance .info .description{font-size:13px}.tour_guide.removing{opacity:0;transition:opacity .15s}.tour_guide.removing .popover{transform:scale(0.5);transition:all .15s cubic-bezier(0.6, -0.28, 0.735, 0.045)}.tour_guide.dim .glass{display:block}.tour_guide .glass{bottom:0;display:none;left:0;position:fixed;right:0;top:0;z-index:90209;animation:fade_in .3s ease-out}.tour_guide .popover{margin:10px 0;position:absolute;width:240px;z-index:90210;animation:popover .35s cubic-bezier(0.175, 0.885, 0.32, 1.275)}.tour_guide .popover.centered{position:fixed}.tour_guide .popover .ok_button_link{display:inline-block}.tour_guide .popover .ok_button{margin-top:12px}.tour_guide .popover.appearance_step{background-color:rgba(0,0,0,0);padding:0}.tour_guide .popover.appearance_step>.popover_inner{border-top-left-radius:6px;border-top-right-radius:6px;background-color:hsl(0,0%,94.8666666667%);padding:20px}.tour_guide .popover.appearance_step>.appearance{border-bottom-left-radius:6px;border-bottom-right-radius:6px;text-align:left}.tour_guide_element{z-index:90210}@keyframes fade_in{0%{opacity:0}100%{opacity:1}}@keyframes popover{0%{opacity:0;transform:scale(0)}100%{opacity:1;transform:scale(1)}}.popover.tutorial{padding:15px;text-align:center;box-sizing:border-box;background:#fff}.popover.tutorial .title,.popover.tutorial .content{color:#444}.popover.tutorial .title{font-weight:bold;font-size:14px;margin:0 0 6px}.popover.tutorial .content{font-size:14px;margin:0}.popover.tutorial .ok_button{margin:12px 0 0;padding:4px 15px 5px}.message-controls-popover{width:187px;margin:5px 0 0 -93px}.message-controls-popover .popover_menu_item_anchor{padding-left:0}.popover_vendor{transition:opacity 150ms cubic-bezier(0.455, 0.03, 0.515, 0.955),transform 150ms cubic-bezier(0.455, 0.03, 0.515, 0.955);position:absolute;text-align:center;width:225px;display:none;right:0;top:30px}.popover_vendor .popover_menu_item{white-space:normal}.popover_vendor .popover_menu_item:hover{color:#001935}.popover_vendor .popover_menu_item:hover .subtext,.popover_vendor .popover_menu_item:hover .subtext-email{color:#001935;opacity:.7}.popover_vendor .popover_menu_item_anchor{margin-bottom:5px;padding-left:0;display:block}.popover_vendor .subtext{font-size:13px;color:hsl(0,0%,56%)}.popover_vendor .subtext-email{max-width:100%;display:block;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;margin-bottom:0}.popover_vendor .success-text{pointer-events:none;transform:scale(0.8);position:absolute;opacity:0;top:20px}.popover_vendor .email-vendor-listing,.popover_vendor .success-text{transition:opacity 150ms cubic-bezier(0.455, 0.03, 0.515, 0.955),transform 150ms cubic-bezier(0.455, 0.03, 0.515, 0.955)}.popover_vendor.success .email-vendor-listing{pointer-events:none;transform:scale(0.8);opacity:0}.popover_vendor.success .success-text{transform:scale(1);opacity:1}.popover_vendor.fade-out{transform:scale(0.8);opacity:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-pano-lightbox-container .tmblr-iframe--pano-lightbox{z-index:8675309;position:fixed;top:0;left:0;right:0;bottom:0;width:100%;height:100%;display:none}.tmblr-pano-lightbox-container .tmblr-iframe-preloader-container{z-index:8675310;position:fixed;bottom:0;width:100%;height:100%;background:rgba(0,0,0,.92)}.tmblr-pano-lightbox-container .tmblr-pano-lightbox{display:block}.tmblr-pano-lightbox-container .tmblr-pano-lightbox--preloading{display:none}.tmblr-iframe--unified-controls{position:fixed;top:0;right:0;left:0;width:100%;height:0;z-index:8675307}.tmblr-iframe-compact .tmblr-iframe--unified-controls{left:auto}@media screen and (max-device-width: 568px){.tmblr-iframe-overlay.tmblr-iframe-full-width .no-image:not(.avatar-hidden) #header{padding-top:140px}}.tmblr-iframe-overlay.tmblr-iframe-full-width:not(.tmblr-iframe-themed) .top-blog-header .header-image.cover.loaded::after{display:none}.tmblr-iframe-overlay.tmblr-iframe-full-width:not(.tmblr-iframe-themed) .tmblr-iframe--unified-controls{background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, transparent 100%);padding-bottom:10px;transition:padding-bottom .1s linear}.tmblr-iframe-overlay.tmblr-iframe-full-width:not(.tmblr-iframe-themed) .tmblr-iframe--unified-controls.tmblr-iframe--below-header{padding-bottom:0}.tmblr-iframe--follow-teaser{position:fixed;bottom:0;right:0;z-index:100;display:none}.tmblr-iframe--follow-teaser.open{display:block}.tmblr-iframe--follow-teaser.sticky-ad-visible{bottom:310px}.tmblr-iframe--follow-teaser.center-middle{position:fixed;left:50%;top:50%;margin-top:-200px;margin-left:-225px}.tmblr-iframe--follow-teaser.center{position:fixed;left:50%;margin-left:-325px}@keyframes iframe-app-cta-transition{from{opacity:0;bottom:-2em}to{opacity:1}}@keyframes iframe-app-cta-dismiss-transition{from{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(2em)}}.tmblr-iframe--app-cta-button{position:fixed;bottom:0;left:0;width:100%;visibility:hidden;z-index:100}.tmblr-iframe--app-cta-button body,.tmblr-iframe--app-cta-button html{margin:0}.tmblr-iframe--app-cta-button.tmblr-iframe--loaded.open{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}@keyframes iframe-gdpr-banner-transition{from{opacity:0 !important;bottom:-2em !important}to{opacity:1 !important}}@keyframes iframe-gdpr-banner-dismiss-transition{from{opacity:1 !important;transform:translateY(0) !important}to{opacity:0 !important;transform:translateY(2em) !important}}body.ios,body.android{padding-bottom:50px !important}iframe.tmblr-iframe--gdpr-banner{position:fixed !important;bottom:0px !important;left:50% !important;width:100% !important;transform:translateX(-50%) !important;border-right:1px solid #001935;z-index:2147483647 !important}iframe.tmblr-iframe--gdpr-banner.tmblr-iframe--loaded{animation:iframe-gdpr-banner-transition .2s ease-out !important}body.ios iframe.tmblr-iframe--gdpr-banner{bottom:30px !important}.tmblr-lightbox{position:fixed;top:0;bottom:0;left:0;right:0;z-index:8675309;overflow:hidden;background-color:rgba(17,17,17,.92)}.tmblr-lightbox .vignette{position:absolute;width:100%;height:100%;left:0;top:0;right:0;bottom:0;z-index:8675308;background-size:100% 100%}.tmblr-lightbox .lightbox-image-container{position:absolute;z-index:8675310;cursor:pointer}.tmblr-lightbox .lightbox-image-container.single-image{cursor:default}.tmblr-lightbox .lightbox-image{border-radius:3px;box-shadow:0 4px 30px #000;border-width:0;background-color:rgba(0,0,0,0)}.tmblr-lightbox .lightbox-image.hide{display:none}.tmblr-lightbox .lightbox-image.placeholder{background-color:hsla(0,0%,100%,.05)}.tmblr-lightbox .lightbox-caption{position:absolute;text-align:center;font-family:"Helvetica Neue","HelveticaNeue",Helvetica,Arial,sans-serif;font-size:17px;font-weight:bold;color:#fff;padding-top:20px;text-shadow:0 4px 30px #000;display:inline-block;text-rendering:optimizeLegibility}.tmblr-lightbox .lightbox-caption.hide{display:none}.hidden-body{position:relative;left:-99999px;overflow:hidden;background-color:#000}.hidden-body .show-mobile-lightbox{position:fixed;overflow:hidden;width:100%;top:0;left:0;right:0;bottom:0;z-index:8675309}.sticky-ad-wrapper{position:fixed;right:20px;bottom:-330px;border:1px solid #9da6af;border-radius:5px 0 0;background-color:#fff;z-index:100;transition:all .5s ease}.sticky-ad-wrapper .tmblr-iframe--sticky-ad{position:relative;margin-top:10px}.sticky-ad-wrapper.show{bottom:0}.sticky-ad-wrapper .ad-header{font-size:10px;line-height:1;text-align:center;margin:5px;text-transform:uppercase;color:#9da6af;position:relative;top:4px}.sticky-ad-wrapper .ad-footer{position:relative;text-align:center;bottom:12px;font-size:10px;line-height:100%;color:#9da6af}.sticky-ad-wrapper .ad-footer a{color:#444;text-decoration:none;border-bottom:0}.sticky-darla-ad{position:fixed;bottom:-315px;right:20px;z-index:100;border-radius:5px 0 0;border:1px solid #9da6af;transition:all .5s ease;padding:10px}.sticky-darla-ad.show{bottom:0}.sticky-darla-ad .ad-close-btn{position:relative;font-weight:900;margin-left:auto;margin-right:-11px;margin-top:-26px;cursor:pointer;width:20px;height:15px;text-align:center;border-radius:5px 5px 0 0;font-size:12px;line-height:1.5;border-top:1px solid #9da6af;border-left:1px solid #9da6af;border-right:1px solid #9da6af}.sticky-darla-ad .ad-close-btn .icon-x{display:none;position:relative;font-size:12px;content:"×";color:#9da6af}.sticky-darla-ad .ad-footer{font-size:10px;line-height:1;text-align:center;color:#9da6af}.sticky-darla-ad .ad-footer a{color:#444;padding-left:5px;border-bottom:0;text-decoration:none}.sticky-darla-ad .ad-header{font-size:10px;line-height:1;text-align:center;margin:5px;text-transform:uppercase;color:#9da6af}.nu-optica-sticky-darla-ad{display:none;z-index:100;transition:all .5s ease}.nu-optica-sticky-darla-ad.show{display:block}.nu-optica-sticky-darla-ad.fixed{position:fixed;margin-top:0}.nu-optica-sticky-darla-ad.parked{position:absolute;margin-top:0}.nu-optica-sticky-darla-ad .ad-header{font-size:10px;line-height:1;text-align:center;margin:5px;text-transform:uppercase;color:#9da6af;text-align:left;font-size:12px;font-weight:700}.nu-optica-sticky-darla-ad .ad-footer{font-size:12px;font-weight:700;line-height:1;text-align:left}.nu-optica-sticky-darla-ad .ad-footer a{padding-left:5px;border-bottom:0;text-decoration:none}.nu-optica-sticky-darla-ad .ad-footer a::after{content:"❯";padding-left:4px}span.tmblr-alt-text-helper{display:block;box-sizing:border-box;width:-moz-min-content;width:min-content;padding:1px 4px;border-radius:4px;margin-top:4px;background-color:hsla(0,0%,7%,.7);color:#fff;cursor:pointer;font-weight:900;line-height:normal;opacity:.1}figure:hover span.tmblr-alt-text-helper,figure:focus-within span.tmblr-alt-text-helper{opacity:1}figure.tmblr-full{position:relative}figure.tmblr-full span.tmblr-alt-text-helper{position:absolute;left:15px;bottom:20px}.popover.alt-text-helper_step h3{text-align:left}.popover.alt-text-helper_step p{text-align:left;margin:0;padding:0;min-width:initial}.tmblr-iframe--init{width:0;height:0;opacity:0;z-index:-1;pointer-events:none}</style><style type="text/css">.live-photo {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer; }
+  .live-photo video,
+  .live-photo img {
+    display: block;
+    max-width: 100%;
+    pointer-events: none;
+    -ms-touch-action: none;
+        touch-action: none; }
+  .live-photo video {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+    .live-photo video::-webkit-media-controls-start-playback-button {
+      display: none; }
+  .live-photo .live-photo-icon {
+    display: block;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    width: 24px;
+    height: 24px;
+    background: url("data:image/svg+xml;charset=utf-8,%3Csvg width='48' height='48' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg' fill='%23fff'%3E%3Ctitle%3ELive Photo%3C/title%3E%3Cg fill-rule='evenodd'%3E%3Cpath d='M24 36c6.627 0 12-5.373 12-12s-5.373-12-12-12-12 5.373-12 12 5.373 12 12 12zm0-2c5.523 0 10-4.477 10-10s-4.477-10-10-10-10 4.477-10 10 4.477 10 10 10z'/%3E%3Cpath d='M24 29a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0-3a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0-19a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm4.788.63a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm4.462 1.85a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm3.831 2.94a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm2.94 3.831a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm1.849 4.462a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm.63 4.788a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-.63 4.788a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-1.85 4.461a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-2.94 3.831a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-3.831 2.94a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-4.462 1.849a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM24 44a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-4.788-.63a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-4.462-1.85a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-3.831-2.94a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-2.94-3.831a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM6.13 30.288a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM5.5 25.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm.63-4.788a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm1.85-4.462a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm2.94-3.831a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm3.831-2.94a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm4.462-1.849a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z'/%3E%3C/g%3E%3C/svg%3E") center center;
+    background-size: contain;
+    -webkit-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.5));
+            filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.5));
+    pointer-events: none; }
+  .live-photo .live-photo-postroll,
+  .live-photo .live-photo-video {
+    opacity: 0; }
+  .live-photo .live-photo-video {
+    -webkit-filter: blur(7.5px);
+            filter: blur(7.5px); }
+  .live-photo .live-photo-keyframe,
+  .live-photo .live-photo-postroll,
+  .live-photo .live-photo-video {
+    will-change: transform, filter, opacity;
+    transition: opacity 0.5s linear, -webkit-transform 0.5s ease-out, -webkit-filter 0.5s linear;
+    transition: transform 0.5s ease-out, filter 0.5s linear, opacity 0.5s linear;
+    transition: transform 0.5s ease-out, filter 0.5s linear, opacity 0.5s linear, -webkit-transform 0.5s ease-out, -webkit-filter 0.5s linear; }
+  .live-photo.loading .live-photo-icon {
+    -webkit-animation: live-photo-icon-loading 0.5s linear alternate infinite both;
+            animation: live-photo-icon-loading 0.5s linear alternate infinite both; }
+  .live-photo.preview .live-photo-postroll {
+    opacity: 1;
+    transition-duration: 0s; }
+  .live-photo.active video,
+  .live-photo.active img {
+    -webkit-transform: scale(1.075, 1.075);
+        -ms-transform: scale(1.075, 1.075);
+            transform: scale(1.075, 1.075); }
+  .live-photo.active .live-photo-postroll {
+    -webkit-animation: live-photo-post-roll 1s both;
+            animation: live-photo-post-roll 1s both; }
+  .live-photo.active .live-photo-video {
+    opacity: 1;
+    -webkit-filter: none;
+            filter: none;
+    transition-delay: 0.375s;
+    transition-duration: 0.625s; }
+
+@-webkit-keyframes live-photo-icon-loading {
+  0% {
+    opacity: 1; }
+  100% {
+    opacity: 0.75; } }
+
+@keyframes live-photo-icon-loading {
+  0% {
+    opacity: 1; }
+  100% {
+    opacity: 0.75; } }
+
+@-webkit-keyframes live-photo-post-roll {
+  0% {
+    opacity: 0;
+    -webkit-filter: blur(0);
+            filter: blur(0); }
+  2% {
+    opacity: 1; }
+  37.5% {
+    opacity: 1;
+    -webkit-filter: blur(7.5px);
+            filter: blur(7.5px); }
+  100% {
+    opacity: 0; } }
+
+@keyframes live-photo-post-roll {
+  0% {
+    opacity: 0;
+    -webkit-filter: blur(0);
+            filter: blur(0); }
+  2% {
+    opacity: 1; }
+  37.5% {
+    opacity: 1;
+    -webkit-filter: blur(7.5px);
+            filter: blur(7.5px); }
+  100% {
+    opacity: 0; } }
+</style><style type="text/css">.tmblr-iframe--unified-controls{height:}.tmblr-iframe-compact .tmblr-iframe--unified-controls{width:}.tmblr-iframe-pushdown{padding-top:NaNpx}</style><style>@media print{.gr_no_print, :host(.gr_no_print), [data-grammarly-part]{display:none !important}}.f1l1o3bf{font-family:Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif, Arial;font-style:normal;font-weight:400}.f1l1o3bf button, .f1l1o3bf input, .f1l1o3bf textarea{font-family:inherit}.f4ofdyf{border:0.5px solid var(--origin-color-border-base-subdued);border-radius:8px;cursor:pointer;height:24px;transition:width 150ms cubic-bezier(0.05, 0.6, 0, 1), height 150ms cubic-bezier(0.05, 0.6, 0, 1), border-radius 150ms cubic-bezier(0.05, 0.6, 0, 1);width:24px}.f137tu7e{flex-shrink:0;transform:scale(1);transition:transform 150ms cubic-bezier(0.05, 0.6, 0, 1)}[data-origin-mode="dark"] .f137tu7e{--origin-color-logo-grammarly-light:var(--origin-color-logo-grammarly-dark);--origin-color-logo-grammarly-primary:var(--origin-color-logo-grammarly-default)}.ftwgcg0{-moz-appearance:none;-webkit-appearance:none;align-items:flex-start;appearance:none;background:transparent;border:none;color:inherit;cursor:pointer;display:flex;font:inherit;height:32px;justify-content:flex-start;padding:0;width:32px}.ftwgcg0:hover .f4ofdyf{border-radius:12px;height:32px;width:32px}.ftwgcg0:hover .f137tu7e{transform:scale(1.25)}.f13cnbb7 .f4ofdyf{border-radius:12px;height:32px;width:32px}.f13cnbb7 .f137tu7e{transform:scale(1.25)}.f8ia88a{--origin-color-button-ghost-content-default:#714cb6;--origin-color-button-ghost-content-states:#533192;--origin-color-button-primary-fill-active:#3f256f;--origin-color-button-primary-fill-default:#714cb6;--origin-color-button-primary-fill-hover:#533192;--origin-font-weight-heading-xsmall:600}[data-origin-mode="dark"] .f8ia88a{--origin-color-button-ghost-content-default:#d4c7ff;--origin-color-button-ghost-content-states:#bea1f5;--origin-color-button-primary-content-default:#141413;--origin-color-button-primary-fill-active:#e8e0ff;--origin-color-button-primary-fill-default:#bea1f5;--origin-color-button-primary-fill-hover:#d4c7ff}.f347vxz{font-weight:600}.fzewnqx{aspect-ratio:290 / 140;background-color:#2B1B3C;background-image:url("chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/images/2f99186125d5fa82/goWritingActions.png"), linear-gradient(135deg, #2B1B3C 0%, #0656B8 48%, #006BFF 100%);background-position:center, center;background-repeat:no-repeat;background-size:cover, cover;border-radius:var(--origin-radius-4);overflow:hidden;width:100%}</style></head>
+ 
+ 
+<body class="tmblr-iframe-overlay tmblr-iframe-themed tmblr-iframe-compact" data-new-gr-c-s-check-loaded="14.1349.0" data-gr-ext-installed=""><iframe src="about:blank" width="0" height="0" frameborder="0" scrolling="no" name="unified-controls" class="tmblr-iframe tmblr-iframe--unified-controls tmblr-iframe--loaded iframe-controls--desktop" style=""></iframe><iframe src="https://www.tumblr.com/dashboard/iframe/consent" width="0" height="0px" frameborder="0" scrolling="no" name="gdpr-banner" class="tmblr-iframe tmblr-iframe--gdpr-banner tmblr-iframe--loaded"></iframe><div class="ui_dialog_lock" style="display: none;"></div>
+ 
+ 
+<!-----------------------BEGIN TOPBAR----------------------->
+ 
+<div id="top" style="display: block;"><div class="toptitle"> CHARACTERS</div><span>
+TIP: You can use combinations of filters to narrow down your character search. </span>
+ 
+ 
+<a class="return" href="/"><i class="fa fa-angle-left"></i> back to main</a>
+ 
+</div>
+ 
+<!-----------------------BEGIN SIDEBAR-----------------------
+ 
+Now I'm going to show you how to edit these filters!
+ 
+IMPORTANT:
+ 
+dont touch <button class="button is-checked" data-filter="">all</button> anywhere. It makes sure that you can reset the categories. You can change "all" to whatever you want (reset, show all, etc.) just don't delete it completely.
+ 
+ 
+ 
+HOW TO CHANGE THE FILTERS: -------------------------
+ 
+It's actually easier than you think! Lets say you're making a clique rp.
+All you have to do is change category one to something like this:
+ 
+    <button class="button" data-filter=".jocks">jocks</button>
+    <button class="button" data-filter=".populars">populars</button>
+    <button class="button" data-filter=".nerds">nerds</button>
+    <button class="button" data-filter=".theatre">theatre geeks</button>
+ 
+   Notice how for the theatre geeks one, they don't match? They don't have to match! Check out the original character and canon character labels in category three. They're oc and cc respectively. You can use shortcuts to label your characters because the only thing that shows is the text outside of the < >. If you wanted to, you could actually keep the filter names and just change it to something like
+ 
+    <button class="button" data-filter=".une">jocks</button>
+    <button class="button" data-filter=".deux">populars</button>
+    <button class="button" data-filter=".trois">nerds</button>
+    <button class="button" data-filter=".quatre">theatre geeks</button> 
+ 
+ADDING MORE FILTERS: ---------------------------------
+ 
+Also easy once you get the hang of it! Copy the last button and just past some after like so
+ 
+    <button class="button" data-filter=".jocks">jocks</button>
+    <button class="button" data-filter=".populars">populars</button>
+    <button class="button" data-filter=".nerds">nerds</button>
+    <button class="button" data-filter=".theatre">theatre geeks</button>
+    <button class="button" data-filter=".theatre">theatre geeks</button>
+    <button class="button" data-filter=".theatre">theatre geeks</button>
+    <button class="button" data-filter=".theatre">theatre geeks</button>
+ 
+then change them to whatever you want!    
+ 
+ 
+HOW TO ADD ANOTHER GROUP:--------------------------------
+ 
+lets say you've done all the steps above to organize your clique rp by clique, avaliability and character type, but you also want to organize them by grade. What you'd do is copy the last category and paste it under.
+ 
+ <!-- category three ->
+    <div class="button-group" data-filter-group="type">
+        <h1>CHARACTER TYPE</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".cc">canon character </button>
+        <button class="button" data-filter=".oc">original character</button>
+        <button class="button" data-filter=".wanted">most wanted</button>
+    </div>
+ 
+ <!-- category three ->
+    <div class="button-group" data-filter-group="type">
+        <h1>CHARACTER TYPE</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".cc">canon character </button>
+        <button class="button" data-filter=".oc">original character</button>
+        <button class="button" data-filter=".wanted">most wanted</button>
+    </div>    
+ 
+Now you'd change those to whatever you want like we did above! Make sure you change "type" in data-filter-group="type" to something else too.
+ 
+EXAMPLE WITH EVERYTHING CHANGED:
+ 
+ 
+ <!-- category four ->
+    <div class="button-group" data-filter-group="grade">
+        <h1>GRADE</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".fm">freshman </button>
+        <button class="button" data-filter=".sm">sophmore</button>
+        <button class="button" data-filter=".jr">junior</button>
+        <button class="button" data-filter=".sr">senior</button>
+    </div>    
+ 
+DONE!    
+ 
+------------->
+ 
+ 
+ 
+<div class="sidebar"> 
+<div class="filters">
+ 
+    <!-- category two --->
+    <div class="button-group" data-filter-group="hair color">
+        <h1>hair color</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".brunette">brunette</button>
+        <button class="button" data-filter=".blonde">blonde</button>
+        <button class="button" data-filter=".redhead">redhead</button>
+        <button class="button" data-filter=".dyed">dyed</button>
+    </div>
+ 
+    <!-- category three --->
+    <div class="button-group" data-filter-group="eye color">
+        <h1>Eye color</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".brown">brown </button>
+        <button class="button" data-filter=".blue">blue</button>
+        <button class="button" data-filter=".green">green</button>
+        <button class="button" data-filter=".other">other</button>
+    </div>
+    
+  <!-- category four ---> 
+    <div class="button-group" data-filter-group="Age">
+        <h1>Age</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".teen">teen </button>
+        <button class="button" data-filter=".college">college</button>
+        <button class="button" data-filter=".adult">adult</button>
+        <button class="button" data-filter=".mature">mature</button>
+    </div>
+      <!-- category five --->
+    <div class="button-group" data-filter-group="Ethnicity">
+        <h1>Ethnicity</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".black">black </button>
+        <button class="button" data-filter=".white">white</button>
+        <button class="button" data-filter=".asian">asian</button>
+        <button class="button" data-filter=".indian">Middle Eastern/Indian</button>
+        <button class="button" data-filter=".hispanic">hispanic</button>
+    </div>
+          <!-- category six --->
+    <div class="button-group" data-filter-group="Image Availability">
+        <h1>Image Availability</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".sfw">SFW Only </button>
+        <button class="button" data-filter=".nudes">Nudes</button>
+        <button class="button" data-filter=".porn">Porn</button>
+    </div>
+    
+        <!-- category one --->
+    <div class="button-group" data-filter-group="appearance">
+        <h1>appearance</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".bimbo">bimbo</button>
+        <button class="button" data-filter=".petite">petite</button>
+        <button class="button" data-filter=".muscular">muscular</button>
+        <button class="button" data-filter=".tall">tall</button>
+        <button class="button" data-filter=".chubby">chubby</button>
+        <button class="button" data-filter=".alternative">alternative</button>
+    </div>
+    
+          <!-- category five --->
+    <div class="button-group" data-filter-group="Favourites">
+        <h1>Favourites</h1>
+        <button class="button is-checked" data-filter="">all</button>
+        <button class="button" data-filter=".uga">Uga's Favourites </button>
+        <button class="button" data-filter=".sarah">Sarah's Favourites</button>
+    </div>
+</div>
+</div>
+ 
+ 
+<!-----------------------BEGIN GRID-----------------------
+ 
+TIPS: 
+ 
+1)  the <a href="/"> is where you insert your link!
+    example: <a href="/tagged/hayley-kiyoko">
+ 
+2)  keep "info" to two or three lines of text. anything over that looks off.
+ 
+3)  be kind to retina displays! the dimensions for the circles are 180px but     making them 360px makes sure that they aren't blurry for those with         retinas
+ 
+4)  you can use squares for the images. the code is what makes them circles.     example: this is the image of hayley kiyoko in the preview 
+    https://i.imgur.com/mgUmxxB.png
+ 
+5)  you can add "long" to name for longer names. check the last box that        says "character long nameson" for an example   
+ 
+ 
+HOW TO CHANGE FILTERS:
+ 
+This is the best part! Okay, see where I repeated "thing thing thing"?
+Those are the data-filters from up there ^^^. Lets say a character in this clique rp is an open, canon character who is a jock and a sophomore. I would change "thing" to whatever the data filters above were
+ 
+BEFORE: <div class="grid-item thing thing thing">
+AFTER: <div class="grid-item open cc jocks sm">
+ 
+open is my label for open characters, cc is my label for canon characters, jocks is my label for jocks and sm is my label for sophomores
+ 
+(also don't get rid of "grid-item" it keeps everything pretty)
+ 
+------------------------------------------------------------->
+ 
+<div class="grid" style="position: relative; height: 20130px;">
+ 
+<a href="discord://discord.com/channels/1155599788646076549/1155645835753832559/1155645835753832559">
+<div class="grid-item brunette brown hispanic college adult sfw sarah" style="position: absolute; left: 0px; top: 0px;">
+<div class="name"> Carmella Zumbado </div>
+<img src="https://i.imgur.com/JigGF5x.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: You<br>
+</div>
+</div>
+</a>
+ 
+<a href="discord://discord.com/channels/1155599788646076549/1155650133598421022/1155650133598421022">
+<div class="grid-item brunette brown white indian college adult sfw" style="position: absolute; left: 270px; top: 0px;">
+<div class="name"> Naomi Scott </div>
+<img src="https://i.imgur.com/TzPAVWK.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: Aladdin<br>
+</div>
+</div>
+</a>
+
+ <a href="discord://discord.com/channels/1155599788646076549/1155965905080172645/1155965905080172645">
+<div class="grid-item brunette brown white college sfw" style="position: absolute; left: 540px; top: 0px;">
+<div class="name"> Grace Currey </div>
+<img src="https://i.imgur.com/u15ZwGP.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: Shazam and Fall<br>
+</div>
+</div>
+</a>
+
+ <a href="discord://discord.com/channels/1155599788646076549/1155751915712413729/1155751915712413729">
+<div class="grid-item blonde blue white teen college sfw" style="position: absolute; left: 0px; top: 330px;">
+<div class="name"> Sabrina Carpenter </div>
+<img src="https://i.imgur.com/JuZBqms.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: Girl Meets World<br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1155752668027961365/1155752668027961365">
+<div class="grid-item blonde blue white college adult sfw" style="position: absolute; left: 270px; top: 330px;">
+<div class="name"> Eliza Taylor </div>
+<img src="https://i.imgur.com/4Msidgf.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: The 100<br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1155753535829459005/1155753535829459005">
+<div class="grid-item blonde brown white college adult sfw bimbo" style="position: absolute; left: 540px; top: 330px;">
+<div class="name"> Natalie Alyn Lind </div>
+<img src="https://i.imgur.com/vjgAjkH.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: Goldbergs and Gotham<br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1155754818112081940/1155754818112081940">
+<div class="grid-item brunette green white college adult sfw uga sarah" style="position: absolute; left: 0px; top: 660px;">
+<div class="name"> Marie Avgeropoulos </div>
+<img src="https://i.imgur.com/pRhAYr7.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: The 100<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155755460092239942/1155755460092239942">
+<div class="grid-item blonde green white teen college adult sfw alternative" style="position: absolute; left: 270px; top: 660px;">
+<div class="name"> Sophie Thatcher </div>
+<img src="https://i.imgur.com/Re2Jypl.jpg">
+<div class="info">  
+    Actress <br>
+    Known for: The Yellowjackets<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155927958075228261/1155927958075228261">
+<div class="grid-item blonde green white college adult porn bimbo" style="position: absolute; left: 540px; top: 660px;">
+<div class="name"> Viola Bailey </div>
+<img src="https://i.imgur.com/cx3otK2.jpg">
+<div class="info">  
+    Pornstar <br>
+    From Latvia<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155929266492547133/1155929266492547133">
+<div class="grid-item blonde brunette blue white teen college adult sfw uga sarah" style="position: absolute; left: 0px; top: 990px;">
+<div class="name"> Barbara Palvin </div>
+<img src="https://i.imgur.com/bCDWlLv.jpg">
+<div class="info">  
+    Model<br>
+    Also in some movies<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155933582041301135/1155933582041301135">
+<div class="grid-item blonde brown white college adult mature sfw" style="position: absolute; left: 270px; top: 990px;">
+<div class="name"> Keeley Hawes </div>
+<img src="https://i.imgur.com/ZKnqFVS.jpg">
+<div class="info">  
+    Actress<br>
+    Known for: Bodyguard and Spooks<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155934140533833788/1155934140533833788">
+<div class="grid-item brunette brown white college adult sfw" style="position: absolute; left: 540px; top: 990px;">
+<div class="name"> Victoria Justice </div>
+<img src="https://i.imgur.com/0mbmsnp.jpg">
+<div class="info">  
+    Actress<br>
+    Known for: Victorious; Zoey 101<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155934540993413243/1155934540993413243">
+<div class="grid-item brunette blue white teen college sfw" style="position: absolute; left: 0px; top: 1320px;">
+<div class="name"> Odeya Rush </div>
+<img src="https://i.imgur.com/IAUERX5.jpg">
+<div class="info">  
+    Actress<br>
+    Known for: Goosebumps<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155936267184378020/1155936267184378020">
+<div class="grid-item blonde blue white teen college sfw" style="position: absolute; left: 270px; top: 1320px;">
+<div class="name"> Elle Fanning </div>
+<img src="https://i.imgur.com/FmGlxom.jpg">
+<div class="info">  
+    Actress<br>
+    Known for: Maleficent<br>
+</div>
+</div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1155939118363189448/1155939118363189448">
+<div class="grid-item blonde blue white teen college sfw" style="position: absolute; left: 540px; top: 1320px;">
+<div class="name"> Dakota Fanning </div>
+<img src="https://i.imgur.com/RqPS5DT.jpg">
+<div class="info">  
+    Actress<br>
+    Known for: Twilight<br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1155939884196958368/1155939884196958368">
+<div class="grid-item brunette blue white teen college sfw" style="position: absolute; left: 0px; top: 1650px;">
+<div class="name">Danielle Rose Russell </div>
+<img src="https://i.imgur.com/DSgeVfm.jpg">
+<div class="info">  
+    Actress<br>
+    Known for: Legacies and The Originals<br>
+</div>
+</div>
+</a>
+
+
+<a href=" discord://discord.com/channels/1155599788646076549/1155940670935154688/1155940670935154688 ">
+<div class="grid-item brunette brown white teen college sfw petite" style="position: absolute; left: 270px; top: 1650px;">
+<div class="name"> Kaylee Bryant </div>
+<img src=" https://i.imgur.com/UaN0W7e.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Legacies<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1155942499500691476/1155942499500691476 ">
+<div class="grid-item blonde brown white teen college adult sfw uga " style="position: absolute; left: 540px; top: 1650px;">
+<div class="name"> Bridget Mendler </div>
+<img src=" https://i.imgur.com/CY6B6l2.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Good Luck Charlie<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1155943852532834485/1155943852532834485 ">
+<div class="grid-item redhead green white teen college sfw sarah " style="position: absolute; left: 0px; top: 1980px;">
+<div class="name"> Abigail Cowen </div>
+<img src=" https://i.imgur.com/HktQ9fE.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Fate: The Winx Saga<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1155999296278241330/1155999296278241330 ">
+<div class="grid-item brunette brown white teen college uga sarah " style="position: absolute; left: 270px; top: 1980px;">
+<div class="name"> Andrea Botez </div>
+<img src=" https://i.imgur.com/1mT5sQD.jpg ">
+<div class="info">  
+    Youtuber / Chess Player<br>
+    Known for: BotezLive<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156006685425541160/1156006685425541160">
+<div class="grid-item brunette brown white teen college sfw uga sarah " style="position: absolute; left: 540px; top: 1980px;">
+<div class="name"> Alexandra Botez </div>
+<img src=" https://i.imgur.com/pSIqp4X.jpg ">
+<div class="info">  
+    Youtube/Twitch/Chess Player<br>
+    Known for: BotezLive<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156084793176506479/1156084793176506479">
+<div class="grid-item brunette green white college adult sfw " style="position: absolute; left: 0px; top: 2310px;">
+<div class="name"> Elizabeth Gillies </div>
+<img src=" https://i.imgur.com/dhHV2XI.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Victorious<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156087035044577330/1156087035044577330 ">
+<div class="grid-item blonde green white college adult sfw uga " style="position: absolute; left: 270px; top: 2310px;">
+<div class="name"> Florence Pugh </div>
+<img src=" https://i.imgur.com/sQqpOgQ.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Midsommar and Black Widow<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156374186189660260/1156374186189660260 ">
+<div class="grid-item brunette blue white teen college adult sfw " style="position: absolute; left: 540px; top: 2310px;">
+<div class="name"> Ksenia Solo </div>
+<img src=" https://i.imgur.com/LkEulKZ.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Lost Girl<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156375388277186631/1156375388277186631 ">
+<div class="grid-item brunette brown white adult mature nudes  " style="position: absolute; left: 0px; top: 2640px;">
+<div class="name"> Mary Louise Parker </div>
+<img src=" https://i.imgur.com/QBd6sWy.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Weeds<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156376260948271244/1156376260948271244 ">
+<div class="grid-item  blonde blue white teen college adult sfw" style="position: absolute; left: 270px; top: 2640px;">
+<div class="name"> Britt Robertson </div>
+<img src=" https://i.imgur.com/EyMgOyD.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: The First Time and Tomorrowland<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156384941475627018/1156384941475627018 ">
+<div class="grid-item brunette brown asian college adult sfw sarah uga " style="position: absolute; left: 540px; top: 2640px;">
+<div class="name"> Karen Fukuhara </div>
+<img src=" https://i.imgur.com/4CACsKg.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: The Boys<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156388707708977252/1156388707708977252 ">
+<div class="grid-item  redhead green white college adult sfw uga" style="position: absolute; left: 0px; top: 2970px;">
+<div class="name"> Alina Kovalenko </div>
+<img src=" https://i.imgur.com/S4NdVPd.png ">
+<div class="info">  
+    Actress<br>
+    Known for: Rising Hawk and Kruty 1918<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156391967605927996/1156391967605927996 ">
+<div class="grid-item blonde blue white teen college adult sfw uga " style="position: absolute; left: 270px; top: 2970px;">
+<div class="name"> Olivia Taylor Dudley </div>
+<img src=" https://i.imgur.com/nM0VRWD.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: The Magicians<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156393387289751614/1156393387289751614 ">
+<div class="grid-item brunette brown hispanic indian college adult sfw sarah" style="position: absolute; left: 540px; top: 2970px;">
+<div class="name"> Summer Bishil </div>
+<img src=" https://i.imgur.com/tEMG8vU.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: The Magicians<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156395834162815058/1156395834162815058 ">
+<div class="grid-item blonde blue white college adult mature sfw " style="position: absolute; left: 0px; top: 3300px;">
+<div class="name"> Pixie Lott </div>
+<img src=" https://i.imgur.com/4JEIw1w.jpg ">
+<div class="info">  
+    Singer<br>
+     <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1155918778287263897/1155918778287263897 ">
+<div class="grid-item blonde dyed blue white teen college adult porn uga sarah alternative " style="position: absolute; left: 270px; top: 3300px;">
+<div class="name"> Cherry Crush </div>
+<img src=" https://i.imgur.com/GNn9Mlj.jpg ">
+<div class="info">  
+    Youtuber / Pornstar<br>
+    Known for: Youtube (cherry crush)<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156396798064218122/1156396798064218122 ">
+<div class="grid-item  blonde green white teen college porn " style="position: absolute; left: 540px; top: 3300px;">
+<div class="name"> Hannah Hawthorne </div>
+<img src=" https://i.imgur.com/6ZD8sj4.jpg ">
+<div class="info">  
+    Pornstar<br>
+   <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156397308200616046/1156397308200616046 ">
+<div class="grid-item brunette brown white teen college porn " style="position: absolute; left: 0px; top: 3630px;">
+<div class="name"> Zara Brooks </div>
+<img src="https://i.imgur.com/1AEZg68.jpg ">
+<div class="info">  
+   Pornstar<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156814941148426250/1156814941148426250 ">
+<div class="grid-item blonde  green white teen college porn " style="position: absolute; left: 270px; top: 3630px;">
+<div class="name"> Eva Elfie </div>
+<img src=" https://i.imgur.com/i81fdSw.jpg ">
+<div class="info">  
+    Pornstar / Onlyfans<br>
+    <br>
+</div>
+</div>
+</a>
+
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156400222025560174/1156400222025560174 ">
+<div class="grid-item blonde blue white college adult porn " style="position: absolute; left: 540px; top: 3630px;">
+<div class="name"> Melody Marks </div>
+<img src=" https://i.imgur.com/Xxu5Iw8.jpg ">
+<div class="info">  
+    Pornstar<br>
+  <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156403765193220137/1156403765193220137">
+<div class="grid-item blonde brown white teen college porn petite" style="position: absolute; left: 0px; top: 3960px;">
+<div class="name"> Halle Von </div>
+<img src=" https://i.imgur.com/JXgAq82.jpg ">
+<div class="info">  
+    Pornstar / BDSM <br>
+    <br>
+</div>
+</div>
+</a>
+
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156404158035922954/1156404158035922954 ">
+<div class="grid-item brunette brown white indian teen college porn " style="position: absolute; left: 270px; top: 3960px;">
+<div class="name"> Janice Griffith
+ </div>
+<img src=" https://i.imgur.com/ocWfmpz.jpg ">
+<div class="info">  
+   Pornstar<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156404934393208906/1156404934393208906 ">
+<div class="grid-item brunette brown hispanic teen college adult sfw " style="position: absolute; left: 540px; top: 3960px;">
+<div class="name"> Melissa Barrera </div>
+<img src=" https://i.imgur.com/arf6Rxn.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Scream, In the Heights, Vida<br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1155925050529161396/1155925050529161396 ">
+<div class="grid-item brunette brown hispanic college adult sfw uga" style="position: absolute; left: 0px; top: 4290px;">
+<div class="name"> Lindsey Morgan
+ </div>
+<img src=" https://i.imgur.com/q7ndsOP.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: The 100<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156668996045766777/1156668996045766777 ">
+<div class="grid-item brunette brown hispanic college adult sfw " style="position: absolute; left: 270px; top: 4290px;">
+<div class="name"> Alyssa Diaz
+ </div>
+<img src=" https://i.imgur.com/0FtTt9f.png ">
+<div class="info">  
+    Actress<br>
+    Known for: The Rookie<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156670345282060399/1156670345282060399 ">
+<div class="grid-item brunette brown asian college adult sfw uga sarah" style="position: absolute; left: 540px; top: 4290px;">
+<div class="name"> Melissa O'Neil
+ </div>
+<img src=" https://i.imgur.com/czegZmm.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Dark Matter, The Rookie<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156671278699262073/1156671278699262073 ">
+<div class="grid-item brunette brown white black college adult sfw uga " style="position: absolute; left: 0px; top: 4620px;">
+<div class="name"> Sarah Parker Kennedy </div>
+<img src=" https://i.imgur.com/xWTMokQ.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Black Sails, The Flash<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156671897182933132/1156671897182933132 ">
+<div class="grid-item brunette brown hispanic teen college sfw sarah uga" style="position: absolute; left: 270px; top: 4620px;">
+<div class="name"> Dylan Conrique
+ </div>
+<img src=" https://i.imgur.com/Q7I1VDs.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: The Rookie, Henry Danger<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156672595412918393/1156672595412918393 ">
+<div class="grid-item  brunette brown indian adult mature sfw uga sarah " style="position: absolute; left: 540px; top: 4620px;">
+<div class="name"> Sarah Shahi
+ </div>
+<img src=" https://i.imgur.com/i1ESa5z.png ">
+<div class="info">  
+    Actress<br>
+    Known for: Sex/Life, The L Word<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156673501692973096/1156673501692973096 ">
+<div class="grid-item brunette brown black college adult sfw " style="position: absolute; left: 0px; top: 4950px;">
+<div class="name"> Candice Patton </div>
+<img src=" https://i.imgur.com/6tAZYph.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: The Flash<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156674708553613332/1156674708553613332 ">
+<div class="grid-item dyed blue white asian sfw petite " style="position: absolute; left: 270px; top: 4950px;">
+<div class="name"> Jodelle Ferland </div>
+<img src=" https://i.imgur.com/cBGDxYS.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Dark Matter, Silent Hill<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156675524773543956/1156675524773543956 ">
+<div class="grid-item brunette brown hispanic college adult nudes uga sarah bimbo " style="position: absolute; left: 540px; top: 4950px;">
+<div class="name"> Alinity </div>
+<img src=" https://i.imgur.com/eLnB0Cg.png ">
+<div class="info">  
+    OnlyFans / Twitch Streamer<br>
+    Known for: twitch.tv/alinity<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156679126342701097/1156679126342701097 ">
+<div class="grid-item brunette dyed brown asian teen college sfw uga sarah petite " style="position: absolute; left: 0px; top: 5280px;">
+<div class="name"> Emiru
+ </div>
+<img src=" https://i.imgur.com/mzkdlvW.png ">
+<div class="info">  
+    Streamer / Cosplayer<br>
+    Known for: twitch.tv/emiru<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156680311153897614/1156680311153897614 ">
+<div class="grid-item blonde blue white college adult sfw uga sarah " style="position: absolute; left: 270px; top: 5280px;">
+<div class="name"> Qtcinderella
+ </div>
+<img src=" https://i.imgur.com/2u5sTK9.png ">
+<div class="info">  
+    Streamer<br>
+    Known for: twitch.tv/qtcindarella<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156681110579855360/1156681110579855360 ">
+<div class="grid-item blonde green white teen college sfw " style="position: absolute; left: 540px; top: 5280px;">
+<div class="name"> Lissa Vannatta
+ </div>
+<img src=" https://i.imgur.com/BAstDgA.jpg ">
+<div class="info">  
+    Streamer<br>
+    Known as: STPeach<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156682169666785321/1156682169666785321 ">
+<div class="grid-item redhead dyed green white college adult sfw sarah uga " style="position: absolute; left: 0px; top: 5610px;">
+<div class="name"> Amouranth
+ </div>
+<img src=" https://i.imgur.com/BAFtpMh.jpg ">
+<div class="info">  
+    Streamer<br>
+    Known for: twitch.tv/amouranth<br>
+</div>
+</div>
+</a>
+
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156683324425785364/1156683324425785364 ">
+<div class="grid-item brunette dyed green white teen college porn uga sarah petite " style="position: absolute; left: 270px; top: 5610px;">
+<div class="name"> Belle Delphine </div>
+<img src=" https://i.imgur.com/NbpNoOy.jpg ">
+<div class="info">  
+    Pornstar / Onlyfans<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156684282291556352/1156684282291556352 ">
+<div class="grid-item blonde blue white college adult sfw " style="position: absolute; left: 540px; top: 5610px;">
+<div class="name"> Rose McIver </div>
+<img src=" https://i.imgur.com/kUB3wgn.png ">
+<div class="info">  
+    Actress<br>
+    Known for: iZombie<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156684860707057775/1156684860707057775 ">
+<div class="grid-item blonde green white college adult sfw bimbo " style="position: absolute; left: 0px; top: 5940px;">
+<div class="name"> Aly Michalka </div>
+<img src=" https://i.imgur.com/rSv8WEs.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: iZombie, Hellcats<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156685391328444532/1156685391328444532 ">
+<div class="grid-item blonde  green white college adult sfw " style="position: absolute; left: 270px; top: 5940px;">
+<div class="name"> Vanessa Kirby </div>
+<img src=" https://i.imgur.com/dTknnuT.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Mission Impossible, The Crown<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156690697806680125/1156690697806680125 ">
+<div class="grid-item blonde green white teen college adult nudes uga " style="position: absolute; left: 540px; top: 5940px;">
+<div class="name"> Amanda Seyfried </div>
+<img src=" https://i.imgur.com/8DvgmIc.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Mean Girls, Mamma Mia!<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156691215996166287/1156691215996166287 ">
+<div class="grid-item blonde blue white teen college adult sfw " style="position: absolute; left: 0px; top: 6270px;">
+<div class="name"> Madison Iseman </div>
+<img src=" https://i.imgur.com/7vRaNLU.png ">
+<div class="info">  
+    Actress<br>
+    Known for: Jumanji<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1156692885345935521/1156692885345935521 ">
+<div class="grid-item blonde green white teen college adult sfw uga sarah " style="position: absolute; left: 270px; top: 6270px;">
+<div class="name"> Grace Van Dien </div>
+<img src=" https://i.imgur.com/dxNpLeA.jpg ">
+<div class="info">  
+    Actress<br>
+    Known for: Stranger Things<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157130578366316605/1157130578366316605 ">
+<div class="grid-item dyed brown white teen college adult sfw uga alternative" style="position: absolute; left: 540px; top: 6270px;">
+<div class="name"> Emma Langevin </div>
+<img src=" https://i.imgur.com/ZNC8gqQ.png ">
+<div class="info">  
+    Youtuber<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157131482201075743/1157131482201075743 ">
+<div class="grid-item brunette brown asian teen college sfw uga petite " style="position: absolute; left: 0px; top: 6600px;">
+<div class="name"> Tina Kitten </div>
+<img src=" https://i.imgur.com/bi6c92M.png ">
+<div class="info">  
+    Streamer<br>
+    Known for: twitch.tv/tinakitten<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157133821284724826/1157133821284724826 ">
+<div class="grid-item brunette blonde brown asian hispanic college adult sfw " style="position: absolute; left: 270px; top: 6600px;">
+<div class="name"> Valkyrae </div>
+<img src=" https://i.imgur.com/TS7K2F7.jpg ">
+<div class="info">  
+    Streamer<br>
+    Known for: twitch.tv/valkyrae<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157135343867400222/1157135343867400222 ">
+<div class="grid-item brunette dyed brown asian college adult sfw petite " style="position: absolute; left: 540px; top: 6600px;">
+<div class="name"> LilyPichu </div>
+<img src=" https://i.imgur.com/jHU3oQN.png ">
+<div class="info">  
+   Streamer<br>
+   Known for: twitch.tv/lilypichu<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157142038861590611/1157142038861590611 ">
+<div class="grid-item brunette brown white college adult porn uga " style="position: absolute; left: 0px; top: 6930px;">
+<div class="name"> Sasha Gray </div>
+<img src=" https://i.imgur.com/1q9jBIz.png ">
+<div class="info">  
+    Pornstar / Streamer / Actress<br>
+    Known for: Open Windows, The Girlfriend Experience<br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1157834658134892578/1157834658134892578 ">
+<div class="grid-item blonde brown white college adult bimbo nudes " style="position: absolute; left: 270px; top: 6930px;">
+<div class="name"> Jessica Nigri </div>
+<img src=" https://i.imgur.com/ZUv5auQ.jpg ">
+<div class="info">  
+    Cosplay Model / Voice Actress<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157836703449481246/1157836703449481246 ">
+<div class="grid-item brunette blue white teen college porn " style="position: absolute; left: 540px; top: 6930px;">
+<div class="name"> Kyler Quinn </div>
+<img src=" https://i.imgur.com/k2shfk5.jpg ">
+<div class="info">  
+    Pornstar<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157838340893188236/1157838340893188236 ">
+<div class="grid-item bimbo brunette blue white college adult porn " style="position: absolute; left: 0px; top: 7260px;">
+<div class="name"> Adriana Chechik </div>
+<img src=" https://i.imgur.com/WATAqwQ.png ">
+<div class="info">  
+    Pornstar<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157839725558767746/1157839725558767746 ">
+<div class="grid-item chubby redhead green white adult porn uga " style="position: absolute; left: 270px; top: 7260px;">
+<div class="name"> Bella Rossi </div>
+<img src=" https://i.imgur.com/SbZsv2T.png ">
+<div class="info">  
+    Pornstar<br>
+    Kink.com Star<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157840753419092010/1157840753419092010 ">
+<div class="grid-item brunette brown white adult mature porn uga " style="position: absolute; left: 540px; top: 7260px;">
+<div class="name"> Princess Donna Dolores </div>
+<img src=" https://i.imgur.com/mNnPM0D.jpg ">
+<div class="info">  
+    Pornstar<br>
+    Kink.com Star<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1162488485102485605/1162488485102485605 ">
+<div class="grid-item dyed redhead green white adult mature porn " style="position: absolute; left: 0px; top: 7590px;">
+<div class="name"> Miz Berlin </div>
+<img src=" https://i.imgur.com/tc0CgZi.jpg ">
+<div class="info">  
+    Pornstar<br>
+    Kink.com Star<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157844392292397086/1157844392292397086 ">
+<div class="grid-item brunette green white indian teen college adult sfw uga sarah " style="position: absolute; left: 270px; top: 7590px;">
+<div class="name"> ASMRGlow </div>
+<img src=" https://i.imgur.com/nBEQnN2.png ">
+<div class="info">  
+    Youtuber<br>
+    Known for: ASMRGlow channel<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1157847831235797024/1157847831235797024 ">
+<div class="grid-item dyed brunette brown black college adult sfw " style="position: absolute; left: 540px; top: 7590px;">
+<div class="name"> Sydeon </div>
+<img src=" https://i.imgur.com/RhxwPjZ.png ">
+<div class="info">  
+    Streamer<br>
+    Known for: twitch.com/sydeon<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1163311722262691840/1163311722262691840 ">
+<div class="grid-item dyed brunette brown asian college adult sfw " style="position: absolute; left: 0px; top: 7920px;">
+<div class="name"> QuarterJade </div>
+<img src=" https://i.imgur.com/ztB1aiV.jpg ">
+<div class="info">  
+    Streamer<br>
+    Known for: twitch.com/quarterjade<br>
+</div>
+</div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1163314885480943648/1163314885480943648 ">
+<div class="grid-item redhead green white teen college porn sarah " style="position: absolute; left: 270px; top: 7920px;">
+<div class="name"> SweetieFox </div>
+<img src=" https://i.imgur.com/AjgO3BT.jpg ">
+<div class="info">  
+    Pornstar<br>
+    <br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163316845428879420/1163316845428879420">
+  <div class="grid-item blonde green white college adult sfw uga sarah" style="position: absolute; left: 540px; top: 7920px;">
+    <div class="name">Jessica Rothe</div>
+    <img src="https://i.imgur.com/JpOUCoj.jpg">
+    <div class="info">  
+        Actress <br>
+        Known for: Happy Death Day <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163318029313130518/1163318029313130518">
+  <div class="grid-item blonde blue white college adult sfw uga sarah" style="position: absolute; left: 0px; top: 8250px;">
+    <div class="name">Samara Weaving</div>
+    <img src="https://i.imgur.com/907MPTo.jpg">
+    <div class="info">  
+        Actress <br>
+        Known for: Ready or Not, The Babysitter <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163319082393800714/1163319082393800714">
+  <div class="grid-item blonde brown white teen college sfw uga sarah" style="position: absolute; left: 270px; top: 8250px;">
+    <div class="name">Emily Alyn Lind</div>
+    <img src="https://i.imgur.com/Qm4y6oQ.png">
+    <div class="info">  
+        Actress <br>
+        Known for: Gossip Girl <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163320274020737117/1163320274020737117">
+  <div class="grid-item petite brunette blue white teen sfw" style="position: absolute; left: 540px; top: 8250px;">
+    <div class="name">Emma Meyers</div>
+    <img src="https://i.imgur.com/bYhY9uC.jpg">
+    <div class="info">  
+        Actress <br>
+        Known for: Wednesday <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163321171589206057/1163321171589206057">
+  <div class="grid-item brunette green white teen porn" style="position: absolute; left: 0px; top: 8580px;">
+    <div class="name">Lauren Summer</div>
+    <img src="https://i.imgur.com/WMg27fH.jpg">
+    <div class="info">  
+        Model <br>
+        Known for: Instagram <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163322054066585691/1163322054066585691">
+  <div class="grid-item brunette brown white teen porn" style="position: absolute; left: 270px; top: 8580px;">
+    <div class="name">Cecilia Rose</div>
+    <img src="https://i.imgur.com/fZCITbf.jpg">
+    <div class="info">  
+        Model <br>
+        Known for: Instagram / Onlyfans <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163323354137239552/1163323354137239552">
+  <div class="grid-item petite brunette brown white indian teen college" style="position: absolute; left: 540px; top: 8580px;">
+    <div class="name">Bonnie Rabbit/Bonnie Bruise</div>
+    <img src="https://i.imgur.com/Fq491jR.png">
+    <div class="info">  
+        Twitch <br>
+        Ex-Camgirl <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163466528818200736/1163466528818200736">
+  <div class="grid-item brunette blue white teen college nudes" style="position: absolute; left: 0px; top: 8910px;">
+    <div class="name">Caitlin Christine</div>
+    <img src="https://i.imgur.com/DMBfKRI.jpg">
+    <div class="info">  
+        Cosplay <br>
+        Onlyfans <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163467941535301762/1163467941535301762">
+  <div class="grid-item petite brunette brown white teen porn" style="position: absolute; left: 270px; top: 8910px;">
+    <div class="name">Nataliexking</div>
+    <img src="https://i.imgur.com/0Yo9UmC.jpg">
+    <div class="info">  
+        Onlyfans <br>
+        instagram.com/natalieexking <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163470135064002612/1163470135064002612">
+  <div class="grid-item bimbo blonde green white college adult porn" style="position: absolute; left: 540px; top: 8910px;">
+    <div class="name">Lisa Ter Host</div>
+    <img src="https://i.imgur.com/ebRvv0l.jpg">
+    <div class="info">  
+        Onlyfans <br>
+        instagram.com/lisaterrhorst <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163550764900286616/1163550764900286616">
+  <div class="grid-item brunette green white teen college porn" style="position: absolute; left: 0px; top: 9240px;">
+    <div class="name">Daisy Drew</div>
+    <img src="https://i.imgur.com/gmGNVDa.jpg">
+    <div class="info">  
+        Onlyfans <br>
+        instagram.com/daisydrew <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163564714584965130/1163564714584965130">
+  <div class="grid-item brunette brown white college adult porn" style="position: absolute; left: 270px; top: 9240px;">
+    <div class="name">Lauren Alexis</div>
+    <img src="https://i.imgur.com/6fxgbAm.jpg">
+    <div class="info">  
+        Onlyfans <br>
+        instagram.com/laurenalexis <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1163567553390588025/1163567553390588025">
+  <div class="grid-item blonde blue white teen college porn" style="position: absolute; left: 540px; top: 9240px;">
+    <div class="name">Skylerxrae</div>
+    <img src="https://i.imgur.com/LfG9otE.jpg">
+    <div class="info">  
+        Onlyfans <br>
+         <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164031179402526780/1164031179402526780">
+  <div class="grid-item brunette brown white teen college porn" style="position: absolute; left: 0px; top: 9570px;">
+    <div class="name">Effycutiexx</div>
+    <img src="https://i.imgur.com/58CavkN.jpg">
+    <div class="info">  
+        Onlyfans <br>
+        instagram.com/effycutiex <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164032164288024596/1164032164288024596">
+  <div class="grid-item bimbo blonde green white college adult sfw" style="position: absolute; left: 270px; top: 9570px;">
+    <div class="name">Mikayla Demaiter</div>
+    <img src="https://i.imgur.com/KNMQPEi.jpg">
+    <div class="info">  
+        Canadian Model <br>
+         <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164033074745593907/1164033074745593907">
+  <div class="grid-item bimbo brunette brown white college adult sfw" style="position: absolute; left: 540px; top: 9570px;">
+    <div class="name">Bianca Stanciu</div>
+    <img src="https://i.imgur.com/RznIRTw.png">
+    <div class="info">  
+        Model <br>
+         <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164034359905497159/1164034359905497159">
+  <div class="grid-item brunette brown white college adult nudes uga sarah" style="position: absolute; left: 0px; top: 9900px;">
+    <div class="name">Christy Ren</div>
+    <img src="https://i.imgur.com/VU7WrOr.jpg">
+    <div class="info">  
+        Model <br>
+         <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164035732852179026/1164035732852179026">
+  <div class="grid-item tall brunette grown hispanic college adult porn uga" style="position: absolute; left: 270px; top: 9900px;">
+    <div class="name">Marie Temara</div>
+    <img src="https://i.imgur.com/WvP7rVx.png">
+    <div class="info">  
+        Camgirl <br>
+        Known for being super tall <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164037496133394463/1164037496133394463">
+  <div class="grid-item brunette brown hispanic college adult sfw" style="position: absolute; left: 540px; top: 9900px;">
+    <div class="name">Emeraude Toubia</div>
+    <img src="https://i.imgur.com/tqiqhyY.jpg">
+    <div class="info">  
+        Actress <br>
+        Known for: With Love, Shadowhunters <br>
+    </div>
+  </div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1164038301246816278/1164038301246816278 ">
+<div class="grid-item chubby brunette brown asian teen college adult sfw " style="position: absolute; left: 0px; top: 10230px;">
+<div class="name"> Akidearest </div>
+<img src=" https://i.imgur.com/bqjuVU3.png ">
+<div class="info">  
+    Youtuber<br>
+    Known for: AkiDearest channel<br>
+</div>
+</div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164039209959563304/1164039209959563304">
+  <div class="grid-item brunette green white teen college porn uga sarah" style="position: absolute; left: 270px; top: 10230px;">
+    <div class="name">Olivia Casta</div>
+    <img src="https://i.imgur.com/ZZ720LK.jpg">
+    <div class="info">  
+        Onlyfans Model <br>
+         <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164040528715849791/1164040528715849791">
+  <div class="grid-item blonde green white college adult mature nudes uga sarah" style="position: absolute; left: 540px; top: 10230px;">
+    <div class="name">Olivia Wilde</div>
+    <img src="https://i.imgur.com/LWXzoza.png">
+    <div class="info">  
+        Actress <br>
+        Known for: House, The O.C. <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164041836948619284/1164041836948619284">
+  <div class="grid-item redhead brown white college adult nudes uga sarah" style="position: absolute; left: 0px; top: 10560px;">
+    <div class="name">Becca Scott</div>
+    <img src="https://i.imgur.com/RN7vOgo.png">
+    <div class="info">  
+        Actress <br>
+        OnlyFans <br>
+    </div>
+  </div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1164042541935628348/1164042541935628348 ">
+  <div class="grid-item brunette brown hispanic teen college sfw petite " style="position: absolute; left: 270px; top: 10560px;">
+    <div class="name"> Susu_Jpg </div>
+    <img src=" https://i.imgur.com/RtJKXJu.png ">
+    <div class="info">  
+        Twitch Streamer <br>
+        Susu_JPG <br>
+    </div>
+  </div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1164042872849432596/1164042872849432596 ">
+  <div class="grid-item brunette green white teen college porn " style="position: absolute; left: 540px; top: 10560px;">
+    <div class="name"> Leah Gotti </div>
+    <img src=" https://i.imgur.com/8dbl0Jc.jpg ">
+    <div class="info">  
+        Pornstar <br>
+          <br>
+    </div>
+  </div>
+</a>
+
+<a href="  discord://discord.com/channels/1155599788646076549/1164043333388214293/1164043333388214293 ">
+  <div class="grid-item brunette blue white teen college sfw " style="position: absolute; left: 0px; top: 10890px;">
+    <div class="name"> Taylor Machat </div>
+    <img src=" https://i.imgur.com/Aih2ncl.jpg ">
+    <div class="info">  
+        Model <br>
+        Instagram <br>
+    </div>
+  </div>
+</a>
+
+<a href=" discord://discord.com/channels/1155599788646076549/1164043721168404530/1164043721168404530 ">
+  <div class="grid-item blonde blue white college adult porn sarah bimbo " style="position: absolute; left: 270px; top: 10890px;">
+    <div class="name"> Blake Blossom </div>
+    <img src=" https://i.imgur.com/09yI2Hq.jpg ">
+    <div class="info">  
+        Pornstar <br>
+         <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164335532046823434">
+  <div class="grid-item redhead blue white teen college adult nsfw sarah" style="position: absolute; left: 540px; top: 10890px;">
+    <div class="name">MollyRedWolf</div>
+    <img src="https://i.imgur.com/xUw7Sss.png">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164336434614902865">
+  <div class="grid-item brunette green white college adult porn chubby" style="position: absolute; left: 0px; top: 11220px;">
+    <div class="name">Maple Divine</div>
+    <img src="https://i.imgur.com/rDmqKev.jpg">
+    <div class="info">  
+      Youtuber / OnlyFans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164337271818952734">
+  <div class="grid-item brunette brown white teen college porn" style="position: absolute; left: 270px; top: 11220px;">
+    <div class="name">Indigo White</div>
+    <img src="https://i.imgur.com/T1Pcr1v.png">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164339089747746846">
+  <div class="grid-item dyed green white college adult sfw alternative" style="position: absolute; left: 540px; top: 11220px;">
+    <div class="name">Emalynde</div>
+    <img src="https://i.imgur.com/StId2kv.jpg">
+    <div class="info">  
+      Twitch Streamer / Cosplayer <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164344748706893954">
+  <div class="grid-item blonde blue white teen college sfw" style="position: absolute; left: 0px; top: 11550px;">
+    <div class="name">Kathryn Newton</div>
+    <img src="https://i.imgur.com/YeLHyNl.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: The Society <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164352676717408359">
+  <div class="grid-item brunette brown white teen college nudes" style="position: absolute; left: 270px; top: 11550px;">
+    <div class="name">Sam Slayre</div>
+    <img src="https://i.imgur.com/OXjUYA5.jpg">
+    <div class="info">  
+      Model / OnlyFans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164361535313948792">
+  <div class="grid-item blonde blue white colelge adult bimbo sfw" style="position: absolute; left: 540px; top: 11550px;">
+    <div class="name">Skyler Simpson</div>
+    <img src="https://i.imgur.com/0YU6rps.jpg">
+    <div class="info">  
+      Instagram Model / OnlyFans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164366842823970837">
+  <div class="grid-item blonde blue white teen college adult porn uga sarah" style="position: absolute; left: 0px; top: 11880px;">
+    <div class="name">Gabby Carter</div>
+    <img src="https://i.imgur.com/YQjfPUf.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164382229275889666">
+  <div class="grid-item blonde green white college adult bimbo porn sarah uga" style="position: absolute; left: 270px; top: 11880px;">
+    <div class="name">Mia Malkova</div>
+    <img src="https://i.imgur.com/AtVMTzn.jpg">
+    <div class="info">  
+      Pornstar / Twitch Streamer <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164392268145377331">
+  <div class="grid-item brunette brown hispanic teen college adult porn" style="position: absolute; left: 540px; top: 11880px;">
+    <div class="name">Emily Willis</div>
+    <img src="https://i.imgur.com/vk0IPaL.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1164449594688679987">
+  <div class="grid-item blonde blue other white college adult bimbo porn" style="position: absolute; left: 0px; top: 12210px;">
+    <div class="name">Corianna Kopf</div>
+    <img src="https://i.imgur.com/uViogS3.jpg">
+    <div class="info">  
+      Model / OnlyFans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164451332124590130">
+  <div class="grid-item brunette brown white teen college adult porn petite" style="position: absolute; left: 270px; top: 12210px;">
+    <div class="name">Little Caprice</div>
+    <img src="https://i.imgur.com/663ipxA.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164457675384438784">
+  <div class="grid-item redhead green white college adult porn" style="position: absolute; left: 540px; top: 12210px;">
+    <div class="name">Jayden Cole</div>
+    <img src="https://i.imgur.com/O0jBWk5.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1164471075996962927">
+  <div class="grid-item blonde brown white college adult porn" style="position: absolute; left: 0px; top: 12540px;">
+    <div class="name">Paola Hard</div>
+    <img src="https://i.imgur.com/Ar5u2XJ.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1172996435583696996">
+  <div class="grid-item brunette green white teen college adult porn petite uga sarah" style="position: absolute; left: 270px; top: 12540px;">
+    <div class="name">Riley Reid</div>
+    <img src="https://i.imgur.com/0PrVEdB.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1173003052760973342">
+  <div class="grid-item dyed redhead green white college adult sfw uga alternative" style="position: absolute; left: 540px; top: 12540px;">
+    <div class="name">Hailey Williams</div>
+    <img src="https://i.imgur.com/fmAt5gI.jpg">
+    <div class="info">  
+      Musician <br>
+      Paramore <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173007572501004328">
+  <div class="grid-item brunette brown white college adult sfw" style="position: absolute; left: 0px; top: 12870px;">
+    <div class="name">Nina Dobrev</div>
+    <img src="https://i.imgur.com/TmzZN8h.png">
+    <div class="info">  
+      Actress <br>
+      Known for: Vampire Diaries <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173008108491132999">
+  <div class="grid-item brunette green white college adult sfw alternative" style="position: absolute; left: 270px; top: 12870px;">
+    <div class="name">Krysten Ritter</div>
+    <img src="https://i.imgur.com/b1Axnlo.png">
+    <div class="info">  
+      Actress <br>
+      Known for: Jessica Jones, Breaking Bad <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173009591789957141">
+  <div class="grid-item brunette brown white college adult sfw" style="position: absolute; left: 540px; top: 12870px;">
+    <div class="name">Jord627</div>
+    <img src="https://i.imgur.com/NDU2viW.jpg">
+    <div class="info">  
+      Instagram Model / TikTok <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173011274087551137">
+  <div class="grid-item brunette green white college adult sfw petite uga" style="position: absolute; left: 0px; top: 13200px;">
+    <div class="name">Margaret Qualley</div>
+    <img src="https://i.imgur.com/eXD5U62.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Death Stranding, OUAT in Hollywood <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1173014360512286821">
+  <div class="grid-item blonde green white college adult porn bimbo" style="position: absolute; left: 270px; top: 13200px;">
+    <div class="name">Scarlett Chase</div>
+    <img src="https://i.imgur.com/N2zQr7k.png">
+    <div class="info">  
+      Youtuber / Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173017709311696916">
+  <div class="grid-item redhead brown white teen college porn petite sarah uga" style="position: absolute; left: 540px; top: 13200px;">
+    <div class="name">Jia Lissa</div>
+    <img src="https://i.imgur.com/kTdelPX.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173025765969891448">
+  <div class="grid-item brunette brown white teen college nudes sarah uga" style="position: absolute; left: 0px; top: 13530px;">
+    <div class="name">Krystal Boyd</div>
+    <img src="https://i.imgur.com/VreCZoK.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173034522296725544">
+  <div class="grid-item brunette brown white college adult sfw" style="position: absolute; left: 270px; top: 13530px;">
+    <div class="name">Anne Hathaway</div>
+    <img src="https://i.imgur.com/Zl36TzD.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Interstellar, Princess Diaries <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173048263016976414">
+  <div class="grid-item blonde blue white college adult porn sarah uga" style="position: absolute; left: 540px; top: 13530px;">
+    <div class="name">Nata Lee</div>
+    <img src="https://i.imgur.com/y0tGtUe.jpg">
+    <div class="info">  
+      Playboy / OnlyFans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1173082318391496795">
+  <div class="grid-item brunette brown white college adult sfw sarah uga" style="position: absolute; left: 0px; top: 13860px;">
+    <div class="name">Natalie Portman</div>
+    <img src="https://i.imgur.com/9pfy0GH.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Black Swan, Star Wars <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1173169728097886268">
+  <div class="grid-item brunette brown white college adult nudes uga petite" style="position: absolute; left: 270px; top: 13860px;">
+    <div class="name">Keira Knightley</div>
+    <img src="https://i.imgur.com/hceOH80.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Pirates of the Carribean <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173172822349197313">
+  <div class="grid-item brunette brown white college adult porn" style="position: absolute; left: 540px; top: 13860px;">
+    <div class="name">Allie Haze</div>
+    <img src="https://i.imgur.com/AjYoJaH.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173317624688558130">
+  <div class="grid-item brunette brown white college adult bimbo sfw" style="position: absolute; left: 0px; top: 14190px;">
+    <div class="name">Katiana Kay</div>
+    <img src="https://i.imgur.com/khBLf5s.jpg">
+    <div class="info">  
+      Instagram Model <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173322313823948810">
+  <div class="grid-item brunette green white college adult porn" style="position: absolute; left: 270px; top: 14190px;">
+    <div class="name">Bobbi Starr</div>
+    <img src="https://i.imgur.com/2lIUaG4.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173329892251799582">
+  <div class="grid-item brunette brown asian college porn" style="position: absolute; left: 540px; top: 14190px;">
+    <div class="name">Jessica Ly</div>
+    <img src="https://i.imgur.com/qG8EGEh.jpg">
+    <div class="info">  
+      Twitch Streamer / OnlyFans <br>
+      AsianBunnyX <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173334800027881502">
+  <div class="grid-item blonde brown white college adult porn " style="position: absolute; left: 0px; top: 14520px;">
+    <div class="name">Aria Banks</div>
+    <img src="https://i.imgur.com/RJwGurw.png">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173350074407997500">
+  <div class="grid-item blonde green white college adult sfw" style="position: absolute; left: 270px; top: 14520px;">
+    <div class="name">Carey Mulligan</div>
+    <img src="https://i.imgur.com/CAEXtqI.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Promising Young Woman, Doctor Who <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173352114236444722">
+  <div class="grid-item blonde blue white adult sfw uga tall" style="position: absolute; left: 540px; top: 14520px;">
+    <div class="name">Elizabeth Debicki</div>
+    <img src="https://i.imgur.com/jKawjsO.png">
+    <div class="info">  
+      Actress <br>
+      Known for: Night Manager, The Crown <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173358890914693211">
+  <div class="grid-item brunette brown white teen college porn sarah petite" style="position: absolute; left: 0px; top: 14850px;">
+    <div class="name">Molly Little</div>
+    <img src="https://i.imgur.com/FsVi1zM.png">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173393932403609651">
+  <div class="grid-item blonde blue white teen college porn" style="position: absolute; left: 270px; top: 14850px;">
+    <div class="name">Freya Mayer</div>
+    <img src="https://i.imgur.com/36cHZBu.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173400259951595650">
+  <div class="grid-item blonde brown white teen college sfw" style="position: absolute; left: 540px; top: 14850px;">
+    <div class="name">Chloe Grace Moretz</div>
+    <img src="https://i.imgur.com/rhIQROv.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Carrie, Kick-Ass <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1173411828181778512">
+  <div class="grid-item blonde blue white college porn petite" style="position: absolute; left: 0px; top: 15180px;">
+    <div class="name">Lily Bell</div>
+    <img src="https://i.imgur.com/N9jVoCQ.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1173418975623925850">
+  <div class="grid-item blonde green white college adult sfw uga" style="position: absolute; left: 270px; top: 15180px;">
+    <div class="name">Courtney Miller</div>
+    <img src="https://i.imgur.com/UujLzuF.png">
+    <div class="info">  
+      Youtuber <br>
+      Smosh <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211169121795051531">
+  <div class="grid-item blonde green white teen college adult sfw sarah uga bimbo" style="position: absolute; left: 540px; top: 15180px;">
+    <div class="name">Hayden Panettiere</div>
+    <img src="https://i.imgur.com/3DQiiTA.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Heroes, Until Dawn, Scream <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211188716752740383">
+  <div class="grid-item redhead dyed green white teen college adult sfw uga sarah alternative petite" style="position: absolute; left: 0px; top: 15510px;">
+    <div class="name">Saige Ryan</div>
+    <img src="https://i.imgur.com/I6Zc48Z.jpg">
+    <div class="info">  
+      Youtuber/Twitch Streamer <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211219797338226688">
+  <div class="grid-item brunette brown indian college adult porn uga sarah bimbo" style="position: absolute; left: 270px; top: 15510px;">
+    <div class="name">Mia Khalifa</div>
+    <img src="https://i.imgur.com/IS4XO8u.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1211234477544574976">
+  <div class="grid-item brunette brown white college adult porn petite" style="position: absolute; left: 540px; top: 15510px;">
+    <div class="name">Katie Fey</div>
+    <img src="https://i.imgur.com/tOYYRpD.jpg">
+    <div class="info">  
+      Pornstar / Model <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211245504608866360">
+  <div class="grid-item redhead dyed brown white college adult sfw alternative" style="position: absolute; left: 0px; top: 15840px;">
+    <div class="name">Luxlo</div>
+    <img src="https://i.imgur.com/Z3KcA7b.jpg">
+    <div class="info">  
+      Instagram model / Cosplayer <br>
+      luxlocosplay <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211246812774535188">
+  <div class="grid-item brunette green hispanic teen college adult sfw petite" style="position: absolute; left: 270px; top: 15840px;">
+    <div class="name">Lea Martinez</div>
+    <img src="https://i.imgur.com/hbg5Gel.jpg">
+    <div class="info">  
+      Instagram Model / Cosplayer <br>
+      slayeas <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211413039161679883">
+  <div class="grid-item redhead green white college adult sfw uga sarah muscular" style="position: absolute; left: 540px; top: 15840px;">
+    <div class="name">Brianna Torres</div>
+    <img src="https://i.imgur.com/YWYvbq5.jpg">
+    <div class="info">  
+      Instagram Model / Cosplayer <br>
+      missbrisolo <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211417284359491624">
+  <div class="grid-item redhead green white college adult porn petite" style="position: absolute; left: 0px; top: 16170px;">
+    <div class="name">Lola Fae</div>
+    <img src="https://i.imgur.com/BiIBB4x.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211419881191243876">
+  <div class="grid-item brunette brown white teen college adult porn petite" style="position: absolute; left: 270px; top: 16170px;">
+    <div class="name">Ginebra Bellucci</div>
+    <img src="https://i.imgur.com/WWuKRJI.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1211489917449015307">
+  <div class="grid-item brunette green white teen college adult sfw uga sarah" style="position: absolute; left: 540px; top: 16170px;">
+    <div class="name">Alison Brie</div>
+    <img src="https://i.imgur.com/EaN9oCN.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Community, GLOW <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211500883385258095">
+  <div class="grid-item blonde blue white college adult sfw uga sarah bimbo" style="position: absolute; left: 0px; top: 16500px;">
+    <div class="name">Gillian Jacobs</div>
+    <img src="https://i.imgur.com/4qY1I3t.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Community, The Box <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211504059660369921">
+  <div class="grid-item blonde blue white adult mature sfw" style="position: absolute; left: 270px; top: 16500px;">
+    <div class="name">Emily Blunt</div>
+    <img src="https://i.imgur.com/5cFvoit.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Edge of Tomorrow, A Quiet Place <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211519968135352360">
+  <div class="grid-item blonde blue white college adult mature porn uga" style="position: absolute; left: 540px; top: 16500px;">
+    <div class="name">Lorelei Lee</div>
+    <img src="https://i.imgur.com/6fNnLJI.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211575021915603015">
+  <div class="grid-item brunette blue other white teen college sfw bimbo" style="position: absolute; left: 0px; top: 16830px;">
+    <div class="name">Vanessa Reinhardt</div>
+    <img src="https://i.imgur.com/KCSqFqd.jpg">
+    <div class="info">  
+      Instagram Model <br>
+      vanessa.rhd <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1211579722534883369">
+  <div class="grid-item blonde green white teen college adult nudes bimbo" style="position: absolute; left: 270px; top: 16830px;">
+    <div class="name">Faith Liannee</div>
+    <img src="https://i.imgur.com/kjaq96n.jpg">
+    <div class="info">  
+      Instagram / Onlyfans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211903406877450381">
+  <div class="grid-item blonde green white teen college adult porn bimbo" style="position: absolute; left: 540px; top: 16830px;">
+    <div class="name">Milla Royce</div>
+    <img src="https://i.imgur.com/Dg69t8T.jpg">
+    <div class="info">  
+      Onlyfans Model <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211912929809666128">
+  <div class="grid-item brunette brown white teen college adult nudes uga sarah petite" style="position: absolute; left: 0px; top: 17160px;">
+    <div class="name">Mila Azul</div>
+    <img src="https://i.imgur.com/oMqVtas.jpg">
+    <div class="info">  
+      Model / Onlyfans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211942559723560970">
+  <div class="grid-item brunette brown white college adult porn bimbo" style="position: absolute; left: 270px; top: 17160px;">
+    <div class="name">Alena Kosha</div>
+    <img src="https://i.imgur.com/E8di3CN.jpg">
+    <div class="info">  
+      Instagram / OnlyFans <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211945730403737640">
+  <div class="grid-item blonde blue white teen college adult porn petite" style="position: absolute; left: 540px; top: 17160px;">
+    <div class="name">Elsa Jean</div>
+    <img src="https://i.imgur.com/SElEXKk.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1211949317879762954">
+  <div class="grid-item brunette brown white adult mature porn uga bimbo" style="position: absolute; left: 0px; top: 17490px;">
+    <div class="name">Valentina Nappi</div>
+    <img src="https://i.imgur.com/fr0TLz7.jpg">
+    <div class="info">  
+      Pornstar <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229216257652424806">
+  <div class="grid-item blonde brown white asian teen college adult sfw petite uga sarah" style="position: absolute; left: 270px; top: 17490px;">
+    <div class="name">Maya Higa</div>
+    <img src="https://i.imgur.com/ysvF7i8.jpg">
+    <div class="info">  
+      Twitch Streamer <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229224858496274492">
+  <div class="grid-item brunette green white teen college adult sfw petite uga sarah" style="position: absolute; left: 540px; top: 17490px;">
+    <div class="name">Hailee Steinfield</div>
+    <img src="https://i.imgur.com/uu4Ws4r.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Hawkeye, Bumblebee <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229229921398689903">
+  <div class="grid-item brunette blue white college adult nudes uga sarah" style="position: absolute; left: 0px; top: 17820px;">
+    <div class="name">Alexandra Daddario</div>
+    <img src="https://i.imgur.com/3KXbzRt.jpg">
+    <div class="info">  
+      Actress <br>
+      Known for: Bones, True Detective <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229230120829718549">
+  <div class="grid-item blonde brown white teen college adult sfw petite uga sarah" style="position: absolute; left: 270px; top: 17820px;">
+    <div class="name">Emma Watson</div>
+    <img src="https://i.imgur.com/M9L4bpn.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Harry Potter, Ballet Shoes <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229231703810375770">
+  <div class="grid-item redhead blue white teen college adult sfw petite uga" style="position: absolute; left: 540px; top: 17820px;">
+    <div class="name">Annalise Basso</div>
+    <img src="https://i.imgur.com/UI2F8qk.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Snowpiercer <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1229235747395993663">
+  <div class="grid-item blonde blue white teen college adult sfw uga" style="position: absolute; left: 0px; top: 18150px;">
+    <div class="name">Melissa Benoist</div>
+    <img src="https://i.imgur.com/cKIo4ij.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Supergirl, Glee, Whiplash <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229238461249359973">
+  <div class="grid-item blonde green white college adult sfw sarah" style="position: absolute; left: 270px; top: 18150px;">
+    <div class="name">Lili Reinhart</div>
+    <img src="https://i.imgur.com/MU1Hlz4.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Riverdale <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229240301206372495">
+  <div class="grid-item blonde blue white college adult sfw petite uga sarah" style="position: absolute; left: 540px; top: 18150px;">
+    <div class="name">Elizabeth Turner</div>
+    <img src="https://i.imgur.com/460z15a.jpeg">
+    <div class="info">  
+      Model <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229240855420997752">
+  <div class="grid-item blonde green white teen college adult sfw uga sarah" style="position: absolute; left: 0px; top: 18480px;">
+    <div class="name">Emma Stone</div>
+    <img src="https://i.imgur.com/Pg5qapI.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Easy A, Amazing Spider-Man, Poor Things <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229242300962701382">
+  <div class="grid-item blonde brown white teen college adult nudes petite alternative" style="position: absolute; left: 270px; top: 18480px;">
+    <div class="name">Stephi Lee</div>
+    <img src="https://i.imgur.com/XN1PjhB.jpeg">
+    <div class="info">  
+      Youtuber <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1229242529946406994">
+  <div class="grid-item brunette brown white teen college adult sfw petite tall uga" style="position: absolute; left: 540px; top: 18480px;">
+    <div class="name">Squidinkidink</div>
+    <img src="https://i.imgur.com/Z75430P.jpeg">
+    <div class="info">  
+      Twitch Streamer <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229247100655505419">
+  <div class="grid-item brunette brown white teen college adult sfw uga sarah" style="position: absolute; left: 0px; top: 18810px;">
+    <div class="name">Anna Kendrick</div>
+    <img src="https://i.imgur.com/88Icata.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Scott Pilgrim vs The World, Pitch Perfect <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229248999761121360">
+  <div class="grid-item blonde blue white teen college adult nudes petite" style="position: absolute; left: 270px; top: 18810px;">
+    <div class="name">Taylor Momsen</div>
+    <img src="https://i.imgur.com/8m9IuWs.jpeg">
+    <div class="info">  
+      Actress / Musician <br>
+      Known for: Gossip <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229250995142262926">
+  <div class="grid-item blonde blue white teen college adult sfw petite tall uga sarah" style="position: absolute; left: 540px; top: 18810px;">
+    <div class="name">Ava Elizabeth Philippe</div>
+    <img src="https://i.imgur.com/1wNNw5v.jpeg">
+    <div class="info">  
+      Model <br>
+      Daughter of Reese Wetherspoon <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229251483925610547">
+  <div class="grid-item brunette brown hispanic teen college adult sfw petite uga sarah alternative" style="position: absolute; left: 0px; top: 19140px;">
+    <div class="name">Jenna Ortega</div>
+    <img src="https://i.imgur.com/3B34QCJ.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: You, Wednesday <br>
+    </div>
+  </div>
+</a>
+
+<a href="discord://discord.com/channels/1155599788646076549/1229263918342471760">
+  <div class="grid-item brunette green white teen college adult sfw chubby uga" style="position: absolute; left: 270px; top: 19140px;">
+    <div class="name">Kat Dennings</div>
+    <img src="https://i.imgur.com/UzdlVTF.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Two Broke Girls, Wandavision <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229266198588424313">
+  <div class="grid-item brunette brown white college adult nudes sarah" style="position: absolute; left: 540px; top: 19140px;">
+    <div class="name">Helga Lovekaty</div>
+    <img src="https://i.imgur.com/auQXCmA.jpeg">
+    <div class="info">  
+      Model <br>
+       <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229266926920798238">
+  <div class="grid-item redhead green white teen college adult sfw sarah" style="position: absolute; left: 0px; top: 19470px;">
+    <div class="name">Katherine Mcnamara</div>
+    <img src="https://i.imgur.com/JduFdBj.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Arrow, Shadowhunters <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229268077989072936">
+  <div class="grid-item blonde green white teen college adult sfw bimbo uga" style="position: absolute; left: 270px; top: 19470px;">
+    <div class="name">Tamsin Egerton</div>
+    <img src="https://i.imgur.com/xnZUEM6.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Camelot, St Trinians <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229308717636386836">
+  <div class="grid-item blonde blue white college adult sfw" style="position: absolute; left: 540px; top: 19470px;">
+    <div class="name">Antonia Bernath</div>
+    <img src="https://i.imgur.com/oy6IFsZ.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: St Trinians <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229309809187094558">
+  <div class="grid-item blonde blue white college adult sfw petite tall uga" style="position: absolute; left: 0px; top: 19800px;">
+    <div class="name">Clara Pageat</div>
+    <img src="https://i.imgur.com/Yi8d1zE.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Black Sails <br>
+    </div>
+  </div>
+</a>
+
+
+<a href="discord://discord.com/channels/1155599788646076549/1229310735771893791">
+  <div class="grid-item brunette blue white teen college adult sfw" style="position: absolute; left: 270px; top: 19800px;">
+    <div class="name">Kaya Scodelario</div>
+    <img src="https://i.imgur.com/txpmIoj.jpeg">
+    <div class="info">  
+      Actress <br>
+      Known for: Skins, Maze Runner <br>
+    </div>
+  </div>
+</a>
+
+</div> <!---END GRID--->
+ 
+<a href="https://www.hailthehelpful.tumblr.com">
+  <div id="credit">hailthehelpful.</div>
+</a>
+ 
+ 
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target" src="https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://sudirectory.tumblr.com"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://sudirectory.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script type="text/javascript" nonce="">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1795114458&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3N1ZGlyZWN0b3J5LnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIn0=&U=LHBFEBBINM&K=1cce7aa86eba0cfc1e76de2ef816ededbfc2b192a7af7a41390c2c965fdefb2a&R=https%3A%2F%2Fwww.tumblr.com%2F'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1795114458&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3N1ZGlyZWN0b3J5LnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIiwibm9zY3JpcHQiOjF9&U=LHBFEBBINM&K=1b5dd19cc4a06cd5016e8b8bdd71343dc12c7b33d7eb175264bb1c2ec527370d&R=https%3A%2F%2Fwww.tumblr.com%2F"></noscript><iframe id="blue-space-api-calls-iframe" src="https://www.tumblr.com/dashboard/iframe/monetization?tumblelog=sudirectory&amp;src=https%3A%2F%2Fsudirectory.tumblr.com%2F" style="display: none;" sandbox="allow-scripts allow-same-origin"></iframe><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" crossorigin="anonymous" nonce=""></script><!--
+Open GAM console on the page:
+1. Open browser JS console
+2. Run `googletag.openConsole()`
+3. GAM debug UI should appear and tell some more info on the ad itself and its fulfillment status
+--><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=f5761126dea8c369b2b3f674d0ef3362"></script>
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true" style="visibility: visible !important;"></grammarly-desktop-integration></html>
