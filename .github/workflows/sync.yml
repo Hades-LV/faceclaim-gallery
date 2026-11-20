@@ -1,4 +1,30 @@
-- name: Commit and push new faceclaims
+name: Sync Discord Forum
+
+on:
+  workflow_dispatch: # Creates the manual "Run workflow" button
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Discord sync script
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          FORUM_CHANNEL_ID: ${{ secrets.FORUM_CHANNEL_ID }}
+        run: python sync_discord.py
+
+      - name: Commit and push new faceclaims
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
@@ -9,7 +35,7 @@
             git commit -m "Sync faceclaim data.json"
           fi
 
-          # Push staged/untracked images in batches of 150 files to avoid HTTP 500 timeouts
+          # Push untracked images in batches of 150 files to avoid HTTP 500 timeouts
           while true; do
             BATCH=$(git ls-files --others --exclude-standard images/ | head -n 150)
             if [ -z "$BATCH" ]; then
