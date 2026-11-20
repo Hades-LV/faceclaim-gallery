@@ -21,8 +21,8 @@
     h1, h2, h3 { margin-top: 0; }
     input[type="text"], select { width: 100%; padding: 8px 10px; background: var(--bg); border: 1px solid var(--border); color: var(--text); border-radius: 6px; margin-bottom: 12px; box-sizing: border-box; }
     .display-bar select, .display-bar button { width: auto; margin-bottom: 0; }
-    button { background: var(--accent); color: white; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 6px; }
-    button.secondary { background: #2e2e3a; color: var(--text); }
+    button, a.button { background: var(--accent); color: white; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 6px; }
+    button.secondary, a.button.secondary { background: #2e2e3a; color: var(--text); }
     button.danger { background: #d83c3e; padding: 4px 8px; font-size: 11px; }
     .cat-block { margin-bottom: 18px; border-bottom: 1px solid var(--border); padding-bottom: 12px; }
     .cat-title { font-weight: 700; font-size: 14px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; }
@@ -136,6 +136,7 @@
       box-shadow: 0 20px 50px rgba(0, 0, 0, 0.75);
     }
     .entry-modal-header {
+      flex-shrink: 0;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -167,6 +168,8 @@
       flex-wrap: wrap;
     }
     .entry-modal-body {
+      flex: 1 1 auto;
+      min-height: 0;
       padding: 20px;
       overflow-y: auto;
       display: grid;
@@ -204,12 +207,14 @@
       background: #0b0b0e;
     }
     .entry-notes-box {
+      width: auto;
       background: var(--bg);
       border: 1px solid var(--border);
       border-radius: 10px;
       padding: 14px 16px;
       position: sticky;
       top: 0;
+      box-sizing: border-box;
     }
     .entry-notes-box h3 {
       font-size: 14px;
@@ -298,7 +303,7 @@
       }
 
       /* Slide-over Filters Drawer */
-      aside {
+      aside#filterDrawer {
         position: fixed;
         top: 0;
         left: 0;
@@ -314,7 +319,7 @@
         padding: 16px;
       }
 
-      aside.open {
+      aside#filterDrawer.open {
         transform: translateX(0);
       }
 
@@ -332,7 +337,7 @@
         font-size: 18px;
       }
 
-      aside > h2 {
+      aside#filterDrawer > h2 {
         display: none;
       }
 
@@ -510,7 +515,7 @@
         display: none !important;
       }
 
-      /* Mobile Entry Gallery Modal */
+      /* Mobile Entry Gallery Modal — full vertical scroll for photos + notes */
       .entry-modal-backdrop {
         padding: 0;
       }
@@ -521,9 +526,13 @@
         max-height: 100dvh;
         border-radius: 0;
         border: none;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
       }
 
       .entry-modal-header {
+        flex-shrink: 0;
         padding: 12px 14px;
       }
 
@@ -532,18 +541,28 @@
       }
 
       .entry-modal-body {
-        padding: 12px;
-        grid-template-columns: minmax(0, 1fr);
+        flex: 1 1 auto;
+        min-height: 0;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        display: flex;
+        flex-direction: column;
         gap: 14px;
+        padding: 12px 12px 36px 12px;
       }
 
       .entry-photos-grid {
+        display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 8px;
+        flex-shrink: 0;
       }
 
       .entry-notes-box {
         position: static;
+        width: 100%;
+        flex-shrink: 0;
+        margin-bottom: 12px;
       }
     }
   </style>
@@ -657,16 +676,17 @@
           <span id="entryModalCount" class="entry-modal-count"></span>
         </div>
         <div class="entry-modal-actions">
+          <button type="button" id="jumpNotesBtn" class="secondary hidden" onclick="jumpToEntryNotes()">Thread Notes</button>
           <a id="entryDiscordLink" class="button" href="#">Open Discord Thread</a>
           <button type="button" class="secondary" onclick="closeEntryModal()">Back to Gallery</button>
         </div>
       </div>
       <div id="entryModalBody" class="entry-modal-body">
         <div id="entryPhotosGrid" class="entry-photos-grid"></div>
-        <aside id="entryNotesBox" class="entry-notes-box hidden">
+        <div id="entryNotesBox" class="entry-notes-box hidden">
           <h3>Thread Notes</h3>
           <p id="entryNotesText" class="entry-notes-text"></p>
-        </aside>
+        </div>
       </div>
     </div>
   </div>
@@ -704,17 +724,38 @@
         : `discord://-${firstPostUrl}`;
     }
 
+    function normalizeMediaKey(src) {
+      return String(src || '')
+        .trim()
+        .replace(/^\.\//, '')
+        .split('?')[0]
+        .toLowerCase();
+    }
+
     function getEntryPhotos(entry) {
       const list = [];
+      const seen = new Set();
+
+      const addPhoto = (src) => {
+        if (!src) return;
+        const key = normalizeMediaKey(src);
+        if (!key || seen.has(key)) return;
+        seen.add(key);
+        list.push(src);
+      };
+
+      if (entry.image) addPhoto(entry.image);
       if (Array.isArray(entry.images)) {
-        entry.images.forEach(src => {
-          if (src && !list.includes(src)) list.push(src);
-        });
-      }
-      if (entry.image && !list.includes(entry.image)) {
-        list.unshift(entry.image);
+        entry.images.forEach(addPhoto);
       }
       return list;
+    }
+
+    function jumpToEntryNotes() {
+      const notesBox = document.getElementById('entryNotesBox');
+      if (notesBox && !notesBox.classList.contains('hidden')) {
+        notesBox.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
     }
 
     function openEntryModal(entryId) {
@@ -759,14 +800,18 @@
       const notesText = (entry.notes || '').trim();
       const notesBox = document.getElementById('entryNotesBox');
       const notesBody = document.getElementById('entryModalBody');
+      const jumpNotesBtn = document.getElementById('jumpNotesBtn');
+
       if (notesText) {
         document.getElementById('entryNotesText').textContent = notesText;
         notesBox.classList.remove('hidden');
         notesBody.classList.remove('no-notes');
+        if (jumpNotesBtn) jumpNotesBtn.classList.remove('hidden');
       } else {
         document.getElementById('entryNotesText').textContent = '';
         notesBox.classList.add('hidden');
         notesBody.classList.add('no-notes');
+        if (jumpNotesBtn) jumpNotesBtn.classList.add('hidden');
       }
 
       document.getElementById('entryModalBackdrop').classList.remove('hidden');
