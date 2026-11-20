@@ -21,8 +21,8 @@
     h1, h2, h3 { margin-top: 0; }
     input[type="text"], select { width: 100%; padding: 8px 10px; background: var(--bg); border: 1px solid var(--border); color: var(--text); border-radius: 6px; margin-bottom: 12px; box-sizing: border-box; }
     .display-bar select, .display-bar button { width: auto; margin-bottom: 0; }
-    button { background: var(--accent); color: white; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; }
-    button.secondary { background: #2e2e3a; }
+    button { background: var(--accent); color: white; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 6px; }
+    button.secondary { background: #2e2e3a; color: var(--text); }
     button.danger { background: #d83c3e; padding: 4px 8px; font-size: 11px; }
     .cat-block { margin-bottom: 18px; border-bottom: 1px solid var(--border); padding-bottom: 12px; }
     .cat-title { font-weight: 700; font-size: 14px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; }
@@ -49,7 +49,7 @@
       padding: 8px 12px;
       gap: 14px;
     }
-    .grid.list-view .card > a:first-child {
+    .grid.list-view .card > .card-trigger:first-child {
       flex-shrink: 0;
       width: 64px;
     }
@@ -69,7 +69,7 @@
 
     .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; transition: transform 0.15s; display: flex; flex-direction: column; min-width: 0; }
     .card:hover { transform: translateY(-3px); border-color: var(--accent); }
-    .card a { text-decoration: none; color: inherit; display: block; }
+    .card-trigger { text-decoration: none; color: inherit; display: block; cursor: pointer; }
     .card img { width: 100%; aspect-ratio: 1 / 1; object-fit: var(--img-fit); background: #0b0b0e; display: block; }
     .card-body { padding: 10px; }
     .card-title { font-weight: 600; font-size: 15px; margin-bottom: 6px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
@@ -81,7 +81,7 @@
     .display-bar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; background: var(--card); border: 1px solid var(--border); padding: 10px 14px; border-radius: 8px; margin-bottom: 20px; font-size: 13px; }
     .display-control { display: flex; align-items: center; gap: 6px; color: var(--muted); }
     .edit-panel { background: #252530; padding: 12px; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--accent); }
-    .hidden { display: none; }
+    .hidden { display: none !important; }
 
     /* Mobile-only elements hidden on desktop */
     .mobile-only { display: none; }
@@ -111,6 +111,158 @@
       border-radius: 6px;
     }
 
+    /* Entry Gallery Modal */
+    .entry-modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(8, 8, 12, 0.82);
+      backdrop-filter: blur(4px);
+      z-index: 2000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      box-sizing: border-box;
+    }
+    .entry-modal {
+      width: min(1100px, 100%);
+      max-height: 90vh;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.75);
+    }
+    .entry-modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      background: #181820;
+      flex-wrap: wrap;
+    }
+    .entry-modal-title-group {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      min-width: 0;
+    }
+    .entry-modal-title {
+      margin: 0;
+      font-size: 20px;
+    }
+    .entry-modal-count {
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .entry-modal-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .entry-modal-body {
+      padding: 20px;
+      overflow-y: auto;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 300px;
+      gap: 20px;
+      align-items: start;
+    }
+    .entry-modal-body.no-notes {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .entry-photos-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+      gap: 12px;
+    }
+    .entry-photo-tile {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      padding: 0;
+      cursor: pointer;
+      display: block;
+      transition: transform 0.15s, border-color 0.15s;
+    }
+    .entry-photo-tile:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent);
+    }
+    .entry-photo-tile img {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: var(--img-fit);
+      display: block;
+      background: #0b0b0e;
+    }
+    .entry-notes-box {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      position: sticky;
+      top: 0;
+    }
+    .entry-notes-box h3 {
+      font-size: 14px;
+      margin: 0 0 10px 0;
+      color: var(--text);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px;
+    }
+    .entry-notes-text {
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-size: 13px;
+      line-height: 1.5;
+      color: #d6d6e2;
+      margin: 0;
+      font-family: inherit;
+    }
+    .entry-empty-state {
+      color: var(--muted);
+      font-size: 14px;
+      padding: 24px;
+      text-align: center;
+      background: var(--bg);
+      border: 1px dashed var(--border);
+      border-radius: 8px;
+    }
+
+    /* Fullscreen Single Photo Lightbox inside Entry Modal */
+    .lightbox-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.92);
+      z-index: 2500;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      box-sizing: border-box;
+    }
+    .lightbox-backdrop img {
+      max-width: 94vw;
+      max-height: 88vh;
+      object-fit: contain;
+      border-radius: 8px;
+      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.8);
+    }
+    .lightbox-close {
+      position: fixed;
+      top: 16px;
+      right: 16px;
+      z-index: 2510;
+    }
+
     /* =========================================================
        MOBILE INTERFACE (<= 768px) — PC layout above is untouched
        ========================================================= */
@@ -121,7 +273,8 @@
         overflow-x: hidden;
       }
 
-      body.drawer-open {
+      body.drawer-open,
+      body.modal-open {
         overflow: hidden;
       }
 
@@ -234,7 +387,6 @@
         font-size: 12px;
       }
 
-      /* Dedicated mobile search bar right under header */
       .mobile-search-wrap {
         display: flex;
         gap: 8px;
@@ -244,7 +396,7 @@
 
       .mobile-search-wrap input[type="text"] {
         margin-bottom: 0;
-        font-size: 15px; /* prevents iOS Safari zoom on focus */
+        font-size: 15px;
         padding: 9px 12px;
       }
 
@@ -261,7 +413,6 @@
         font-size: 13px;
       }
 
-      /* Display bar collapsed by default on mobile; expands when toggled */
       .display-bar {
         display: none;
         grid-template-columns: 1fr 1fr;
@@ -304,7 +455,6 @@
         margin-bottom: 12px;
       }
 
-      /* Default to 2 columns on mobile for comfortable browsing */
       .grid {
         grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
         gap: 10px;
@@ -325,7 +475,7 @@
         gap: 10px;
       }
 
-      .grid.list-view .card > a:first-child {
+      .grid.list-view .card > .card-trigger:first-child {
         width: 56px;
       }
 
@@ -358,6 +508,42 @@
 
       #hoverPreview {
         display: none !important;
+      }
+
+      /* Mobile Entry Gallery Modal */
+      .entry-modal-backdrop {
+        padding: 0;
+      }
+
+      .entry-modal {
+        width: 100%;
+        height: 100dvh;
+        max-height: 100dvh;
+        border-radius: 0;
+        border: none;
+      }
+
+      .entry-modal-header {
+        padding: 12px 14px;
+      }
+
+      .entry-modal-title {
+        font-size: 17px;
+      }
+
+      .entry-modal-body {
+        padding: 12px;
+        grid-template-columns: minmax(0, 1fr);
+        gap: 14px;
+      }
+
+      .entry-photos-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .entry-notes-box {
+        position: static;
       }
     }
   </style>
@@ -462,19 +648,166 @@
     <div class="grid" id="galleryGrid"></div>
   </main>
 
+  <!-- Entry Photo Gallery Modal -->
+  <div id="entryModalBackdrop" class="entry-modal-backdrop hidden" onclick="handleModalBackdropClick(event)">
+    <div class="entry-modal" role="dialog" aria-modal="true" aria-labelledby="entryModalTitle">
+      <div class="entry-modal-header">
+        <div class="entry-modal-title-group">
+          <h2 id="entryModalTitle" class="entry-modal-title"></h2>
+          <span id="entryModalCount" class="entry-modal-count"></span>
+        </div>
+        <div class="entry-modal-actions">
+          <a id="entryDiscordLink" class="button" href="#">Open Discord Thread</a>
+          <button type="button" class="secondary" onclick="closeEntryModal()">Back to Gallery</button>
+        </div>
+      </div>
+      <div id="entryModalBody" class="entry-modal-body">
+        <div id="entryPhotosGrid" class="entry-photos-grid"></div>
+        <aside id="entryNotesBox" class="entry-notes-box hidden">
+          <h3>Thread Notes</h3>
+          <p id="entryNotesText" class="entry-notes-text"></p>
+        </aside>
+      </div>
+    </div>
+  </div>
+
+  <!-- Enlarged Photo Lightbox -->
+  <div id="photoLightbox" class="lightbox-backdrop hidden" onclick="closePhotoLightbox()">
+    <button type="button" class="secondary lightbox-close" onclick="closePhotoLightbox()">Close Photo</button>
+    <img id="photoLightboxImg" src="" alt="Full photo" onclick="event.stopPropagation()" />
+  </div>
+
   <!-- Floating Full-Size Preview Container -->
   <div id="hoverPreview"><img id="hoverPreviewImg" src="" alt="Preview" /></div>
 
   <script>
+    const FALLBACK_IMG = 'https://placehold.co/300x300/1e1e26/9a9aa8?text=No+Image';
     let db = { categories: {}, entries: [] };
     let activeFilters = {};
     let editMode = false;
     let showCardTags = true;
     let mobileDisplayExpanded = false;
+    let savedScrollY = 0;
 
     const previewBox = document.getElementById('hoverPreview');
     const previewImg = document.getElementById('hoverPreviewImg');
     const isMobileScreen = () => window.matchMedia('(max-width: 768px)').matches;
+
+    function buildDiscordHref(entry) {
+      const cleanPath = (entry.url || '').replace(/^https?:\/\/(ptb\.|canary\.)?discord\.com/, '');
+      const normalizedPath = cleanPath.startsWith('/') ? cleanPath : `/${cleanPath}`;
+      const firstPostUrl = normalizedPath.endsWith(`/${entry.id}`)
+        ? normalizedPath
+        : `${normalizedPath}/${entry.id}`;
+      return isMobileScreen()
+        ? `https://discord.com${firstPostUrl}`
+        : `discord://-${firstPostUrl}`;
+    }
+
+    function getEntryPhotos(entry) {
+      const list = [];
+      if (Array.isArray(entry.images)) {
+        entry.images.forEach(src => {
+          if (src && !list.includes(src)) list.push(src);
+        });
+      }
+      if (entry.image && !list.includes(entry.image)) {
+        list.unshift(entry.image);
+      }
+      return list;
+    }
+
+    function openEntryModal(entryId) {
+      const entry = db.entries.find(e => String(e.id) === String(entryId));
+      if (!entry) return;
+
+      hidePreview();
+      savedScrollY = window.scrollY || window.pageYOffset || 0;
+
+      document.getElementById('entryModalTitle').textContent = entry.name;
+      const photos = getEntryPhotos(entry);
+      document.getElementById('entryModalCount').textContent =
+        photos.length === 1 ? '1 photo' : `${photos.length} photos`;
+
+      const discordBtn = document.getElementById('entryDiscordLink');
+      discordBtn.href = buildDiscordHref(entry);
+      if (isMobileScreen()) {
+        discordBtn.setAttribute('target', '_blank');
+        discordBtn.setAttribute('rel', 'noopener noreferrer');
+      } else {
+        discordBtn.removeAttribute('target');
+        discordBtn.removeAttribute('rel');
+      }
+
+      const photosGrid = document.getElementById('entryPhotosGrid');
+      photosGrid.innerHTML = '';
+
+      if (photos.length === 0) {
+        photosGrid.innerHTML = `<div class="entry-empty-state">No photos synced from this thread yet.</div>`;
+      } else {
+        photos.forEach((src, idx) => {
+          const tile = document.createElement('button');
+          tile.type = 'button';
+          tile.className = 'entry-photo-tile';
+          tile.title = 'Click to view larger';
+          tile.innerHTML = `<img src="${src}" alt="${entry.name} photo ${idx + 1}" onerror="this.src='${FALLBACK_IMG}'" />`;
+          tile.onclick = () => openPhotoLightbox(src, `${entry.name} photo ${idx + 1}`);
+          photosGrid.appendChild(tile);
+        });
+      }
+
+      const notesText = (entry.notes || '').trim();
+      const notesBox = document.getElementById('entryNotesBox');
+      const notesBody = document.getElementById('entryModalBody');
+      if (notesText) {
+        document.getElementById('entryNotesText').textContent = notesText;
+        notesBox.classList.remove('hidden');
+        notesBody.classList.remove('no-notes');
+      } else {
+        document.getElementById('entryNotesText').textContent = '';
+        notesBox.classList.add('hidden');
+        notesBody.classList.add('no-notes');
+      }
+
+      document.getElementById('entryModalBackdrop').classList.remove('hidden');
+      document.body.classList.add('modal-open');
+      notesBody.scrollTop = 0;
+    }
+
+    function closeEntryModal() {
+      closePhotoLightbox();
+      document.getElementById('entryModalBackdrop').classList.add('hidden');
+      document.body.classList.remove('modal-open');
+      window.scrollTo({ top: savedScrollY, behavior: 'instant' });
+    }
+
+    function handleModalBackdropClick(e) {
+      if (e.target.id === 'entryModalBackdrop') {
+        closeEntryModal();
+      }
+    }
+
+    function openPhotoLightbox(src, altText) {
+      const lbImg = document.getElementById('photoLightboxImg');
+      lbImg.src = src;
+      lbImg.alt = altText || 'Full photo';
+      document.getElementById('photoLightbox').classList.remove('hidden');
+    }
+
+    function closePhotoLightbox() {
+      document.getElementById('photoLightbox').classList.add('hidden');
+      document.getElementById('photoLightboxImg').src = '';
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        if (!document.getElementById('photoLightbox').classList.contains('hidden')) {
+          closePhotoLightbox();
+        } else if (!document.getElementById('entryModalBackdrop').classList.contains('hidden')) {
+          closeEntryModal();
+        }
+      }
+    });
 
     function openMobileDrawer() {
       document.getElementById('filterDrawer').classList.add('open');
@@ -720,19 +1053,6 @@
         const card = document.createElement('div');
         card.className = 'card';
 
-        const cleanPath = entry.url.replace(/^https?:\/\/(ptb\.|canary\.)?discord\.com/, '');
-        const normalizedPath = cleanPath.startsWith('/') ? cleanPath : `/${cleanPath}`;
-        const firstPostUrl = normalizedPath.endsWith(`/${entry.id}`)
-          ? normalizedPath
-          : `${normalizedPath}/${entry.id}`;
-        const mobileMode = isMobileScreen();
-        const threadUrl = mobileMode
-          ? `https://discord.com${firstPostUrl}`
-          : `discord://-${firstPostUrl}`;
-        const linkAttrs = mobileMode
-          ? `href="${threadUrl}" target="_blank" rel="noopener noreferrer"`
-          : `href="${threadUrl}"`;
-
         let allTagsHtml = '';
         if (entry.tags) {
           Object.entries(entry.tags).forEach(([cat, tags]) => {
@@ -754,15 +1074,25 @@
         }
 
         card.innerHTML = `
-          <a ${linkAttrs} class="preview-trigger">
-            <img src="${entry.image || ''}" alt="${entry.name}" onerror="this.src='https://placehold.co/300x300/1e1e26/9a9aa8?text=No+Image'" />
-          </a>
+          <div class="card-trigger preview-trigger" role="button" tabindex="0">
+            <img src="${entry.image || ''}" alt="${entry.name}" onerror="this.src='${FALLBACK_IMG}'" />
+          </div>
           <div class="card-body">
-            <a ${linkAttrs} class="preview-trigger"><div class="card-title">${entry.name}</div></a>
+            <div class="card-trigger preview-trigger" role="button" tabindex="0"><div class="card-title">${entry.name}</div></div>
             <div class="card-tags">${allTagsHtml}</div>
             ${editControls}
           </div>
         `;
+
+        card.querySelectorAll('.card-trigger').forEach(el => {
+          el.addEventListener('click', () => openEntryModal(entry.id));
+          el.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              openEntryModal(entry.id);
+            }
+          });
+        });
 
         if (entry.image) {
           card.querySelectorAll('.preview-trigger').forEach(el => {
