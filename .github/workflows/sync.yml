@@ -1,32 +1,42 @@
-name: Sync Discord Forum
-
-on:
-  workflow_dispatch: # Creates the manual "Run workflow" button
-
-jobs:
-  sync:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run Discord sync script
-        env:
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-          FORUM_CHANNEL_ID: ${{ secrets.FORUM_CHANNEL_ID }}
-        run: python sync_discord.py
-
-      - name: Commit and push new faceclaims
+- name: Commit and push new faceclaims
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add data.json images/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Sync new faceclaims" && git push)
+          git config http.postBuffer 524288000
+
+          git add data.json
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Sync faceclaim data.json"
+          fi
+
+          # Push staged/untracked images in batches of 150 files to avoid HTTP 500 timeouts
+          while true; do
+            BATCH=$(git ls-files --others --exclude-standard images/ | head -n 150)
+            if [ -z "$BATCH" ]; then
+              break
+            fi
+            echo "$BATCH" | xargs -d '\n' git add --
+            COUNT=$(echo "$BATCH" | wc -l)
+            git commit -m "Sync faceclaim images batch ($COUNT files)"
+
+            ATTEMPT=1
+            until git pull --rebase origin main && git push; do
+              if [ "$ATTEMPT" -ge 3 ]; then
+                echo "Push failed after 3 attempts"
+                exit 1
+              fi
+              ATTEMPT=$((ATTEMPT + 1))
+              sleep 5
+            done
+          done
+
+          # Final push in case data.json was committed without new untracked images
+          ATTEMPT=1
+          until git pull --rebase origin main && git push; do
+            if [ "$ATTEMPT" -ge 3 ]; then
+              echo "Final push failed after 3 attempts"
+              exit 1
+            fi
+            ATTEMPT=$((ATTEMPT + 1))
+            sleep 5
+          done
