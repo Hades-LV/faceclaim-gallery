@@ -1,5 +1,6 @@
-import os
+import hashlib
 import json
+import os
 import re
 import time
 import requests
@@ -97,6 +98,12 @@ def sync_entry_from_thread(entry, tid, guild_id):
         images.insert(0, entry["image"])
         changed = True
 
+    seen_hashes = set()
+    for existing_path in images:
+        if existing_path and os.path.exists(existing_path):
+            with open(existing_path, "rb") as f:
+                seen_hashes.add(hashlib.md5(f.read()).hexdigest())
+
     existing_notes = (entry.get("notes") or "").strip()
     note_parts = [existing_notes] if existing_notes else []
 
@@ -105,32 +112,39 @@ def sync_entry_from_thread(entry, tid, guild_id):
 
     for msg in messages:
         for img_url in extract_message_image_urls(msg):
+            img_resp = requests.get(img_url, timeout=30)
+            if img_resp.status_code != 200:
+                continue
+
+            img_bytes = img_resp.content
+            img_hash = hashlib.md5(img_bytes).hexdigest()
+            if img_hash in seen_hashes:
+                continue
+
             ext = guess_ext(img_url)
-            # Reuse primary image path for the very first photo if already saved as {tid}.{ext}
             if len(images) == 0 and entry.get("image"):
                 local_path = entry["image"]
             else:
                 local_path = f"{IMG_DIR}/{tid}_{photo_counter}.{ext}"
 
-            while local_path in images and not (len(images) == 0 and local_path == entry.get("image")):
+            while local_path in images and local_path != entry.get("image"):
                 photo_counter += 1
                 local_path = f"{IMG_DIR}/{tid}_{photo_counter}.{ext}"
 
-            if local_path not in images or not os.path.exists(local_path):
-                img_resp = requests.get(img_url, timeout=30)
-                if img_resp.status_code == 200:
-                    with open(local_path, "wb") as img_file:
-                        img_file.write(img_resp.content)
-                    if local_path not in images:
-                        images.append(local_path)
-                        photo_counter += 1
-                        changed = True
+            with open(local_path, "wb") as img_file:
+                img_file.write(img_bytes)
 
-        text = re.sub(r"\s+", " ", (msg.get("content") or "").strip())
+            seen_hashes.add(img_hash)
+            if local_path not in images:
+                images.append(local_path)
+                photo_counter += 1
+                changed = True
+
         raw_text = (msg.get("content") or "").strip()
         if raw_text:
+            norm_text = re.sub(r"\s+", " ", raw_text)
             already_there = any(
-                raw_text == part or raw_text in part or (text and text in re.sub(r"\s+", " ", part))
+                raw_text == part or raw_text in part or (norm_text and norm_text in re.sub(r"\s+", " ", part))
                 for part in note_parts
             )
             if not already_there:
